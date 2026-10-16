@@ -1,6 +1,6 @@
 # Sister Brinn Sarjeant
 
-Human priest of the Holy Light. Twenty years old in year 25. Born in a dyer's cottage in the outer wards of Lordaeron's capital, in the last years of Terenas. Fifteen when the bells went wrong.
+Human priest of the Holy Light. Twenty years old in year 25. Born in a dyer's cottage in the outer wards of Lordaeron's capital, in the last years of Terenas. Fifteen when the bells went wrong. When the company is settled and the work is done for the day, she likes to fish.
 
 ## From the Yard
 
@@ -56,7 +56,7 @@ She is twenty now. The southern ground is a different book from the Lordaeron ya
 
 She will not say Undercity. Home, as it was, and then she does not say it again. She has not decided what she will do if the door opens and something answers to his name.
 
-The still is packed. The roll is packed beside it. The jar is empty. That is the part that hurts.
+The still is packed. The roll is packed beside it. The jar is empty. That is the part that hurts. When the day is done and the company is settled, she likes to fish.
 
 ## Maud's Influence
 
@@ -114,10 +114,11 @@ Year 25. Age locked at twenty.
 | **Height** | A little under average |
 | **Build** | Spare. Brewer's hands, not a soldier's. |
 | **Eyes** | Grey-green (mother's). In-game: Eye Color 10 |
-| **Hair** | Dark auburn. In-game: Hair 21 ( Styled), Hair Color 2 |
+| **Hair** | Dark auburn. In-game: Hair 21 (Styled), Hair Color 2 |
 | **Face** | Narrow. In-game: Face 1, Face Shape Narrow, Eyebrows Thin, Skin Color 9 |
 | **Alignment** | Respect, tenacity, compassion. Not Scarlet. |
 | **Background** | Lordaeron outer wards, dyer's cottage. Refugee roads. Field sister. |
+| **Quiet time** | Fishing, when the company is settled. |
 
 ## Proficiencies
 
@@ -125,8 +126,9 @@ Year 25. Age locked at twenty.
 | --- | --- |
 | **Alchemy** | The still. Washes and draughts. Not healing potions on Forever. |
 | **First Aid** | The cloth. Bandage roll. Separate book from the flask. |
+| **Fishing** | When the work is done. Quiet water, clean line. |
 | **Languages** | Common. The roadside version of the Light's three virtues. |
-| **Tools** | Still, labels, knife for leaves, linen torn to width. |
+| **Tools** | Still, labels, knife for leaves, linen torn to width, fishing line. |
 
 ## Key Facts
 
@@ -139,25 +141,45 @@ Year 25. Age locked at twenty.
 | **Empty jar** | Age 19. Maud's measure was not enough. Sealed empty. |
 | **Scarlet road** | Refused twice at 19. Will bind a bleeding knight. Will not march. |
 | **Will not say** | Undercity. |
+| **Quiet time** | Fishing, when the company is settled. |
 
-## TRP3
+## TRP3 (Copyable)
 
-Currently: Brewing what a company can carry. The still is packed. The bandage roll is packed beside it. Maud's three books, kept separate. She wears the Friar's Robes of the Light. The door home is shut.
+**Currently:**  
+Brewing what a company can carry. The still is packed. The bandage roll is packed beside it. Maud's three books, kept separate. She wears the Friar's Robes of the Light. The door home is shut. When the day is done she likes to fish.
 
-Glance 1 — Friar's Robes of the Light: Plain cloth. The mark the Church gives after the small test. She took the title the week after Maud died. No bishop.
+**Glance 1 — Friar's Robes of the Light:**  
+Plain cloth. The mark the Church gives after the small test. She took the title the week after Maud died. No bishop.
 
-Glance 2 — Empty jar: Labeled in her own hand. Maud's measure, not enough. She has not refilled it.
+**Glance 2 — Empty jar:**  
+Labeled in her own hand. Maud's measure, not enough. She has not refilled it.
 
-Glance 3 — Bandage roll: Cloth, not a draught. First Aid is its own book.
+**Glance 3 — Bandage roll:**  
+Cloth, not a draught. First Aid is its own book.
 
-Glance 4 — Gatherer's bag: Say the name before you use it. The southern ground is a new book.
+**Glance 4 — Gatherer's bag:**  
+Say the name before you use it. The southern ground is a new book.
 
-Glance 5 — Will not say Undercity: Home, as it was. Her father is not a sermon.
+**Glance 5 — Will not say Undercity:**  
+Home, as it was. Her father is not a sermon.
+
+**Personality:**  
+Respect, tenacity, compassion — in that order when they conflict. Not Scarlet. Spare voice. Labels aloud. Prays short and specific so the person on the ground can hear the step they are on. Does not preach a quota. Sits with a soldier who wants a psalm, a cook who wants the proportion of a salve, or a recruit who wants neither. Will bind a bleeding knight and will not carry his banner. The Light is not a wage. Tools are allowed. Tools are not owed an answer.
 
 ## OOC
 
-Human priest, age 20 in year 25. Herbalism and Alchemy for the still. First Aid leveled separately. Taught by Maud, a field sister now dead. Not a paladin and not Scarlet. Parents: Edith Sarjeant, living, chapel kitchen in Stormwind if the letter is true; Ham Sarjeant, stayed at the door, fate not settled. Transmog: Friar's Robes of the Light. Open to the jar, the still, the roll, Maud's rules, the robes, and the old city.
+Human priest, age 20 in year 25. Herbalism and Alchemy for the still. First Aid leveled separately. Taught by Maud, a field sister now dead. Not a paladin and not Scarlet.
+
+Parents: Edith Sarjeant, living, chapel kitchen in Stormwind if the letter is true; Ham Sarjeant, stayed at the door, fate not settled. Brinn keeps the letter in the same pocket as the empty jar.
+
+Transmog: Friar's Robes of the Light. She likes fishing when the work is finished for the day — quiet water, a clean line, and no one asking for the next step.
+
+Open to the jar, the still, the roll, Maud's rules, the robes, the old city, and a shared stretch of river if the company is settled.
+
+She is practical, steady, and does not perform faith. Respect, tenacity, and compassion are the test of an ask, not a spell component. She will meet people where they are.
+
+Positive phrase Brinn would use: "The clean side faces in. Fold the next one the same way. We start where we are."
 
 ## Appearance (In-Game)
 
-Skin Color 9. Face 1. Hair 21 ( Styled). Hair Color 2. Eyebrows Thin. Face Shape Narrow. Eye Color 10.
+Skin Color 9. Face 1. Hair 21 (Styled). Hair Color 2. Eyebrows Thin. Face Shape Narrow. Eye Color 10.

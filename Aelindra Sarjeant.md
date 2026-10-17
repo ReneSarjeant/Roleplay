@@ -65,11 +65,17 @@ She is still learning, and she is still young. The human way of tracking is slow
 **Currently:**  
 Tracking from the heights or working the ground with methods learned from a human instructor. Answers to Sarjeant more readily than her true name. Still young. Keeps one eye on the sky and one on the next useful step.
 
-**Description:**  
-A young Skyborne of the High Order with pale skin, short ears, and light blue eyes. Appears roughly 18–20 to human eyes. Her blonde hair is kept in a precise Diva style. Blue Zephyr and Gale tattoos mark her face and body. She wears gold jewelry and pearl earrings—elegant without catching on gear. Feathers rest lightly in her hair or equipment when the wind favors them. She moves with the habit of someone who still checks the open air before the ground. She has lived her whole life in the sky.
+**Glance 1 — Borrowed name:**  
+Aelindra Ser'jaen'thal on the High Order rolls. Sarjeant from a human trainer who could not manage the apostrophes. She kept it.
 
-**History:**  
-Born on Zephras Isle to a High Order family as the wind spirits faded and the island’s supports began to fail. Has known nothing but the island. Preferred observation and the bow over pure arcane theory. Left the isle with other High Order while still young and sought training from a human hunting instructor in the Eastern Kingdoms. The man could not reliably pronounce Ser'jaen'thal and settled on Sarjeant. She kept the name. She continues to refine ground-based tracking while relying on the sky and elemental insight she was born with.
+**Glance 2 — Zephyr and Gale:**  
+Blue tattoos on face and body. Marks of the wind she was born under. Not hidden.
 
-**OOC Notes:**  
-Alliance Skyborne Hunter. Still young by elven standards, appears ~18–20 to humans. True name Aelindra Ser'jaen'thal; human-given surname Sarjeant. Born and raised on the island. Progress over perfection. Open to shared stories and practical company.
+**Glance 3 — Gold and pearls:**  
+Jewelry worn close. Elegant without catching on gear. Belonged to her mother.
+
+**Glance 4 — Feathers:**  
+Tucked in hair or equipment when the wind favors them. Habit of someone who still checks the open air first.
+
+**Glance 5 — Solid ground:**  
+Still new. She has lived her whole life in the sky. The human way of tracking is slower and closer to the dirt. She is still learning it.

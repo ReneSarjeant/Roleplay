@@ -41,31 +41,23 @@ Year 25. Age 28.
 
 ## TRP3 (Copyable)
 
-**Name:** Star Teva  
-**Title:**   
-**Full Title:**   
-**Race:** Human  
-**Class:** Warrior  
-**Age:** 28  
-**Height:** 5'7"  
-**Weight:** 145 lbs  
-**Eye Color:** Purple  
-**Hair Color:** Blonde  
-**Birthplace:** The mill (Hillsbrad Foothills)  
-**Residence:** On the road  
-**Relationship Status:** Single  
-
-**At First Glance:**  
-A young human woman in her late twenties with a narrow face and intense, sharply arched brows that give her a focused, almost impatient look even at rest. Blonde hair worn in a short flipped style that never quite stays fully neat. Striking purple eyes. Light lavender makeup and double upper earrings. Fair skin. Practical bearing of someone who has spent more time on the road than in cities. Worn but serviceable chain mail. Old plain iron two-handed sword strapped across her back.
-
 **Currently:**  
 Traveling and taking work where she can find it. Still learning the warrior’s path. Keeps the old iron sword close and checks on whoever stands beside her when a fight ends.
 
-**Personality:**  
-Competent but not polished. Fights carefully. Prefers small groups she can trust. Dry humor once the immediate danger has passed. More likely to check on someone who took a hit than to boast. Intense expression and purple eyes make her look more severe than she usually feels. Still deciding what kind of warrior she wants to be. Values progress over perfection. Keeps small personal choices (makeup, earrings, the old sword) as anchors after losing her home.
+**Glance 1 — Old iron sword:**  
+Two-handed, plain, from the mill. The veteran who gave it to her did not make it out. She keeps it close.
 
-**History / About:**  
-Born and raised in a quiet farming and milling settlement in the Hillsbrad Foothills she still simply calls “the mill.” Never uses the name the place carries now. In Year 20, when the Scourge plague and the fall of Lordaeron reached the Foothills, she escaped south through Southshore (while it still stood) and continued on to Stormwind. She was twenty-three. The old iron two-handed sword came with her; the veteran who gave it to her did not. After reaching Stormwind she answered the call for help at Northshire. Now 28, she still wears the chain mail she has been able to keep in service and carries only the sword and the habit of looking after whoever stands beside her from the life she left behind.
+**Glance 2 — Chain mail:**  
+Worn but serviceable. What she has been able to keep in service since Northshire.
+
+**Glance 3 — Purple eyes:**  
+Striking. Intense brows and a narrow face make her look more severe than she usually feels. Light lavender makeup. Double upper earrings.
+
+**Glance 4 — The mill:**  
+She never uses the name the place carries now. Grain fields, the old wheel, the road south. She does not speak of it often.
+
+**Glance 5 — Beside her:**  
+When a fight ends she checks on whoever was standing next to her. Habit from the life she left behind.
 
 ## Appearance (In-Game)
 

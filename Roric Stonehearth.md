@@ -46,7 +46,7 @@ Year 25. Age 187. Ironforge. The inn is still open.
 | **Face** | Haggard. In-game: Face Haggered 10, Skin Weather Dark Brown 11 |
 | **Beard** | Short. In-game: Beard short 4 |
 | **Mustache** | Bold. In-game: Mustache bold 9 |
-| **Alignment** | Protective. Stubborn. Justice over vengeance. |
+| **Alignment** | Protective first. Practical justice. Stubborn. |
 | **Background** | Ironforge Commons inn. Nephew Brenn lost to a caravan raid. Hall of Mysteries. |
 | **Quiet time** | The bar after close, when the regulars have gone. |
 
@@ -91,8 +91,8 @@ Newer than the bar. He still measures justice by more than the size of it. Somet
 The caravan. The foothills. He finished the shift. He closed up. He sat with the tankard until the fire burned low.
 
 **Personality:**
-Protective first. Stubborn second. Gruff but fair. Talks like an innkeeper more than a knight. Does not preach a quota. Shows up. Grief sits close. Justice over pure vengeance. The Light has room for an old dwarf who decided the common room was not the only place that needed keeping. Progress over perfection. He is still learning the weight of the plate.
+Protective first. Practical justice. Stubborn. Gruff but fair. Talks like an innkeeper more than a knight. Does not preach a quota. Shows up. Grief sits close. The Light has room for an old dwarf who decided the common room was not the only place that needed keeping. Progress over perfection. He is still learning the weight of the plate.
 
 ## OOC
 
-Ironforge dwarf paladin, age 187 in year 25. Innkeeper in the Commons who trained at the Hall of Mysteries after his nephew Brenn was killed in a caravan raid by orcs. Still keeps the inn. Protective, practical, late starter. Not a natural knight. Appearance in-game: Skin Weather Dark Brown 11, Face Haggered 10, Hair Short Braid 11 / White 8, Eyes Red 1, Beard short 4, Mustache bold 9. Open to the inn, the knife on the shelf, the roads, and anyone who needs a warm corner or a shield. Positive phrase Roric would use: "The door stays open. Sit down. We'll sort the rest."
+Ironforge dwarf paladin, age 187 in year 25. Innkeeper in the Commons who trained at the Hall of Mysteries after his nephew Brenn was killed in a caravan raid by orcs. Still keeps the inn. Protective first, practical justice, stubborn. Late starter. Not a natural knight. Appearance in-game: Skin Weather Dark Brown 11, Face Haggered 10, Hair Short Braid 11 / White 8, Eyes Red 1, Beard short 4, Mustache bold 9. Open to the inn, the knife on the shelf, the roads, and anyone who needs a warm corner or a shield. Positive phrase Roric would use: "The door stays open. Sit down. We'll sort the rest."

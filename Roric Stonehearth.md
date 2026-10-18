@@ -22,6 +22,8 @@ He had heard the Light’s teachings for years—human allies, dwarven priests, 
 
 He learned to wear the plate. He learned to call the Light when his hands were not steady. He learned that justice was measured by more than the size of the hammer. The weight of it was different from a tankard or a bar rag. Some days it still sits strange on shoulders that spent decades behind a counter.
 
+After he took up the plate he learned Mining and Blacksmithing. The armor needed the ore and the forge. He had not needed either while he was only keeping the common room. Fishing was already his. He still prefers the line when the work is done.
+
 ## The Light
 
 He still keeps the inn. Some nights he pours for the regulars and listens the way he always has. Other nights the plate is packed and he walks the roads or answers when the Alliance calls. Brenn’s knife is still on the shelf behind the bar. Roric has not moved it. He does not talk about the caravan much. When the day is done he wipes the counter, checks the lock, and makes sure the door he used to keep is not the only one that matters anymore.
@@ -48,16 +50,19 @@ Year 25. Age 187. Ironforge. The inn is still open.
 | **Mustache** | Bold. In-game: Mustache bold 9 |
 | **Alignment** | Protective first. Practical justice. Stubborn. |
 | **Background** | Ironforge Commons inn. Nephew Brenn lost to a caravan raid. Hall of Mysteries. |
-| **Quiet time** | The bar after close, when the regulars have gone. |
+| **Quiet time** | The bar after close, or the line when the water is quiet. |
 
 ## Proficiencies
 
 | **Innkeeping** | The common room. Full tankard, warm corner, fist fights that stay fists. |
 | --- | --- |
 | **Plate & Hammer** | Newer than the bar. Heavier. Still learning the weight. |
+| **Mining** | Learned after the plate. The ore the armor needs. |
+| **Blacksmithing** | Learned after the plate. The forge for what the roads require. |
+| **Fishing** | The older preference. When the work is done. |
 | **The Light** | Calls it when his hands are not steady. Short prayers. Specific. |
 | **Languages** | Common, Dwarvish. The practical version of the three virtues. |
-| **Tools** | Tankard, hammer, the key to the inn door. |
+| **Tools** | Tankard, hammer, the key to the inn door, fishing line. |
 
 ## Key Facts
 
@@ -67,13 +72,14 @@ Year 25. Age 187. Ironforge. The inn is still open.
 | **The raid** | Orcs in the foothills. Supplies and more. |
 | **Training** | Hall of Mysteries after the news. Older than most squires. |
 | **The inn** | Still open. He still pours when he is home. |
+| **Professions** | Prefers fishing. Took Mining and Blacksmithing after the plate. |
 | **Will not say** | That he was too late. |
-| **Quiet time** | The bar after close. |
+| **Quiet time** | The bar after close, or the line. |
 
 ## TRP3 (Copyable)
 
 **Currently:**
-The inn is still open. He pours when he is home. The plate is packed when the roads call. Brenn's knife is on the shelf behind the bar. He does not talk about the caravan. When the day is done he wipes the counter and checks the lock.
+The inn is still open. He pours when he is home. The plate is packed when the roads call. Brenn's knife is on the shelf behind the bar. He does not talk about the caravan. When the day is done he wipes the counter and checks the lock. If the water is quiet he prefers the line.
 
 **Glance 1 — The plate:**
 Heavier than a tankard. He learned it after the news. It still sits strange on shoulders that spent decades behind a bar.
@@ -91,8 +97,8 @@ Newer than the bar. He still measures justice by more than the size of it. Somet
 The caravan. The foothills. He finished the shift. He closed up. He sat with the tankard until the fire burned low.
 
 **Personality:**
-Protective first. Practical justice. Stubborn. Gruff but fair. Talks like an innkeeper more than a knight. Does not preach a quota. Shows up. Grief sits close. The Light has room for an old dwarf who decided the common room was not the only place that needed keeping. Progress over perfection. He is still learning the weight of the plate.
+Protective first. Practical justice. Stubborn. Gruff but fair. Talks like an innkeeper more than a knight. Does not preach a quota. Shows up. Grief sits close. The Light has room for an old dwarf who decided the common room was not the only place that needed keeping. Progress over perfection. He is still learning the weight of the plate. Prefers the fishing line. Learned the forge because the armor needed it.
 
 ## OOC
 
-Ironforge dwarf paladin, age 187 in year 25. Innkeeper in the Commons who trained at the Hall of Mysteries after his nephew Brenn was killed in a caravan raid by orcs. Still keeps the inn. Protective first, practical justice, stubborn. Late starter. Not a natural knight. Appearance in-game: Skin Weather Dark Brown 11, Face Haggered 10, Hair Short Braid 11 / White 8, Eyes Red 1, Beard short 4, Mustache bold 9. Open to the inn, the knife on the shelf, the roads, and anyone who needs a warm corner or a shield. Positive phrase Roric would use: "The door stays open. Sit down. We'll sort the rest."
+Ironforge dwarf paladin, age 187 in year 25. Innkeeper in the Commons who trained at the Hall of Mysteries after his nephew Brenn was killed in a caravan raid by orcs. Still keeps the inn. Protective first, practical justice, stubborn. Late starter. Not a natural knight. Prefers fishing. Took Mining and Blacksmithing after becoming a paladin. Appearance in-game: Skin Weather Dark Brown 11, Face Haggered 10, Hair Short Braid 11 / White 8, Eyes Red 1, Beard short 4, Mustache bold 9. Open to the inn, the knife on the shelf, the roads, a quiet stretch of water, and anyone who needs a warm corner or a shield. Positive phrase Roric would use: "The door stays open. Sit down. We'll sort the rest."

@@ -41,8 +41,18 @@
     text-align: center;
     font-style: italic;
     color: #f0b080;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
     font-size: 1.1rem;
+  }
+  .portrait {
+    display: block;
+    margin: 0 auto 2rem auto;
+    max-width: 320px;
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    border: 3px solid rgba(255, 180, 100, 0.6);
+    box-shadow: 0 6px 24px rgba(0,0,0,0.7);
   }
   h2 {
     color: #ffab60;
@@ -76,6 +86,7 @@
   @media (max-width: 600px) {
     .container { padding: 1.5rem 1rem; }
     h1 { font-size: 2rem; }
+    .portrait { max-width: 240px; }
   }
 </style>
 </head>
@@ -84,6 +95,7 @@
   <div class="container">
     <h1>Star Teva</h1>
     <div class="subtitle">Human warrior · Year 25 · Age 28</div>
+    <img src="./star-teva-portrait.jpg" alt="Star Teva portrait" class="portrait">
     <p class="intro">Raised in a quiet farming and milling settlement in the Hillsbrad Foothills she still simply calls “the mill.” Escaped south through Southshore in Year 20 when the Scourge reached the Foothills, then answered the call for help at Northshire. Carries an old iron two-handed sword and wears the chain mail she has been able to keep in service.</p>
 
     <h2>The Mill</h2>

@@ -1,1 +1,155 @@
-<!-- The full HTML with embedded base64 would go here, but for practicality in this interface, the page has been updated to reference the portrait. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Star Teva — Roleplay</title>
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; min-height: 100%; }
+  body {
+    background: #1a0f0a url('./starteva-bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    color: #f8e8d8;
+    line-height: 1.65;
+  }
+  .overlay {
+    background: rgba(40, 15, 8, 0.65);
+    min-height: 100vh;
+    padding: 2rem 1rem;
+  }
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    background: rgba(50, 20, 10, 0.82);
+    border: 1px solid rgba(220, 100, 40, 0.45);
+    border-radius: 12px;
+    padding: 2.5rem 2rem;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.6);
+  }
+  h1 {
+    font-family: 'Palatino', 'Georgia', serif;
+    font-size: 2.6rem;
+    text-align: center;
+    color: #ffcc80;
+    margin: 0 0 0.3rem 0;
+    text-shadow: 0 2px 10px rgba(0,0,0,0.7);
+    letter-spacing: 0.5px;
+  }
+  .subtitle {
+    text-align: center;
+    font-style: italic;
+    color: #f0b080;
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+  }
+  .portrait {
+    display: block;
+    margin: 0 auto 2rem auto;
+    max-width: 320px;
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    border: 3px solid rgba(255, 180, 100, 0.6);
+    box-shadow: 0 6px 24px rgba(0,0,0,0.7);
+  }
+  h2 {
+    color: #ffab60;
+    border-bottom: 1px solid rgba(255, 140, 60, 0.45);
+    padding-bottom: 0.4rem;
+    margin-top: 2.2rem;
+    font-size: 1.6rem;
+  }
+  p { margin: 0.9rem 0; }
+  .intro { font-size: 1.15rem; text-align: center; margin-bottom: 1.5rem; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    background: rgba(0,0,0,0.3);
+  }
+  th, td {
+    padding: 0.55rem 0.8rem;
+    text-align: left;
+    border-bottom: 1px solid rgba(220, 100, 40, 0.25);
+  }
+  th { color: #ffab60; font-weight: normal; width: 28%; }
+  .trp { background: rgba(0,0,0,0.25); padding: 1rem; border-left: 3px solid #ff8c40; margin: 1rem 0; }
+  .footer {
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 0.9rem;
+    color: #d09070;
+    font-style: italic;
+  }
+  @media (max-width: 600px) {
+    .container { padding: 1.5rem 1rem; }
+    h1 { font-size: 2rem; }
+    .portrait { max-width: 240px; }
+  }
+</style>
+</head>
+<body>
+<div class="overlay">
+  <div class="container">
+    <h1>Star Teva</h1>
+    <div class="subtitle">Human warrior · Year 25 · Age 28</div>
+    <img src="./star-teva-portrait.jpg" alt="Star Teva portrait" class="portrait">
+    <p class="intro">Raised in a quiet farming and milling settlement in the Hillsbrad Foothills she still simply calls “the mill.” Escaped south through Southshore in Year 20 when the Scourge reached the Foothills, then answered the call for help at Northshire. Carries an old iron two-handed sword and wears the chain mail she has been able to keep in service.</p>
+
+    <h2>The Mill</h2>
+    <p>Star Teva is 28. She was born and raised in a quiet human farming and milling settlement in the Hillsbrad Foothills that she still simply calls “the mill.” She never uses the name the place carries now. To her it was always just home—grain fields, the old mill wheel, a handful of families, and the road that ran south toward Southshore.</p>
+
+    <h2>Year 20 – Escape</h2>
+    <p>In Year 20 ADP, when the Scourge plague and the fall of Lordaeron reached the Foothills, the settlement could not hold. Star left with what she could carry. She moved south through Southshore while it was still standing as a human town, then continued farther south and west until she reached Stormwind. She was twenty-three then. The old iron two-handed sword she still uses came with her from the mill; the veteran who gave it to her did not.</p>
+
+    <h2>Northshire and Beyond</h2>
+    <p>After she reached Stormwind she did not stay in the city long. When word went out that Northshire needed people willing to help clear the area and protect the farms and the Abbey road, she answered. The chain mail she wears is what she has been able to keep in service since those early days. The purple eyes, flipped blonde hair, intense brows, narrow face, double upper earrings, and lavender makeup are the same as always—small, deliberate choices she kept even while everything else changed.</p>
+
+    <h2>Present (Year 25 ADP)</h2>
+    <p>She does not speak often about the mill or the road through Southshore. When she does, she keeps it short and practical: the place she left is no longer what it was, the people who stayed did not all make it out, and the only thing she still carries from that life is the sword and the habit of checking on whoever is standing beside her when a fight ends. At 28 she is still learning how to be a warrior rather than simply someone who survived long enough to keep swinging. Progress over perfection—one repaired strap, one cleared road, and one step farther from the mill than she was the day before.</p>
+
+    <h2>Character Sheet</h2>
+    <table>
+      <tr><th>Name</th><td>Star Teva</td></tr>
+      <tr><th>Race</th><td>Human</td></tr>
+      <tr><th>Class</th><td>Warrior</td></tr>
+      <tr><th>Age</th><td>28 (year 25)</td></tr>
+      <tr><th>Height</th><td>5'7"</td></tr>
+      <tr><th>Weight</th><td>145 lbs</td></tr>
+      <tr><th>Eyes</th><td>Purple. In-game: Eye Color 16</td></tr>
+      <tr><th>Hair</th><td>Blonde, flipped. In-game: Hair Style Flipped 6, Hair Color 7</td></tr>
+      <tr><th>Face</th><td>Narrow, intense brows. In-game: Face 3, Face Shape Narrow 1, Eyebrows Intense 25, Skin Color Caucasian 3</td></tr>
+      <tr><th>Piercings</th><td>Double Upper Earrings 4</td></tr>
+      <tr><th>Makeup</th><td>Lavender 3</td></tr>
+      <tr><th>Background</th><td>The mill, Hillsbrad Foothills. Escaped through Southshore. Answered the call at Northshire.</td></tr>
+      <tr><th>Weapon</th><td>Old iron two-handed sword from the mill.</td></tr>
+    </table>
+
+    <h2>Appearance (In-Game)</h2>
+    <p>Skin Color: Caucasian 3<br>
+    Face: 3<br>
+    Hair Style: Flipped 6<br>
+    Hair Color: Blonde 7<br>
+    Eye Color: Purple 16<br>
+    Eyebrows: Intense 25<br>
+    Face Shape: Narrow 1<br>
+    Piercings: Double Upper Earrings 4<br>
+    Makeup: Lavender 3</p>
+
+    <h2>TRP3 (Copyable)</h2>
+    <div class="trp">
+      <p><strong>Currently:</strong> Traveling and taking work where she can find it. Still learning the warrior’s path. Keeps the old iron sword close and checks on whoever stands beside her when a fight ends.</p>
+      <p><strong>Glance 1 — Old iron sword:</strong> Two-handed, plain, from the mill. The veteran who gave it to her did not make it out. She keeps it close.</p>
+      <p><strong>Glance 2 — Chain mail:</strong> Worn but serviceable. What she has been able to keep in service since Northshire.</p>
+      <p><strong>Glance 3 — Purple eyes:</strong> Striking. Intense brows and a narrow face make her look more severe than she usually feels. Light lavender makeup. Double upper earrings.</p>
+      <p><strong>Glance 4 — The mill:</strong> She never uses the name the place carries now. Grain fields, the old wheel, the road south. She does not speak of it often.</p>
+      <p><strong>Glance 5 — Beside her:</strong> When a fight ends she checks on whoever was standing next to her. Habit from the life she left behind.</p>
+    </div>
+
+    <div class="footer">Year 25 · WoW Forever · Progress over perfection</div>
+  </div>
+</div>
+</body>
+</html>

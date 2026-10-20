@@ -171,6 +171,22 @@ Respect, tenacity, compassion — in that order when they conflict. Not Scarlet.
 **Motto:**  
 "The clean side faces in. Fold the next one the same way. We start where we are."
 
+**Notes:**  
+- Age 20 in Year 25. Human priest of the Holy Light. Field sister, not a paladin and not Scarlet.
+- Born in a dyer’s cottage in the outer wards of Lordaeron’s capital. Fifteen when the bells went wrong. Ham said “Go.” Edith took the collar.
+- Father: Ham Sarjeant. Stayed to bar the door. Fate not settled. She will not say Undercity.
+- Mother: Edith Sarjeant. Living in a chapel kitchen in Stormwind if the letter is true. Letter kept in the same pocket as the empty jar.
+- Mentor: Maud, a field sister. Joined when Brinn was 16. Died of a fever the draught was not mixed for when Brinn was 18. Brinn took the title the week after, from the wounded, not a bishop.
+- Carries an empty jar labeled in her own hand. Maud’s measure was not enough. She has not refilled it.
+- Three books, kept separate: Herbalism (the ground), Alchemy (the still), First Aid (the cloth). Say the name before you use it.
+- Refused the Scarlet road twice at 19. Will bind a bleeding knight. Will not carry his banner.
+- No longer traveling with a company. Adventuring alone in Azeroth. Still packs the still and the roll.
+- Wears the Friar’s Robes of the Light. Plain cloth. The mark the Church gives after the small test.
+- Quiet time: fishing when the work is done. Quiet water, clean line.
+- Motto: “The clean side faces in. Fold the next one the same way. We start where we are.”
+- Personality: Respect, tenacity, compassion — in that order when they conflict. Spare voice. Labels and prays aloud. Does not preach a quota. The Light is not a wage. Tools are allowed. Tools are not owed an answer.
+- Open to the jar, the still, the roll, Maud’s rules, the robes, the old city, and a shared stretch of river when the work is done.
+
 ## OOC
 
 Human priest, age 20 in year 25. Herbalism and Alchemy for the still. First Aid leveled separately. Taught by Maud, a field sister now dead. Not a paladin and not Scarlet.

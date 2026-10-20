@@ -1,6 +1,6 @@
 # Sister Brinn Sarjeant
 
-Human priest of the Holy Light. Twenty years old in year 25. Born in a dyer's cottage in the outer wards of Lordaeron's capital, in the last years of Terenas. Fifteen when the bells went wrong. When the company is settled and the work is done for the day, she likes to fish.
+Human priest of the Holy Light. Twenty years old in year 25. Born in a dyer's cottage in the outer wards of Lordaeron's capital, in the last years of Terenas. Fifteen when the bells went wrong. When the work is done for the day, she likes to fish.
 
 ## From the Yard
 
@@ -52,11 +52,11 @@ She has been offered the other road twice. A preacher, when she was nineteen, sa
 
 Edith took a different road when Brinn was nineteen. A letter from a chapel kitchen in Stormwind said she was well, that the work was plain, and that Brinn should not come unless the company was stood down. Brinn keeps the letter in the same pocket as the jar. She has not gone to the kitchen.
 
-She is twenty now. The southern ground is a different book from the Lordaeron yard, and she is learning it: what the field will allow, what a company can carry, which cloth is still clean by the third day. She takes the companies that will have a sister who brews, binds, and does not preach a quota. She sits with a soldier who wants a psalm, a cook who wants the proportion of a salve, or a recruit who wants neither.
+She is twenty now. The southern ground is a different book from the Lordaeron yard, and she is learning it on her own. She no longer travels with a company. She walks Azeroth with the still and the roll packed, taking the work that needs a sister who brews, binds, and does not preach a quota. She sits with a soldier who wants a psalm, a cook who wants the proportion of a salve, or a traveler who wants neither.
 
 She will not say Undercity. Home, as it was, and then she does not say it again. She has not decided what she will do if the door opens and something answers to his name.
 
-The still is packed. The roll is packed beside it. The jar is empty. That is the part that hurts. When the day is done and the company is settled, she likes to fish.
+The still is packed. The roll is packed beside it. The jar is empty. That is the part that hurts. When the day is done, she likes to fish.
 
 ## Maud's Influence
 
@@ -70,13 +70,13 @@ The three books are Maud's, and Brinn has not folded them. Herbalism is the grou
 
 The Light is the part Brinn did not inherit cleanly. Maud never offered it as a craft. She prayed the way she labeled: short, specific, no claim that the asking had earned the answer. The sentence Brinn disliked — the Light is not impressed by a jar and not offended by one either — was Maud refusing both the preacher and the tinker. A scouring faith would have used Brinn's father as fuel. A faith that bowed to the still would have let Brinn hide in measures. Maud left her between them, which is why Brinn can sit with a psalm, a proportion, or neither, and why she has no sermon quota. She was not trained to perform belief. She was trained not to lie about what closed the wound.
 
-What Brinn took without being told is harder. Maud did not leave. Columns move. Maud stayed where the wounded were. Brinn calls that the work. It is also a pattern. She takes companies. She does not take kitchens. Edith's letter asked her not to come unless the company was stood down, and Brinn has obeyed it with relief she does not examine. Maud gave her a way to love people without keeping their road. That is a gift. It is also how you fail to go see your mother.
+What Brinn took without being told is harder. Maud did not leave. Columns move. Maud stayed where the wounded were. Brinn calls that the work. It is also a pattern. She used to take companies. She does not take kitchens. Edith's letter asked her not to come unless the company was stood down, and Brinn has obeyed it with relief she does not examine. Maud gave her a way to love people without keeping their road. That is a gift. It is also how you fail to go see your mother.
 
 The death is the lesson Brinn will not sand down. Maud died of a fever the draught was not mixed for. Brinn had the bag, the measures, the names. None of them were the right book. She sat anyway, because Maud had sat. The title came the week after, from the wounded, not from a bishop. Brinn wears it as a work smock because that is how Maud wore hers.
 
 The empty jar is where Maud's teaching breaks, and where Brinn starts. She mixed to the measure she was given. The measure was not enough. The burn closed halfway under her hands, in no recipe Maud wrote. A faithful copy would have called it a failure and stopped. Brinn labeled the empty jar and kept it. She did not tell herself the Light had been impressed. She did not throw out the still. She carries the proof that the woman who taught her was right about tools and silent about the thing that is not a tool.
 
-Maud's limit is that she finished. Brinn has not. Maud could say the Light was not offended by a jar because Maud was not going back to a door. Brinn is. If she becomes only Maud with a younger face, she will bind the company, refuse the scarlet banner, and never decide what the stair was for. The influence holds in the bag. It does not hold at the gate. That part is Brinn's, and Maud is not there to name it before she uses it.
+Maud's limit is that she finished. Brinn has not. Maud could say the Light was not offended by a jar because Maud was not going back to a door. Brinn is. If she becomes only Maud with a younger face, she will bind the wounded, refuse the scarlet banner, and never decide what the stair was for. The influence holds in the bag. It does not hold at the gate. That part is Brinn's, and Maud is not there to name it before she uses it.
 
 ## The Light
 
@@ -118,7 +118,8 @@ Year 25. Age locked at twenty.
 | **Face** | Narrow. In-game: Face 1, Face Shape Narrow, Eyebrows Thin, Skin Color 9 |
 | **Alignment** | Respect, tenacity, compassion. Not Scarlet. |
 | **Background** | Lordaeron outer wards, dyer's cottage. Refugee roads. Field sister. |
-| **Quiet time** | Fishing, when the company is settled. |
+| **Quiet time** | Fishing, when the work is done. |
+| **Current status** | Adventuring in Azeroth. No longer with a company. |
 
 ## Proficiencies
 
@@ -141,12 +142,13 @@ Year 25. Age locked at twenty.
 | **Empty jar** | Age 19. Maud's measure was not enough. Sealed empty. |
 | **Scarlet road** | Refused twice at 19. Will bind a bleeding knight. Will not march. |
 | **Will not say** | Undercity. |
-| **Quiet time** | Fishing, when the company is settled. |
+| **Quiet time** | Fishing, when the work is done. |
+| **Current status** | Adventuring alone in Azeroth. |
 
 ## TRP3 (Copyable)
 
 **Currently:**  
-Brewing what a company can carry. The still is packed. The bandage roll is packed beside it. Maud's three books, kept separate. She wears the Friar's Robes of the Light. The door home is shut. When the day is done she likes to fish.
+Adventuring in Azeroth on her own. The still is packed. The bandage roll is packed beside it. Maud's three books, kept separate. She wears the Friar's Robes of the Light. The door home is shut. When the day is done she likes to fish.
 
 **Glance 1 — Friar's Robes of the Light:**  
 Plain cloth. The mark the Church gives after the small test. She took the title the week after Maud died. No bishop.
@@ -164,7 +166,10 @@ Say the name before you use it. The southern ground is a new book.
 Home, as it was. Her father is not a sermon.
 
 **Personality:**  
-Respect, tenacity, compassion — in that order when they conflict. Not Scarlet. Spare voice. Labels aloud. Prays short and specific so the person on the ground can hear the step they are on. Does not preach a quota. Sits with a soldier who wants a psalm, a cook who wants the proportion of a salve, or a recruit who wants neither. Will bind a bleeding knight and will not carry his banner. The Light is not a wage. Tools are allowed. Tools are not owed an answer.
+Respect, tenacity, compassion — in that order when they conflict. Not Scarlet. Spare voice. Labels aloud. Prays short and specific so the person on the ground can hear the step they are on. Does not preach a quota. Sits with a soldier who wants a psalm, a cook who wants the proportion of a salve, or a traveler who wants neither. Will bind a bleeding knight and will not carry his banner. The Light is not a wage. Tools are allowed. Tools are not owed an answer.
+
+**Motto:**  
+"The clean side faces in. Fold the next one the same way. We start where we are."
 
 ## OOC
 
@@ -172,9 +177,11 @@ Human priest, age 20 in year 25. Herbalism and Alchemy for the still. First Aid 
 
 Parents: Edith Sarjeant, living, chapel kitchen in Stormwind if the letter is true; Ham Sarjeant, stayed at the door, fate not settled. Brinn keeps the letter in the same pocket as the empty jar.
 
+Current status: No longer traveling with a company. Adventuring in Azeroth on her own.
+
 Transmog: Friar's Robes of the Light. She likes fishing when the work is finished for the day — quiet water, a clean line, and no one asking for the next step.
 
-Open to the jar, the still, the roll, Maud's rules, the robes, the old city, and a shared stretch of river if the company is settled.
+Open to the jar, the still, the roll, Maud's rules, the robes, the old city, and a shared stretch of river when the work is done.
 
 She is practical, steady, and does not perform faith. Respect, tenacity, and compassion are the test of an ask, not a spell component. She will meet people where they are.
 

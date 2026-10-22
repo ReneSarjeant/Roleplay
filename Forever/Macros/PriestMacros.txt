@@ -1,0 +1,26 @@
+WoW Forever Priest Macros
+========================
+
+Console setting:
+/console groundEffectDensity 256
+
+---
+
+Dispel Magic (mouseover with modifiers):
+/showtooltip Dispel Magic
+/stopcasting
+/cast [@mouseover,nomod,exists] Dispel Magic;  [@mouseover,exists,mod:ctrl] Cure Disease; [@mouseover,exists,mod:shift] Dispel Magic
+
+---
+
+Power Word: Fortitude (with wave emote and shoot fallback):
+#showtooltip Power Word: Fortitude
+/cast [@mouseover,help,nodead][] Power Word: Fortitude
+/wave [@mouseover,help,nodead][help,nodead]
+/cast shoot [@mouseover,harm,nodead][harm,nodead]
+
+---
+
+Shoot:
+#Showtooltip Shoot
+/cast Shoot

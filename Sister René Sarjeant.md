@@ -1,1 +1,1 @@
-PLACEHOLDER - will replace with cat content
+$(cat /tmp/sister_updated.md)

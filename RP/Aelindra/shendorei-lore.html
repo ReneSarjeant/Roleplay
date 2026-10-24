@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shen’dorei Lore — Children of the Hidden Sky</title>
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; min-height: 100%; }
+  body {
+    background: #0c1a28 url('./aelindra-bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    color: #e8f4f8;
+    line-height: 1.65;
+  }
+  .overlay {
+    background: rgba(8, 20, 32, 0.72);
+    min-height: 100vh;
+    padding: 2rem 1rem;
+  }
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    background: rgba(12, 28, 42, 0.86);
+    border: 1px solid rgba(120, 190, 220, 0.35);
+    border-radius: 12px;
+    padding: 2.5rem 2rem;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.55);
+  }
+  h1 {
+    font-family: 'Palatino', 'Georgia', serif;
+    font-size: 2.6rem;
+    text-align: center;
+    color: #b8e8f8;
+    margin: 0 0 0.3rem 0;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.6);
+    letter-spacing: 0.5px;
+  }
+  .subtitle {
+    text-align: center;
+    font-style: italic;
+    color: #a0d0e0;
+    margin-bottom: 2rem;
+    font-size: 1.1rem;
+  }
+  h2 {
+    color: #7ec8e0;
+    border-bottom: 1px solid rgba(126, 200, 224, 0.4);
+    padding-bottom: 0.4rem;
+    margin-top: 2.2rem;
+    font-size: 1.6rem;
+  }
+  p { margin: 0.9rem 0; }
+  .intro { font-size: 1.15rem; text-align: center; margin-bottom: 1.5rem; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    background: rgba(0,0,0,0.25);
+  }
+  th, td {
+    padding: 0.55rem 0.8rem;
+    text-align: left;
+    border-bottom: 1px solid rgba(120, 190, 220, 0.25);
+  }
+  th { color: #7ec8e0; font-weight: normal; width: 32%; }
+  .trp { background: rgba(0,0,0,0.25); padding: 1rem; border-left: 3px solid #7ec8e0; margin: 1rem 0; }
+  .gold-portrait {
+    width: min(100%, 640px);
+    margin: 1.5rem auto 2rem;
+    padding: clamp(8px, 2vw, 16px);
+    border: 3px solid #d7b867;
+    background: linear-gradient(135deg, #493015, #f1d78b 16%, #94702e 32%, #e6c572 50%, #654519 70%, #ead08a 88%, #493015);
+    box-shadow: 0 8px 28px rgba(0,0,0,0.55), inset 0 0 0 2px #67491f, inset 0 0 0 5px rgba(255,233,166,0.65);
+  }
+  .gold-portrait img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 2px solid #61451e;
+    box-shadow: 0 0 0 1px #f1d78b;
+  }
+  .footer {
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 0.9rem;
+    color: #90b8c8;
+    font-style: italic;
+  }
+  @media (max-width: 600px) {
+    .container { padding: 1.5rem 1rem; }
+    h1 { font-size: 2rem; }
+  }
+
+  a { color: #b8e8f8; text-underline-offset: 0.2em; overflow-wrap: anywhere; }
+  a:hover { color: #f1d78b; }
+  a:focus-visible { outline: 2px solid #f1d78b; outline-offset: 4px; }
+  sup { font-size: 0.75em; line-height: 0; }
+  .footnote { font-size: 0.94rem; padding: 0.65rem 0; border-bottom: 1px solid rgba(126,200,224,0.16); }
+  .note-number { color: #f1d78b; font-weight: bold; }
+  [id] { scroll-margin-top: 1.5rem; }
+  :target { outline: 1px solid rgba(241,215,139,0.6); outline-offset: 5px; }
+  hr { border: 0; border-top: 1px solid rgba(126,200,224,0.35); margin: 2.2rem 0; }
+  .page-nav { text-align: center; margin: 1rem 0 2rem; }
+</style>
+</head>
+<body>
+<div class="overlay"><main class="container">
+<nav class="page-nav" aria-label="Page navigation"><a href="./index.html">← Aelindra Sarjeant</a> · <a href="#footnotes">Sources &amp; footnotes</a></nav>
+<h1>Shen’dorei Lore</h1><p class="subtitle">Children of the Hidden Sky · The history of Aelindra’s people</p>
+<p><em>A sourced background for Aelindra Ser'jaen'thal, known on Azeroth as Aelindra Sarjeant. This account distinguishes Blizzard’s published setting, beta-era lore preserved in quest and crystal transcriptions, and Bryan’s established character history. It includes starting-zone spoilers. Literary interpretation is identified where used.</em></p>
+<h2>The city beneath the memory</h2>
+<p>Before there were Skyborne, there was Eldre’Thalas.</p>
+<p>Aelindra’s ancestors belonged to the elven civilization that survived in the city now called Dire Maul. Their roots reach back to the Highborne, the learned and privileged practitioners of arcane magic within ancient night elf society. They were not originally a people of floating islands. Their history began on Kalimdor, beneath the same sky as the rest of their kin.</p>
+<p>The War of the Ancients and the destruction of the Well of Eternity severed the source of power upon which the Highborne had depended. Survival brought a new danger: magical deprivation. Prince Tortheldrin’s answer was demonic power, associated with the captive demon Immol’thar. The ancestors of the Skyborne rejected the path their ruler chose.<sup><a href="#note-1" aria-label="Footnote 1">*1</a></sup></p>
+<p>Their story therefore begins with a refusal. In a literary reading of their history, their defining inheritance is the willingness to question a powerful protector when protection demands too high a price.</p>
+<h2>The rebellion and the golden mask</h2>
+<p>The resistance acquired a leader whose face was deliberately hidden.</p>
+<p>The recording called <em>The Rebellion in Eldre’Thalas, Part 3</em> names him the <strong>Shal’nan</strong>, or <strong>Veiled One</strong>. He wore a featureless golden mask to conceal his identity and protect those close to him. His name became a rallying cry among ordinary citizens opposing oppression.</p>
+<p>The rebels obstructed Tortheldrin’s construction of crystalline foci through sabotage and coercion. Assassination was rumored, but the recording does not establish every accusation as fact.</p>
+<p>Their resistance also carried an alternative vision of life. The example of the Cenarion druids encouraged interest in natural magic. Rumors connected the rebels to covert assistance from Malfurion Stormrage, though those remain rumors within the historical account.</p>
+<p>Tortheldrin denounced the alternative. He and his supporters treated druidic practice as an affront to Highborne tradition and rejected the authority of the new leadership among the wider night elves. Yet druidism continued to spread on the margins of his society. The dispute concerned both political obedience and the kinds of magic upon which elven life could be built.<sup><a href="#note-2" aria-label="Footnote 2">*2</a></sup></p>
+<h2>Flight into the unknown</h2>
+<p>The rebellion failed to secure a future inside Eldre’Thalas.</p>
+<p>Blizzard’s published account identifies the Skyborne’s founders as rebels who fled the city after the War of the Ancients. Their descendants would eventually become known as the <strong>shen’dorei</strong>, described alongside the name “hidden people.”</p>
+<p>The refugees found sanctuary through wind spirits. A pact gave them a home within <strong>Skywall</strong>, the Elemental Plane of Air, where those spirits anchored their island refuge.</p>
+<p>That refuge became Zephras Isle: the beginning of a civilization separated from the ordinary course of life on Azeroth.<sup><a href="#note-3" aria-label="Footnote 3">*3</a></sup></p>
+<p>Accounts differ on the precise chronology. Icy Veins places Tortheldrin’s turn toward Immol’thar around 7,300 years before the Dark Portal, whereas other summaries describe the Skyborne’s separation in terms approaching ten thousand years. The secure sequence is the war, the rupture with Tortheldrin, the flight, and the long refuge in Skywall; an exact year should remain qualified.<sup><a href="#note-1" aria-label="Footnote 1">*1</a></sup></p>
+<h2>A founder who relinquished power</h2>
+<p>The Skyborne preserved an unusually reflective memory of their masked founder.</p>
+<p>The crystal <em>On the Shal’nan</em> describes a change after the final battle in Eldre’Thalas. The commanding rebel became quieter, more reserved, and more inclined to listen. Some attributed this to injury or trauma; others thought a leader in peacetime simply had less need for a wartime manner.</p>
+<p>The account praises his continued determination. It also records his abdication to a provincial council after the founding of the Skyborne Isles, following more than a century of near-total authority.</p>
+<p>Some mourned his withdrawal. Others celebrated his willingness to surrender power voluntarily.</p>
+<p>The recording does not establish his concealed identity or settle the cause of his altered demeanor. It preserves a founder who could be remembered for yielding authority as well as exercising it.<sup><a href="#note-4" aria-label="Footnote 4">*4</a></sup></p>
+<p>As interpretation, this offers Aelindra’s people a useful ancestral ideal: leadership can serve a community without becoming a permanent claim to rule it.</p>
+<h2>The long life among the winds</h2>
+<p>Isolation became a way of life rather than a temporary hiding place.</p>
+<p>Beta-era accounts describe a wider network of Skyborne islands, including <strong>Anvilas</strong> and <strong>Siroccas</strong>. Connections once crossed the spaces between their settlements, but contact with other islands has been lost. Their disappearance from communication does not establish that all their inhabitants are dead.</p>
+<p>The culture also recognizes adulthood through an inherited relic. In the opening coming-of-age tradition, a young Skyborne receives an object carried by earlier bearers, with the expectation that it will pass onward after the bearer’s ashes are scattered to the winds.</p>
+<p>This gives inheritance a practical form: a living person carries something entrusted by the dead and intended for someone still to come.<sup><a href="#note-5" aria-label="Footnote 5">*5</a></sup></p>
+<p>That last observation is a literary reading of the custom, not an additional funeral law. It gives weight to an ordinary possession without requiring every Skyborne to hold identical beliefs.</p>
+<h2>A people changed by their refuge</h2>
+<p>The Skyborne’s surroundings changed their bodies as well as their habits.</p>
+<p>A player-posted transcription of <em>The Sky-Touched Mystery</em> distinguishes two developments. Across many millennia, their forms became more slender and lithe. A later change produced children with vivid blue skin, called the <strong>Sky-Touched Blessing</strong>. The first recorded case appeared fewer than five generations before the account.</p>
+<p>The text treats the cause as incompletely understood. It recognizes that dwelling within the elemental plane is changing the people who inhabit it.<sup><a href="#note-6" aria-label="Footnote 6">*6</a></sup></p>
+<p>This does not require every Skyborne to have blue skin. Aelindra’s established pale complexion remains compatible with a people whose appearance varies. Her personal markings and jewelry belong to her own character history; they should not automatically be treated as universal Skyborne customs.<sup><a href="#note-11" aria-label="Footnote 11">*11</a></sup></p>
+<h2>The silence of the benefactors</h2>
+<p>The crisis did not begin on the day Aelindra left home.</p>
+<p>The quest <em>Harvesting Windstones</em> says the wind elementals who once lived on Zephras vanished <strong>several centuries ago</strong>. Since then, the magic sustaining the island has been fading. Windstones hold concentrated wind energy, making their collection part of the work of sustaining daily life.<sup><a href="#note-7" aria-label="Footnote 7">*7</a></sup></p>
+<p>Blizzard’s summary describes the present consequences: failing pylons, isolated communities, and portions of the isle descending into ruin and darkness. It also names three competing groups: the Windshapers, the High Order, and the Al’Aketh.<sup><a href="#note-3" aria-label="Footnote 3">*3</a></sup></p>
+<p>The safest reconciliation with Aelindra’s biography is that she grew up during the continuing decline left by the disappearance. Her existing sheet places her childhood amid the spirits’ thinning and departure, but that wording should not be used to invent her exact age or overturn the quest’s centuries-long chronology.<sup><a href="#note-11" aria-label="Footnote 11">*11</a></sup></p>
+<h2>Gratitude, trust, and uncomfortable questions</h2>
+<p>The recording <em>On the Windlord</em> reveals that doubts existed before the present emergency.</p>
+<p>Its narrator describes the spirits becoming evasive and distressed when asked about Al’Akir. The High Order wanted a fuller understanding of the powers and dangers of their adopted realm. Windshaper elders regarded such questioning as a failure of trust toward benefactors who had already sacrificed much for them.</p>
+<p>The same beta record presents independent Nightclaw druids in Shadowgale Forest, showing that the isle’s institutions extend beyond the two playable orders.<sup><a href="#note-8" aria-label="Footnote 8">*8</a></sup></p>
+<p>For roleplay, the disagreement need not reduce every conversation to hostility. Gratitude and scrutiny can coexist within one person. Aelindra can value what the spirits gave her people while doubting whether anyone should depend upon promises they cannot examine.</p>
+<p>That is interpretation, rather than a rule governing all High Order personalities.</p>
+<h2>Two answers to the same danger</h2>
+<p>The <strong>Windshapers</strong> seek their missing elemental mentors. Their ancestors received the spirits’ gift of skysight, and the new generation sets out to recover contact and preserve its way of life. Their path leads toward the Horde.</p>
+<p>The <strong>High Order</strong> descends from the ancient Highborne scholars of Eldre’Thalas. Its members see the disappearance as proof of the danger of total dependence. They seek lost arcane learning so the shen’dorei can sustain themselves. Their path leads toward the Alliance.</p>
+<p>Both orders include hunters, warriors, rogues, and druids. Windshapers additionally become shamans; the High Order additionally trains mages. Aelindra’s place among the High Order therefore does not require her to become an arcanist.</p>
+<p>Both inherit the ability to glide through the air. The High Order’s distinct racial gift concerns reading ley lines, while the Windshapers retain skysight.<sup><a href="#note-9" aria-label="Footnote 9">*9</a></sup></p>
+<p>Their division is a disagreement over rescue: restore the old relationship, or acquire the means to survive independently.</p>
+<h2>The enemy within and the road home</h2>
+<p>The beta starting-zone story gives the crisis a violent expression.</p>
+<p>The <strong>Al’Aketh</strong>, led by High Priestess <strong>Lorthuna</strong>, seek salvation through Al’Akir. Their interference with protective wards threatens the sanctuary itself.</p>
+<p>Meanwhile, <strong>Grand Skyseer Ayessa Dawnsinger</strong> leads the Windshapers toward the Earthen Ring and Muln Earthfury. <strong>Supreme Magister Elaadrin Evengale</strong> leads the High Order toward the Kirin Tor.</p>
+<p>The rival orders’ disputes escalate into bloodshed, even though both oppose the cult. They cooperate against its immediate threat, but Lorthuna’s ritual summons <strong>Rohash</strong>, Lord of the East Wind. Intervention by the Kirin Tor and Earthen Ring prevents immediate defeat; the danger to Zephras remains.</p>
+<p>Wowhead’s early-beta account describes Skycutters carrying departing Skyborne between realms and names Dalaran as the High Order’s arrival hub.<sup><a href="#note-10" aria-label="Footnote 10">*10</a></sup> That travel detail is outdated: later beta patches removed the Dalaran portal, so it must not be used as an available route for Skyborne characters. Aelindra’s departure should not include arrival in or passage through Dalaran by that removed portal. No replacement arrival point is established here.<sup><a href="#note-12" aria-label="Footnote 12">*12</a></sup></p>
+<p>These are beta story events, not deeds automatically performed by Aelindra. Her biography does not establish that she personally confronted Lorthuna, fought Rohash, or held a decisive role in the island’s defense.</p>
+<h2>What Aelindra carries</h2>
+<p>Aelindra Ser'jaen'thal was born into this threatened inheritance.</p>
+<p>Her established history makes her the daughter of High Order scholars of modest standing. They hoped her observations would mature into arcane study. She preferred the movement of living things, the behavior of the wind, and the practical work of a bow.</p>
+<p>She left Zephras with a High Order delegation, carrying field notes, her mother’s jewelry, and the habits of a childhood spent watching open air. In the Eastern Kingdoms, a human hunting instructor struggled with <strong>Ser'jaen'thal</strong> and settled on <strong>Sarjeant</strong>. She accepted the useful approximation.</p>
+<p>Her education continued close to the earth: tracks in mud, broken twigs, disturbed soil. Familiarity with heights did not make her an expert on unfamiliar ground.<sup><a href="#note-11" aria-label="Footnote 11">*11</a></sup></p>
+<p>Her people’s history gives that learning a larger meaning. This is interpretation of the established character: every useful skill she gains answers the High Order’s argument that survival requires knowledge they can exercise themselves.</p>
+<p>She need not abandon the sky to learn from the ground. She carries the memory of a refuge built by others, and the responsibility of discovering what her own hands can contribute.</p>
+<h2>What remains unknown</h2>
+<p>No verified source used here settles why the benefactor spirits vanished or conclusively establishes the fate of every other Skyborne island. The Shal’nan’s identity also remains unresolved in the material reviewed.<sup><a href="#note-5" aria-label="Footnote 5">*5</a></sup></p>
+<p>These questions can shape Aelindra’s curiosity without supplying answers she has never earned. Her story begins with a young hunter leaving a troubled home. The history behind her is ancient; the choices ahead of her remain her own.</p>
+<hr>
+<h2 id="footnotes">Footnotes</h2>
+<p class="footnote" id="note-1"><span class="note-number">*1</span> <a href="https://www.icy-veins.com/wow-forever/news/who-are-the-skyborne-the-lore-behind-wow-forevers-new-race/">Icy Veins — Who Are the Skyborne? The Lore Behind WoW Forever’s New Race</a>. Secondary historical recap; used for the Eldre’Thalas background and its proposed chronology. <a href="#footnotes" aria-label="Back to footnotes heading">↑</a></p>
+<p class="footnote" id="note-2"><span class="note-number">*2</span> <a href="https://warcraft.wiki.gg/wiki/The_Rebellion_In_Eldre%27Thalas%2C_Part_3">Warcraft Wiki — The Rebellion in Eldre’Thalas, Part 3</a>. Transcription of a beta in-game audio crystal. Rumors in the recording remain rumors. <a href="#footnotes" aria-label="Back to footnotes heading">↑</a></p>
+<p class="footnote" id="note-3"><span class="note-number">*3</span> <a href="https://news.blizzard.com/en-us/article/24304071/world-of-warcraft-forever-found-photos-panel-recap">Blizzard — World of Warcraft: Forever Found Photos Panel Recap</a>. Official published account of the founders, sanctuary, present crisis, and competing groups. <a href="#footnotes" aria-label="Back to footnotes heading">↑</a></p>
+<p class="footnote" id="note-4"><span class="note-number">*4</span> <a href="https://warcraft.wiki.gg/wiki/On_the_Shal%27nan">Warcraft Wiki — On the Shal’nan</a>. Beta audio-crystal transcription concerning his changed demeanor and voluntary abdication. <a href="#footnotes" aria-label="Back to footnotes heading">↑</a></p>
+<p class="footnote" id="note-5"><span class="note-number">*5</span> <a href="https://www.hearthproof.com/lore/skyborne/">Hearthproof — The Hidden People</a>. Unofficial compilation identifying beta quest and crystal sources; used for other islands, coming-of-age customs, and unresolved questions. These details have not all been independently verified against the current client. <a href="#footnotes" aria-label="Back to footnotes heading">↑</a></p>
+<p class="footnote" id="note-6"><span class="note-number">*6</span> <a href="https://us.forums.blizzard.com/en/wow/t/the-sky-touched-mystery-vivid-cerulean-skin/2359532">Blizzard Forums — The Sky-Touched Mystery (Vivid Cerulean Skin)</a>. A player’s quoted beta text, rather than a Blizzard staff statement. <a href="#footnotes" aria-label="Back to footnotes heading">↑</a></p>
+<p class="footnote" id="note-7"><span class="note-number">*7</span> <a href="https://warcraft.wiki.gg/wiki/Harvesting_Windstones">Warcraft Wiki — Harvesting Windstones</a>. Indexed beta quest text placing the spirits’ disappearance several centuries earlier. <a href="#footnotes" aria-label="Back to footnotes heading">↑</a></p>
+<p class="footnote" id="note-8"><span class="note-number">*8</span> <a href="https://warcraftforever.games/maps/zephras-isle">Warcraft Forever — Zephras Isle beta records</a>. Unofficial site preserving recorded client text, including On the Windlord and the Nightclaw Druids reputation description. <a href="#footnotes" aria-label="Back to footnotes heading">↑</a></p>
+<p class="footnote" id="note-9"><span class="note-number">*9</span> <a href="https://news.blizzard.com/en-us/article/24302071/wow-forever-meet-the-new-skyborne">Blizzard — WoW: Forever Meet the New Skyborne</a>. Official descriptions of both orders, their aims, class options, and racial abilities. <a href="#footnotes" aria-label="Back to footnotes heading">↑</a></p>
+<p class="footnote" id="note-10"><span class="note-number">*10</span> <a href="https://www.wowhead.com/news/the-story-of-zephras-isle-horde-and-alliance-pov-383135">Wowhead — The Story of Zephras Isle: Horde and Alliance POV</a>. Early-beta story report containing reproduced NPC dialogue and starting-zone spoilers. Its Dalaran arrival route was superseded by later beta changes; see correction <sup><a href="#note-12" aria-label="Footnote 12">*12</a></sup>. The High Order’s Kirin Tor connection should not be treated as proof of current access to Dalaran. <a href="#footnotes" aria-label="Back to footnotes heading">↑</a></p>
+<p class="footnote" id="note-11"><span class="note-number">*11</span> <a href="https://github.com/ReneSarjeant/Roleplay/blob/8dfb53ca8d54f3d3d02bef2097a4c39f4d1f8a57/RP/Aelindra/index.html">Bryan’s Roleplay repository — Aelindra’s character page</a>. Established personal character history, read from the plugin’s bundled 23 October 2026 snapshot alongside both Aelindra Markdown sheets. This is Bryan’s character canon, not a Blizzard biography. <a href="#footnotes" aria-label="Back to footnotes heading">↑</a></p>
+<p class="footnote" id="note-12"><span class="note-number">*12</span> Bryan’s later-beta correction, supplied 24 October 2026: the portal to Dalaran was removed in subsequent beta patches, so Skyborne cannot use that route to reach Dalaran. This is a user-supplied gameplay correction, not a claim supported by the earlier Wowhead report. No public patch-note URL was supplied. <a href="#footnotes" aria-label="Back to footnotes heading">↑</a></p>
+<p><em>Research checked 24 October 2026; Dalaran travel correction incorporated the same day. This document does not modify Aelindra’s character sheet or the plugin’s bundled canon.</em></p>
+<nav class="page-nav" aria-label="Return navigation"><a href="./index.html">← Return to Aelindra’s character page</a></nav>
+</main></div>
+</body>
+</html>

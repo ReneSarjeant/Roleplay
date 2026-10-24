@@ -117,7 +117,7 @@ Meanwhile, **Grand Skyseer Ayessa Dawnsinger** leads the Windshapers toward the 
 
 The rival orders’ disputes escalate into bloodshed, even though both oppose the cult. They cooperate against its immediate threat, but Lorthuna’s ritual summons **Rohash**, Lord of the East Wind. Intervention by the Kirin Tor and Earthen Ring prevents immediate defeat; the danger to Zephras remains.
 
-Skycutters carry departing Skyborne between realms. Their journeys lead toward Dalaran and the Eastern Kingdoms for the High Order, and Mulgore for the Windshapers.*10
+Wowhead’s early-beta account describes Skycutters carrying departing Skyborne between realms and names Dalaran as the High Order’s arrival hub.*10 That travel detail is outdated: later beta patches removed the Dalaran portal, so it must not be used as an available route for Skyborne characters. Aelindra’s departure should not include arrival in or passage through Dalaran by that removed portal. No replacement arrival point is established here.*12
 
 These are beta story events, not deeds automatically performed by Aelindra. Her biography does not establish that she personally confronted Lorthuna, fought Rohash, or held a decisive role in the island’s defense.
 
@@ -163,9 +163,11 @@ These questions can shape Aelindra’s curiosity without supplying answers she h
 
 *9 [Blizzard — WoW: Forever Meet the New Skyborne](https://news.blizzard.com/en-us/article/24302071/wow-forever-meet-the-new-skyborne). Official descriptions of both orders, their aims, class options, and racial abilities.
 
-*10 [Wowhead — The Story of Zephras Isle: Horde and Alliance POV](https://www.wowhead.com/news/the-story-of-zephras-isle-horde-and-alliance-pov-383135). Beta story report containing reproduced NPC dialogue and starting-zone spoilers; events may change.
+*10 [Wowhead — The Story of Zephras Isle: Horde and Alliance POV](https://www.wowhead.com/news/the-story-of-zephras-isle-horde-and-alliance-pov-383135). Early-beta story report containing reproduced NPC dialogue and starting-zone spoilers. Its Dalaran arrival route was superseded by later beta changes; see correction *12. The High Order’s Kirin Tor connection should not be treated as proof of current access to Dalaran.
 
 *11 [Bryan’s Roleplay repository — Aelindra’s character page](https://github.com/ReneSarjeant/Roleplay/blob/8dfb53ca8d54f3d3d02bef2097a4c39f4d1f8a57/RP/Aelindra/index.html). Established personal character history, read from the plugin’s bundled 23 October 2026 snapshot alongside both Aelindra Markdown sheets. This is Bryan’s character canon, not a Blizzard biography.
 
-*Research checked 24 October 2026. No GitHub files or plugin canon were changed.*
+*12 Bryan’s later-beta correction, supplied 24 October 2026: the portal to Dalaran was removed in subsequent beta patches, so Skyborne cannot use that route to reach Dalaran. This is a user-supplied gameplay correction, not a claim supported by the earlier Wowhead report. No public patch-note URL was supplied.
+
+*Research checked 24 October 2026; Dalaran travel correction incorporated the same day. This document does not modify Aelindra’s character sheet or the plugin’s bundled canon.*
 

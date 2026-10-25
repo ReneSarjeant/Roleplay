@@ -38,6 +38,8 @@ She is still learning, and she is still young. The human way of tracking is slow
 | **Race / Faction** | Skyborne (Shen’dorei) • High Order • Alliance |
 | **Class** | Hunter |
 | **Age** | Still young by elven reckoning. Appears roughly 18–20 to human eyes. Born and raised entirely on Zephras Isle. |
+| **Height** | Tall |
+| **Build** | Slender |
 | **Origin** | Zephras Isle • High Order family • Life lived in the sky |
 | **Personality** | Observant, practical, quietly wry for her age. Prefers clear next steps over long theory. Accepts imperfect tools and imperfect names if they work. Still adjusting to solid ground. |
 | **Focus** | Tracking (sky and ground), scouting from height, elemental prey, ranged combat. Actively refining human methods of reading sign. |
@@ -63,13 +65,13 @@ She is still learning, and she is still young. The human way of tracking is slow
 ## TRP3 (Copyable)
 
 **Characteristics:**  
-Name: Aelindra Sarjeant. True name: Aelindra Ser'jaen'thal. Race: Skyborne (Shen’dorei). Affiliation: High Order; Alliance. Class: Hunter. Age: young by elven reckoning; appears roughly 18–20 to human eyes. Birthplace: Zephras Isle. Residence: traveling. Eyes: light blue. Hair: blonde, Diva style. Skin: pale. Ears: short. Distinguishing marks: blue Gale facial tattoos and Zephyr body tattoos. Gold jewelry, pearl earrings, and feathers. Exact age, height, and weight are unspecified.
+Name: Aelindra Sarjeant. True name: Aelindra Ser'jaen'thal. Race: Skyborne (Shen’dorei). Affiliation: High Order; Alliance. Class: Hunter. Age: young by elven reckoning; appears roughly 18–20 to human eyes. Birthplace: Zephras Isle. Residence: traveling. Eyes: light blue. Hair: blonde, Diva style. Skin: pale. Ears: short. Distinguishing marks: blue Gale facial tattoos and Zephyr body tattoos. Gold jewelry, pearl earrings, and feathers. Height: tall. Build: slender. Exact chronological age is not established.
 
 **Currently:**  
 Traveling through Azeroth, learning to read unfamiliar ground beneath a familiar sky. Practicing the tracking methods taught by a human instructor and tending her island companions, Sirocco the Prideclaw cat and Cairn the Ursera bear. The companion traveling beside her varies; the other may be resting in a stable.
 
 **Description:**  
-A young Skyborne with pale skin, short ears, and light blue eyes. Her blonde hair is arranged in the precise Diva style she favors, with blue Gale markings visible on her face and Zephyr tattoos where her clothing leaves them uncovered. Gold jewelry sits close to her body; pearl earrings and tucked feathers lend elegance to otherwise practical hunting gear. Her gaze often travels upward before returning to the path. When examining a track, she takes her time rather than pretending the answer is obvious.
+A tall, slender young Skyborne with pale skin, short ears, and light blue eyes. Her blonde hair is arranged in the precise Diva style she favors, with blue Gale markings visible on her face and Zephyr tattoos where her clothing leaves them uncovered. Gold jewelry sits close to her body; pearl earrings and tucked feathers lend elegance to otherwise practical hunting gear. Her gaze often travels upward before returning to the path. When examining a track, she takes her time rather than pretending the answer is obvious.
 
 **Glance 1 — Zephyr and Gale:**  
 Blue markings cross her face, with matching wind-patterned tattoos visible wherever her gear leaves skin uncovered.

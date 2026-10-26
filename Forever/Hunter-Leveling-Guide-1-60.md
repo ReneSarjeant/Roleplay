@@ -4,6 +4,24 @@ For Aelindra Sarjeant · WoW Forever · Secondary specialization: Marksmanship a
 
 Sirocco is the Prideclaw cat from Zephras Isle (Ferocity family). Cats deal high damage with thin armor and use **Prowl**.
 
+## Talent Progression (BM leveling, MM secondary)
+
+Destination at 60 is 31 Beast Mastery / 20 Marksmanship.
+
+| Levels | Talent | Notes |
+|--------|--------|-------|
+| 10–14 | Deadly Aspects 5/5 | Attack speed procs under Aspect of the Hawk. Strong early damage. Alternative: Endurance Training 5/5 if Sirocco feels too squishy early. |
+| 15–16 | Focused Fire 2/2 | +2% damage for you and your pet while the pet is out. |
+| 17–18 | Pathfinding 2/2 | Faster travel between pulls. |
+| 19–20 | Improved Revive Pet 1–2 + Bestial Swiftness 1/1 | Pet recovery and faster pet engagement (required for Intimidation). |
+| 21–24 | Unleashed Fury 4–5/5 | Increased pet and hawk damage. |
+| 25 | Summon Hawk 1/1 | Major power spike. |
+| 26–29 | Finish Unleashed Fury + start/finish Ferocity | Crit chance for pet and hawks. |
+| 30 | Intimidation 1/1 | Pet stun and control. |
+| 31–39 | Finish Ferocity → Bestial Discipline → Frenzy 5/5 | Frenzy is strong once Ferocity is maxed. |
+| 40 | Bestial Wrath 1/1 | Big pet damage cooldown. Dual Spec opens — set secondary to Marksmanship. |
+| 41–60 | Marksmanship | Lethal Attacks 5/5, Careful Aim 5/5, Mortal Shots 5/5, Rapid Killing 2/2, Efficiency 3/5. |
+
 ## Solo Playstyle
 
 Send Sirocco in first and let it build threat for a couple of seconds. Apply Hunter’s Mark on anything that will take time. Use Serpent Sting on longer fights. Stay at range with Auto Shot under Aspect of the Hawk. Once available, use Summon Hawk on cooldown for longer fights (it shares a cooldown with Arcane Shot — favor the hawk when the fight will last). Use Aimed Shot on single targets and Multi-Shot on packs. Arcane Shot fills gaps when mana allows. Intimidation controls tough targets or recovers threat. Bestial Wrath (once unlocked) is the pet burst cooldown. Mend Pet early. Feign Death and Concussive Shot for safety or resets.

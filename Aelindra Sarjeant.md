@@ -172,7 +172,7 @@ Ordinary hunter companion, not a speaking familiar or an elemental. The temperam
 ## Pet TRP3 — Thalorien (Ursera Bear)
 
 **Characteristics:**  
-Name: Thalorien. Title: Aelindra’s trail companion. Species: Ursera (bear); native to Zephras Isle. Role: seasoned hunting and dungeon companion. Age, sex, coat color, and markings: unspecified; match the actual in-game pet.
+Name: Thalorien (thah-LOR-ee-en). Title: Aelindra’s young companion. Species: Ursera (bear); native to Zephras Isle. Role: peaceful RP companion, not the regular combat pet. Young; sex, coat color, and markings unspecified—match the in-game pet.
 
 **Currently:**  
 Joining Aelindra at a campfire or peaceful RP gathering, sniffing curiously at unfamiliar things, or resting safely while Sylthara accompanies her into danger.

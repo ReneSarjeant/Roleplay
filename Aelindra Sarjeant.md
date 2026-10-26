@@ -68,7 +68,7 @@ She is still learning, and she is still young. The human way of tracking is slow
 Name: Aelindra Sarjeant. True name: Aelindra Ser'jaen'thal. Race: Skyborne (Shen’dorei). Affiliation: High Order; Alliance. Class: Hunter. Age: young by elven reckoning; appears roughly 18–20 to human eyes. Birthplace: Zephras Isle. Residence: traveling. Eyes: light blue. Hair: blonde, Diva style. Skin: pale. Ears: short. Distinguishing marks: blue Gale facial tattoos and Zephyr body tattoos. Gold jewelry, pearl earrings, and feathers. Height: tall. Build: slender. Exact chronological age is not established.
 
 **Currently:**  
-Traveling through Azeroth, learning to read unfamiliar ground beneath a familiar sky. Practicing the tracking methods taught by a human instructor and tending her island companions, Sirocco the Prideclaw cat and Cairn the Ursera bear. The companion traveling beside her varies; the other may be resting in a stable.
+Traveling through Azeroth, learning to read unfamiliar ground beneath a familiar sky. Practicing the tracking methods taught by a human instructor and tending her island companions, Sylthara the Prideclaw cat and Thalorien the Ursera bear. The companion traveling beside her varies; the other may be resting in a stable.
 
 **Description:**  
 A tall, slender young Skyborne with pale skin, short ears, and light blue eyes. Her blonde hair is arranged in the precise Diva style she favors, with blue Gale markings visible on her face and Zephyr tattoos where her clothing leaves them uncovered. Gold jewelry sits close to her body; pearl earrings and tucked feathers lend elegance to otherwise practical hunting gear. Her gaze often travels upward before returning to the path. When examining a track, she takes her time rather than pretending the answer is obvious.
@@ -107,7 +107,7 @@ Aelindra is a young hunter of the Skyborne High Order, accustomed to watching cu
 
 Most people know her as Sarjeant. Those who ask politely may hear the longer name, though she will not insist they pronounce it correctly on the first attempt. A clear lesson, a useful trail, or quiet company earns more of her attention than a grand claim.
 
-Her Prideclaw cat, Sirocco, and Ursera bear, Cairn, come from the same island. Whichever accompanies her receives the same patient attention she gives the trail.
+Her Prideclaw cat, Sylthara, and Ursera bear, Thalorien, come from the same island. Whichever accompanies her receives the same patient attention she gives the trail.
 
 **Notes (private continuity):**  
 Year 25 setting. Exact chronological age is not established.
@@ -117,7 +117,7 @@ Her parents are scholars of modest standing. Do not invent their deaths or resol
 Gold jewelry and her mother’s pearl earrings connect her to home; no bereavement is implied.
 Sarjeant came from a human trainer’s pronunciation of Ser'jaen'thal. Shared surnames do not establish kinship with other characters.
 Ground tracking remains a developing skill. Preserve her existing island training and elemental awareness without making either infallible.
-Sirocco and Cairn are her island companions. Their profile names and everyday habits are roleplay additions created for this expansion, not official creature lore.
+Sylthara and Thalorien are her island companions. Their profile names and everyday habits are roleplay additions created for this expansion, not official creature lore.
 No direct Dalaran portal, new island victories, or additional quest deeds are established by these profiles.
 
 ## OOC
@@ -131,13 +131,13 @@ Ask about a visible tattoo, the feathers, her bow, or the pronunciation of her n
 **Companion use:**  
 Use the pet profiles for the animal currently accompanying her. They do not require both pets to be present together. Keep animal reactions and other players’ responses open; ask before approaching, feeding, or touching either companion.
 
-## Pet TRP3 — Sirocco (Prideclaw Cat)
+## Pet TRP3 — Sylthara (Prideclaw Cat)
 
 **Characteristics:**  
-Name: Sirocco. Title: Aelindra’s hunting companion. Species: Prideclaw (cat); native to Zephras Isle. Role: hunting partner. Age, sex, coat color, and markings: unspecified; match the actual in-game pet.
+Name: Sylthara. Title: Aelindra’s hunting companion. Species: Prideclaw (cat); native to Zephras Isle. Role: hunting partner. Age, sex, coat color, and markings: unspecified; match the actual in-game pet.
 
 **Currently:**  
-Accompanying Aelindra on the trail, resting nearby when the party stops, or staying in a stable when Cairn travels with her. Use the version that matches the current scene.
+Accompanying Aelindra on the trail, resting nearby when the party stops, or staying in a stable when Thalorien travels with her. Use the version that matches the current scene.
 
 **Description:**  
 A Prideclaw cat from Zephras Isle with a hunter’s attentive stillness. The head turns toward small sounds while the body remains quiet; movement follows in a few deliberate steps. Around Aelindra, the cat watches for a familiar cue before closing the distance. Coat and markings should follow the actual pet model.
@@ -161,21 +161,21 @@ Even when settled, a moving ear or the lift of the head betrays interest in soun
 Quietly curious and selective about company. More inclined to investigate from the edge than place itself in the middle of a crowd. Familiarity earns proximity; it does not guarantee affection on demand.
 
 **Motto / handler’s phrase:**  
-“Easy, Sirocco. Let it pass.”
+“Easy, Sylthara. Let it pass.”
 
 **About / History:**  
-Sirocco is Aelindra’s Prideclaw cat companion from Zephras Isle, a familiar presence from the sky-born home they share. On unfamiliar roads, their partnership is built around attention: the cat notices movement; Aelindra watches what has caught its interest. Neither is an infallible scout. The name Sirocco is a wind-inspired roleplay name, not a claimed Shen’dorei translation. No specific taming encounter is established.
+Sylthara is Aelindra’s Prideclaw cat companion from Zephras Isle, a familiar presence from the sky-born home they share. On unfamiliar roads, their partnership is built around attention: the cat notices movement; Aelindra watches what has caught its interest. Neither is an infallible scout. The name Sylthara is a roleplay name suggesting silver wind; it is not a claimed Shen’dorei translation. No specific taming encounter is established.
 
 **OOC:**  
 Ordinary hunter companion, not a speaking familiar or an elemental. The temperament and name are new roleplay additions. Match appearance to the actual Prideclaw cat. Do not assume flight, supernatural tracking, guaranteed obedience, or a particular trained ability. Ask Aelindra before feeding or petting; leave reactions open.
 
-## Pet TRP3 — Cairn (Ursera Bear)
+## Pet TRP3 — Thalorien (Ursera Bear)
 
 **Characteristics:**  
-Name: Cairn. Title: Aelindra’s trail companion. Species: Ursera (bear); native to Zephras Isle. Role: hunting partner. Age, sex, coat color, and markings: unspecified; match the actual in-game pet.
+Name: Thalorien. Title: Aelindra’s trail companion. Species: Ursera (bear); native to Zephras Isle. Role: hunting partner. Age, sex, coat color, and markings: unspecified; match the actual in-game pet.
 
 **Currently:**  
-Traveling beside Aelindra, testing the roadside for an interesting scent, or resting in a stable while Sirocco accompanies her. Use the version that matches the current scene.
+Traveling beside Aelindra, testing the roadside for an interesting scent, or resting in a stable while Sylthara accompanies her. Use the version that matches the current scene.
 
 **Description:**  
 A solidly built Ursera bear from Zephras Isle that gives unfamiliar things a long sniff before deciding whether they deserve another step. At rest, its weight settles heavily; when Aelindra moves, its attention returns to her direction and pace. Fur color and markings should match the actual pet model.
@@ -199,10 +199,10 @@ When settled, the bear looks thoroughly settled—until a familiar cue or an int
 Patient in familiar routines, persistent about interesting smells, and capable of stubborn pauses. Comfortable company need not mean harmless company; Aelindra gives the bear room and expects others to do the same.
 
 **Motto / handler’s phrase:**  
-“Come along, Cairn. That is somebody else’s supper.”
+“Come along, Thalorien. That is somebody else’s supper.”
 
 **About / History:**  
-Cairn is Aelindra’s Ursera bear companion from Zephras Isle. Where Sirocco’s attention feels quick and narrow, Cairn gives the road a slower inspection. The bear’s presence offers familiar company while Aelindra learns the mainland, without turning either companion into a substitute for judgment. The name is the Common word for a mound of stones, chosen as an affectionate contrast to her wind-inspired cat’s name; it does not establish a memorial or a death. No specific taming encounter is established.
+Thalorien is Aelindra’s Ursera bear companion from Zephras Isle. Where Sylthara’s attention feels quick and narrow, Thalorien gives the road a slower inspection. The bear’s presence offers familiar company while Aelindra learns the mainland, without turning either companion into a substitute for judgment. The name is a roleplay choice suggesting one of the high forest or elevated wilds; it does not establish a memorial or a death. No specific taming encounter is established.
 
 **OOC:**  
 Ordinary hunter companion, not a spirit bear or an elemental. The temperament and name are new roleplay additions. Match appearance to the actual Ursera bear. No flight, magical protection, or particular trained ability is implied. Do not feed, ride, or touch without asking Aelindra; leave reactions and outcomes open.

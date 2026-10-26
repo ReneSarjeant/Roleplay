@@ -78,6 +78,20 @@
   strong { color: #b8e8f8; }
   ul { margin: 0.5rem 0 1rem 1.2rem; padding: 0; }
   li { margin: 0.35rem 0; }
+  .portraits {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+    margin: 1.5rem 0 2rem 0;
+  }
+  .portraits img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+    border: 1px solid rgba(120, 190, 220, 0.4);
+  }
   @media (max-width: 600px) {
     .container { padding: 1.5rem 1rem; }
     h1 { font-size: 1.9rem; }
@@ -94,8 +108,9 @@
     <div class="subtitle">Skyborne High Order Hunter · Appears roughly 18–20 to human eyes · Born and raised in the sky</div>
     <p class="intro">Aelindra Ser'jaen'thal left Zephras Isle with a High Order group. A human hunting trainer could not pronounce her true surname and called her Sarjeant. She kept the useful name.</p>
 
-    <div style="text-align: center; margin: 1.5rem 0 2rem 0;">
-      <img src="./aelindra-framed-portrait.jpg" alt="Aelindra Sarjeant — Framed Portrait" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5); border: 1px solid rgba(120, 190, 220, 0.4);">
+    <div class="portraits">
+      <img src="./aelindra-framed-portrait.jpg" alt="Aelindra Sarjeant — Framed Portrait" style="max-width: 420px;">
+      <img src="./aelindra-skyborne-portrait.jpg" alt="Aelindra Sarjeant — Skyborne Portrait" style="max-width: 420px;">
     </div>
 
     <h2>Early Life on Zephras Isle</h2>

@@ -42,22 +42,54 @@ Year 25. Age 28.
 ## TRP3 (Copyable)
 
 **Currently:**  
-Traveling and taking work where she can find it. Still learning the warrior’s path. Keeps the old iron sword close and checks on whoever stands beside her when a fight ends.
+Traveling and taking work where she can find it. Still learning the warrior’s path. Keeps her old iron sword close and checks on whoever stands beside her when a fight ends.
+
+**Description:**  
+A human woman of about 28, standing 5 feet 7 inches tall, with a narrow face, intense brows, and striking purple eyes. Her blonde hair is worn in a flipped style; light lavender makeup and double upper earrings are deliberate touches. She wears serviceable chain mail and carries a plain two-handed iron sword. Her serious expression can soften readily in good company.
 
 **Glance 1 — Old iron sword:**  
-Two-handed, plain, from the mill. The veteran who gave it to her did not make it out. She keeps it close.
+A plain, well-kept two-handed iron sword rides close at hand. Its age shows, but she maintains it.
 
-**Glance 2 — Chain mail:**  
-Worn but serviceable. What she has been able to keep in service since Northshire.
+**Glance 2 — Serviceable chain mail:**  
+Her chain mail is worn but kept in working order, with straps and fittings she tends as needed.
 
-**Glance 3 — Purple eyes:**  
-Striking. Intense brows and a narrow face make her look more severe than she usually feels. Light lavender makeup. Double upper earrings.
+**Glance 3 — A striking gaze:**  
+Purple eyes, intense brows, and a narrow face give her a serious look. Lavender makeup and double upper earrings add a more personal touch.
 
-**Glance 4 — The mill:**  
-She never uses the name the place carries now. Grain fields, the old wheel, the road south. She does not speak of it often.
+**Glance 4 — Practical gear:**  
+Her equipment is practical and tended. She notices a loose strap or a burden that needs shifting and is willing to lend a hand.
 
 **Glance 5 — Beside her:**  
-When a fight ends she checks on whoever was standing next to her. Habit from the life she left behind.
+After a fight she checks on whoever was standing nearby, looking for injuries or a need for help.
+
+**Personality:**  
+Steady, practical, and quietly determined. She listens before joining a conversation, respects people who do their share, and shows care through action. With familiar company she is friendly and dryly funny. Proud of her progress, she is also willing to learn from more experienced fighters.
+
+**Motto:**  
+“Progress over perfection.”
+
+**Notes:**
+
+- Raised at the mill in Hillsbrad, among farming and milling families; she usually calls it “the mill.”
+- Fought in the defense of her home and escaped through Southshore in Year 24, at about 27.
+- Carries an old iron two-handed sword given to her by a veteran from the mill; the veteran did not make it out.
+- Answered the call for help at Northshire after reaching Stormwind; her chain mail is what she has kept serviceable since those early days.
+- Checks on the person beside her after a fight. She values doing her share and helping in practical ways.
+- Still learning to be a warrior. She respects experience, practices, and takes pride in improvement.
+- Her home and the people she lost are personal; she chooses when and how much to share.
+- Plainspoken with a gentle northern Lordaeron cadence, warm among friends and dryly humorous.
+
+### Characteristics (paste into TRP3)
+
+First name: Star. Last name: Teva. Title: none specified. Full title: Star Teva. Race: Human. Class: Warrior. Age: 28 in Year 25. Height: 5′7″. Weight: 145 lbs. Eyes: purple. Hair: blonde, flipped. Face: narrow with intense brows. Piercings: double upper earrings. Makeup: light lavender.
+
+### About (paste into TRP3)
+
+Star Teva grew up among the farming and milling families of Tarren Mill in the Hillsbrad Foothills. She fought in its defense and escaped through Southshore in Year 24, carrying the old iron two-handed sword a veteran had given her. The veteran did not make it out. After reaching Stormwind, she answered the call for help at Northshire. Now she takes work where she can find it, keeps her chain mail serviceable, and continues to learn the warrior’s path. She does not often speak of the mill, but remembers it as home.
+
+### OOC
+
+Human warrior, age 28 in Year 25. Star is a Tarren Mill survivor and an aspiring fighter, not a master swordswoman. Her Year 24 defense and escape are her character’s story; the year of the Forsaken takeover is a roleplay assumption rather than a confirmed lore date. Open to practical work, training, travel, shared meals, and conversations about home when trust develops.
 
 ## Appearance (In-Game)
 

@@ -1,12 +1,12 @@
-# Sister René Sarjeant — Character Personality & Roleplay Guide
+# Sister Brinn Sarjeant — Character Personality & Roleplay Guide
 
 ## Her foundation
 
-Sister René Sarjeant is a twenty-year-old human priest in Year 25. She grew up in a dyer’s cottage in the outer wards of Lordaeron’s Capital City. Her mother Edith kept the yard; her father Ham tended the vats. At fifteen René fled the city with Edith. Years on the refugee roads and the guidance of a field sister named Maud shaped her work as a healer.
+Sister Brinn Sarjeant is a twenty-year-old human priest in Year 25. She grew up in a dyer’s cottage in the outer wards of Lordaeron’s Capital City. Her mother Edith kept the yard; her father Ham tended the vats. At fifteen Brinn fled the city with Edith. Years on the refugee roads and the guidance of a field sister named Maud shaped her work as a healer.
 
 ## Personality
 
-Warm, steady, and quietly funny: René notices the person who needs help and looks for something useful she can do. She is compassionate without forcing a prayer or a conversation on anyone. She can be stubborn, uncertain, amused, or tired; she is twenty, not a perfect or endlessly solemn healer. Her warmth and playful moments are ways to play her, not new events in her history.
+Warm, steady, and quietly funny: Brinn notices the person who needs help and looks for something useful she can do. She is compassionate without forcing a prayer or a conversation on anyone. She can be stubborn, uncertain, amused, or tired; she is twenty, not a perfect or endlessly solemn healer. Her warmth and playful moments are ways to play her, not new events in her history.
 
 ## With strangers and friends
 
@@ -18,7 +18,7 @@ She gives clear, short instructions and tends to the next need she can address. 
 
 ## Her voice and humor
 
-René speaks plain, working-class Common with a light, old-fashioned household cadence. Ordinary contractions and practical words feel right; occasional ‘then’ or ‘mind’ can come naturally. Avoid heavy phonetic spelling, constant proverbs, groveling, or making every remark about cloth. Her humor is restrained, dry, and sometimes affectionate. With trusted people she can sound young and uncertain.
+Brinn speaks plain, working-class Common with a light, old-fashioned household cadence. Ordinary contractions and practical words feel right; occasional ‘then’ or ‘mind’ can come naturally. Avoid heavy phonetic spelling, constant proverbs, groveling, or making every remark about cloth. Her humor is restrained, dry, and sometimes affectionate. With trusted people she can sound young and uncertain.
 
 ## Faith, Shadow, and the work
 
@@ -30,7 +30,7 @@ She might check the clean side of a bandage, name a plant before cutting it, or 
 
 ## Home and private history
 
-Home is the dyer’s yard, Edith and Ham, the wash-lines, bells, and the outer wards—not a sweeping lesson on human ancestry. Ham stayed at the door and his fate remains unknown. Edith’s last letter came from a Stormwind chapel kitchen; her present whereabouts remain qualified by that letter. Maud died when René was eighteen. René chose the title Sister after the wounded called her by it; no bishop bestowed it. Strangers do not automatically know her private history.
+Home is the dyer’s yard, Edith and Ham, the wash-lines, bells, and the outer wards—not a sweeping lesson on human ancestry. Ham stayed at the door and his fate remains unknown. Edith’s last letter came from a Stormwind chapel kitchen; her present whereabouts remain qualified by that letter. Maud died when Brinn was eighteen. Brinn chose the title Sister after the wounded called her by it; no bishop bestowed it. Strangers do not automatically know her private history.
 
 ## Quick roleplay examples
 

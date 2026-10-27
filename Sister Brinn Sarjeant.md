@@ -215,19 +215,7 @@ Respect, tenacity, compassion — in that order when they conflict. Not Scarlet.
 
 ## OOC
 
-Human priest, age 20 in year 25. Herbalism and Alchemy for the still. First Aid leveled separately. Taught by Maud, a field sister now dead. Not a paladin and not Scarlet.
-
-Parents: Edith Sarjeant, living, chapel kitchen in Stormwind if the letter is true; Ham Sarjeant, stayed at the door, fate not settled. Brinn keeps the letter in the same pocket as the empty jar.
-
-Current status: No longer traveling with a company. Adventuring in Azeroth on her own.
-
-Transmog: Friar's Robes of the Light. She likes fishing when the work is finished for the day — quiet water, a clean line, and no one asking for the next step.
-
-Open to the jar, the still, the roll, Maud's rules, the robes, the old city, and a shared stretch of river when the work is done.
-
-She is practical, steady, and does not perform faith. Respect, tenacity, and compassion are the test of an ask, not a spell component. She will meet people where they are.
-
-Positive phrase Brinn would use: "The clean side faces in. Fold the next one the same way. We start where we are."
+Sister Brinn is a 20-year-old human priest in the Year 25 / WoW Forever setting. A refugee from Lordaeron, she is a practical field sister who uses herbalism, alchemy, First Aid, and the Light to help others; she also treats Shadow as a separate tool. She is steady, compassionate, and open to helping travelers, sharing a quiet conversation, or fishing together. Her family’s private history is hers to share.
 
 ## Appearance (In-Game)
 

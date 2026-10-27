@@ -129,7 +129,7 @@ Ironforge will let a refugee sweep a forge. It will not give her the stool back.
 
 ## OOC
 
-Gnome mage, 40, just of age by the old count. A human will read her as a teenager. Engineering apprentice, not a finished tinker. Tailoring and enchanting are the exile crafts. Fishing is the one she loves. Year 25 / WoW Forever early Azeroth: Gnomeregan still lost, cot in Tinker Town. The bird and the house name are not settled. Answers to René. Full sheet and narrative live at this file in the Roleplay repo.
+René Sarjeant is a 40-year-old gnome mage, just of age by the old gnome count, in the Year 25 / WoW Forever setting. A refugee from Gnomeregan, she is a curious, precise, and stubborn former engineering apprentice who practices tailoring and enchanting and loves fishing. She welcomes adventures, friendly conversation, and shared interests in mechanisms or fishing. Her birth name and private history are hers to share.
 
 ## Appearance (In-Game)
 

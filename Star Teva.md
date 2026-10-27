@@ -1,14 +1,14 @@
 # Star Teva
 
-Human warrior. Twenty-eight years old in year 25. Raised in a quiet farming and milling settlement in the Hillsbrad Foothills she still simply calls “the mill.” Escaped south through Southshore in Year 20 when the Scourge reached the Foothills, then answered the call for help at Northshire. Carries an old iron two-handed sword and wears the chain mail she has been able to keep in service.
+Human warrior. Twenty-eight years old in year 25. Raised in a quiet farming and milling settlement in the Hillsbrad Foothills she still simply calls “the mill.” Fought in the defense of the mill and escaped south through Southshore in Year 24, then answered the call for help at Northshire. Carries an old iron two-handed sword and wears the chain mail she has been able to keep in service.
 
 ## The Mill
 
 Star Teva is 28. She was born and raised in a quiet human farming and milling settlement in the Hillsbrad Foothills that she still simply calls “the mill.” She never uses the name the place carries now. To her it was always just home—grain fields, the old mill wheel, a handful of families, and the road that ran south toward Southshore.
 
-## Year 20 – Escape
+## Year 24 – Defense and Escape
 
-In Year 20 ADP, when the Scourge plague and the fall of Lordaeron reached the Foothills, the settlement could not hold. Star left with what she could carry. She moved south through Southshore while it was still standing as a human town, then continued farther south and west until she reached Stormwind. She was twenty-three then. The old iron two-handed sword she still uses came with her from the mill; the veteran who gave it to her did not.
+In Year 24 ADP, as the Forsaken took Tarren Mill, Star fought to defend her home. The settlement could not hold, and she escaped with what she could carry. She moved south through Southshore while it was still a human town, then continued to Stormwind. She was about twenty-seven. The old iron two-handed sword she still uses came with her from the mill; the veteran who gave it to her did not make it out.
 
 ## Northshire and Beyond
 
@@ -71,7 +71,7 @@ Face Shape: Narrow 1
 Piercings: Double Upper Earrings 4  
 Makeup: Lavender 3
 
-## Tauren Mill notes
+## Tarren Mill notes
 
 *OOC lore reference: the canonical place-name is **Tarren Mill**, rather than “Tauren Mill.” These notes concern history relevant to the Year 25 setting; they do not establish that Star Teva personally witnessed its major events.*
 
@@ -80,8 +80,8 @@ Makeup: Lavender 3
 - **Friendship with Southshore:** Before the Scourging, Tarren Mill and Southshore were friendly communities. A tower between them commemorated their friendship and brotherhood. Their later hostility was not an ancient rivalry. [2]
 - **Survival after the Third War:** *The Sunwell Trilogy* depicts Tarren Mill still inhabited by living humans roughly two years after the Third War. Dar’Khan Drathir led a Scourge attack while pursuing the Sunwell’s power; Kalecgos, Tyrygosa, Anveena, Jorad Mace, and others helped repel it. That attack should not be confused with the town’s final loss to the Forsaken. [1]
 - **Original WoW / Year 25 context:** By original WoW, the Forsaken occupy Tarren Mill and use it as a base against nearby human settlements. High Executor Darthalia directs attacks on Hillsbrad’s farms while the apothecaries develop their plague. [2]
-- **Uncertain capture date:** The consulted sources do not establish an exact date for the final Forsaken takeover. “Within the past year or so” may be used as a qualified roleplay interpretation, not a firmly sourced date.
-- **Star Teva continuity:** Her existing biography places her flight from “the mill” in Year 20, at age 23. Fleeing an earlier Scourge threat need not mean Tarren Mill permanently fell that year. Preserve her established escape date and distinguish it from the later Forsaken occupation; do not silently rewrite her history.
+- **Roleplay assumption:** The sources do not establish an exact year for the final Forsaken takeover. For Star’s story, we place the fall and her escape in Year 24, when she was about 27. This is a chosen roleplay date, not a confirmed lore date. Her previous Year 20 departure has been revised accordingly.
+- **Star’s defense:** Her participation in the defense and escape is her character history, not a claim that Warcraft sources document her involvement.
 - **Possible roleplay memories:** Remembering Tarren Mill as a living hometown and Southshore as a friendly neighboring community fits the historical background. Specific childhood incidents, neighbors, or eyewitness involvement remain proposed additions until chosen.
 
 ### Sources

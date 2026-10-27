@@ -9,7 +9,7 @@ Before there were Skyborne, there was Eldre’Thalas.
 
 Aelindra’s ancestors belonged to the elven civilization that survived in the city now called Dire Maul. Their roots reach back to the Highborne, the learned and privileged practitioners of arcane magic within ancient night elf society. They were not originally a people of floating islands. Their history began on Kalimdor, beneath the same sky as the rest of their kin.
 
-The War of the Ancients and the destruction of the Well of Eternity severed the source of power upon which the Highborne had depended. Survival brought a new danger: magical deprivation. Prince Tortheldrin’s answer was demonic power, associated with the captive demon Immol’thar. The ancestors of the Skyborne rejected the path their ruler chose.*1
+The War of the Ancients and the destruction of the Well of Eternity severed the source of power upon which the Highborne had depended. Survival brought a new danger: magical deprivation. Prince Tortheldrin sought demonic power to sustain his people, and the ancestors of the Skyborne opposed his plan. Icy Veins connects the dispute to the captive demon Immol’thar, but the beta-crystal account summarized by Hearthproof does not name the demon. That identification remains uncertain.*1
 
 Their story therefore begins with a refusal. In a literary reading of their history, their defining inheritance is the willingness to question a powerful protector when protection demands too high a price.
 
@@ -145,7 +145,7 @@ These questions can shape Aelindra’s curiosity without supplying answers she h
 
 ## Footnotes
 
-*1 [Icy Veins — Who Are the Skyborne? The Lore Behind WoW Forever’s New Race](https://www.icy-veins.com/wow-forever/news/who-are-the-skyborne-the-lore-behind-wow-forevers-new-race/). Secondary historical recap; used for the Eldre’Thalas background and its proposed chronology.
+*1 [Icy Veins — Who Are the Skyborne? The Lore Behind WoW Forever’s New Race](https://www.icy-veins.com/wow-forever/news/who-are-the-skyborne-the-lore-behind-wow-forevers-new-race/). Secondary historical recap; identifies Immol’thar and proposes a chronology, both of which should be read alongside the beta-crystal account in footnote 5.
 
 *2 [Warcraft Wiki — The Rebellion in Eldre’Thalas, Part 3](https://warcraft.wiki.gg/wiki/The_Rebellion_In_Eldre%27Thalas%2C_Part_3). Transcription of a beta in-game audio crystal. Rumors in the recording remain rumors.
 
@@ -153,7 +153,7 @@ These questions can shape Aelindra’s curiosity without supplying answers she h
 
 *4 [Warcraft Wiki — On the Shal’nan](https://warcraft.wiki.gg/wiki/On_the_Shal%27nan). Beta audio-crystal transcription concerning his changed demeanor and voluntary abdication.
 
-*5 [Hearthproof — The Hidden People](https://www.hearthproof.com/lore/skyborne/). Unofficial compilation identifying beta quest and crystal sources; used for other islands, coming-of-age customs, and unresolved questions. These details have not all been independently verified against the current client.
+*5 [Hearthproof — The Hidden People](https://www.hearthproof.com/lore/skyborne/). Unofficial compilation identifying beta quest and crystal sources, including The Rebellion in Eldre’Thalas, Parts 1–4, and On the Shal’nan; used for the rebellion, other islands, coming-of-age customs, and unresolved questions. These details have not all been independently verified against the current client.
 
 *6 [Blizzard Forums — The Sky-Touched Mystery (Vivid Cerulean Skin)](https://us.forums.blizzard.com/en/wow/t/the-sky-touched-mystery-vivid-cerulean-skin/2359532). A player’s quoted beta text, rather than a Blizzard staff statement.
 
@@ -169,5 +169,5 @@ These questions can shape Aelindra’s curiosity without supplying answers she h
 
 *12 Bryan’s later-beta correction, supplied 24 October 2026: the portal to Dalaran was removed in subsequent beta patches, so Skyborne cannot use that route to reach Dalaran. This is a user-supplied gameplay correction, not a claim supported by the earlier Wowhead report. No public patch-note URL was supplied.
 
-*Research checked 24 October 2026; Dalaran travel correction incorporated the same day. This document does not modify Aelindra’s character sheet or the plugin’s bundled canon.*
+*Research checked 24 October 2026; Dalaran travel correction incorporated the same day. Immol’thar attribution and crystal sources reviewed 27 October 2026. This document does not modify Aelindra’s character sheet or the plugin’s bundled canon.*
 

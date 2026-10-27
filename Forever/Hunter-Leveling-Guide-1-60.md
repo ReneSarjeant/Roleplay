@@ -58,7 +58,7 @@ Once Sylthara is high level (especially 50+), unlock the top ranks so the Pridec
 1. Tame a temporary beast that knows the desired high-rank ability (Beast Lore confirms it when available).
 2. The rank becomes available in your training pool.
 3. Abandon or stable the temporary pet.
-4. Train the rank onto Sylthara at a pet trainer if the family can learn it and you have the points and level.
+4. With Sylthara summoned, Aelindra can use her Train Pet spell to teach Sylthara the rank, if the cat family can learn it and Sylthara meets the required level and has enough training points.
 
 You only need to unlock each rank once. After that, any eligible pet can learn it. Do this after Sylthara has enough training points.
 

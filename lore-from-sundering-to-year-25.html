@@ -67,6 +67,14 @@
     color: #90b8c8;
     font-style: italic;
   }
+  a { overflow-wrap: anywhere; }
+  a:focus-visible { outline: 2px solid #f1d78b; outline-offset: 4px; }
+  sup { font-size: 0.75em; line-height: 0; }
+  .source-note { padding: 0.8rem 1rem; border-left: 3px solid #7ec8e0; background: rgba(0,0,0,0.2); }
+  .sources { padding-left: 1.5rem; font-size: 0.94rem; }
+  .sources li { padding: 0.6rem 0 0.6rem 0.3rem; }
+  [id] { scroll-margin-top: 1.5rem; }
+  :target { outline: 1px solid #f1d78b; outline-offset: 4px; }
   @media (max-width: 600px) {
     .container { padding: 1.5rem 1rem; }
     h1 { font-size: 1.9rem; }
@@ -77,33 +85,52 @@
 <div class="overlay">
   <div class="container">
     <nav class="nav" aria-label="Page navigation">
-      <a href="./index.html">← Return to Character Sheets</a> · <a href="./lore-to-sundering.html">Lore to Year -10,000</a>
+      <a href="./index.html">← Return to Character Sheets</a> · <a href="./lore-to-sundering.html">Lore to Year -10,000</a> · <a href="#sources">Sources &amp; footnotes</a>
     </nav>
     <h1>Warcraft Lore from Year -10,000 to Year 25</h1>
     <p class="subtitle">After the Great Sundering — the Long Vigil, the high elves, the Third War, and the present</p>
-    <p><em>A brief continuation of the previous page. Focuses on the major turns that shaped the world the characters now walk. Skyborne history is summarized only enough to place them, then linked to their full sourced page.</em></p>
+    <p><em>A brief continuation of the previous page, focused on the elven histories relevant to these characters. This is a selective overview, not a complete chronology. Numbered references distinguish classic Warcraft history, published Forever lore, and Bryan’s character canon.</em></p>
+    <p class="source-note"><strong>Dates and scope:</strong> This repository uses Year 25 after the first opening of the Dark Portal as its roleplay present, and approximately Year -10,000 for the Sundering. These are the page’s chronological frame. Blizzard describes Forever as occupying the original WoW era in its own time bubble; its panel recap calls this an early “Year 1” period, rather than explicitly specifying Year 25 after the Dark Portal. The two labels should not be treated as the same calendar statement.<sup><a href="#note-5" aria-label="Source 5">[5]</a></sup></p>
 
     <h2>The Long Vigil and Nordrassil</h2>
-    <p>After the Sundering the surviving night elves withdrew to the slopes of Mount Hyjal. The World Tree Nordrassil was planted above a new Well of Eternity. Its blessing granted the night elves immortality and bound the dragon Aspects to protect the tree. The Long Vigil began: the night elves stood watch against any return of the Burning Legion. Arcane magic was largely set aside by the remaining kaldorei.</p>
+    <p>After the Sundering, night elf survivors rebuilt around Mount Hyjal. Alexstrasza grew Nordrassil from an enchanted acorn in the new Well of Eternity. Nozdormu’s enchantment protected the night elves from aging and disease; Ysera linked the tree to the Emerald Dream, with the druids agreeing to long periods of sleep. Malfurion and the three Aspects made a pact to safeguard the Well against the Legion’s return. This was not simply a blessing binding the Aspects to guard the tree.<sup><a href="#note-1" aria-label="Source 1">[1]</a></sup></p>
+    <p>The kaldorei turned away from arcane spellcasting toward druidism. During the Long Vigil, Tyrande’s Sentinels guarded their homeland while the druids slept.<sup><a href="#note-1" aria-label="Source 1">[1]</a></sup></p>
 
     <h2>The high elves and Quel’Thalas</h2>
-    <p>Some Highborne who had survived the war continued to practice arcane magic. After a magical storm they unleashed, they were exiled from Kalimdor. Led by Dath’Remar Sunstrider they crossed the sea, founded Quel’Thalas, and used a vial of the original Well to create the Sunwell. Over time they became the high elves. Their kingdom stood for thousands of years until the Third War.</p>
+    <p>Dath’Remar’s Highborne followers defied the prohibition on arcane magic by unleashing a storm over Ashenvale. They were exiled, sailed east, and became known as high elves.<sup><a href="#note-1" aria-label="Source 1">[1]</a></sup> Led by Dath’Remar Sunstrider, the exiles eventually founded Quel’Thalas. They created the Sunwell using water preserved from the original Well of Eternity, establishing a new source of arcane power.<sup><a href="#note-2" aria-label="Source 2">[2]</a></sup></p>
+    <p>During the Third War, Arthas’s Scourge invaded Quel’Thalas and defeated Silvermoon’s defenders. Arthas used the Sunwell to resurrect Kel’Thuzad, polluting its waters.<sup><a href="#note-3" aria-label="Source 3">[3]</a></sup></p>
 
-    <h2>The Skyborne (shen’dorei)</h2>
-    <p>A separate group of Highborne from Eldre’Thalas (later Dire Maul) also refused the path taken by others of their caste. After the War of the Ancients they fled and found refuge with wind spirits in the Elemental Plane of Air. There they established Zephras Isle and other floating settlements. Over millennia they became the shen’dorei, or Skyborne — a people shaped by the sky and by their long isolation. In the present of Year 25 their island is failing, and two major orders (the Windshapers and the High Order) have begun to seek aid from the wider world.</p>
-    <p>Their full history, the sources that support it, and the distinctions between published lore, beta material, and character canon are kept on their own page.</p>
-    <p><a href="./RP/Aelindra/shendorei-lore.html">Shen’dorei Lore — Children of the Hidden Sky</a></p>
+    <h2>The Skyborne (shen’dorei) — Forever lore</h2>
+    <p>Blizzard’s Forever account identifies the Skyborne’s founders as rebels who fled Eldre’Thalas after the War of the Ancients and eventually found refuge in Skywall. Wind spirits anchored their island home there. The published overview does not give an exact year for that migration, so it is not dated more precisely here.<sup><a href="#note-5" aria-label="Source 5">[5]</a></sup></p>
+    <p>On Zephras Isle, the disappearance of those benefactors has left protective structures failing and communities isolated. The Windshapers seek their missing mentors and the preservation of their elemental traditions; the High Order seeks lost arcane knowledge to make the shen’dorei less dependent on those patrons. They align with the Horde and Alliance respectively.<sup><a href="#note-6" aria-label="Source 6">[6]</a></sup> The Al’Aketh is another group competing for control; the two playable orders are not the island’s only factions.<sup><a href="#note-5" aria-label="Source 5">[5]</a></sup></p>
+    <p><a href="./RP/Aelindra/shendorei-lore.html">Shen’dorei Lore — Children of the Hidden Sky</a> provides the longer account, including separately identified beta material and Aelindra’s personal history. The summary above relies directly on Blizzard’s published Forever articles.</p>
 
     <h2>The Third War and the loss of immortality</h2>
-    <p>In the years leading to Year 25 the Burning Legion returned. The Scourge and the orcish Horde crossed into Kalimdor. At the Battle of Mount Hyjal the night elves, humans, and orcs together stopped Archimonde, but Nordrassil was badly damaged. The night elves’ immortality ended. The new tree Teldrassil was later grown off the northern coast; the city of Darnassus rose among its branches. Corruption entered the new forest. Some who had walked the old edges, such as Dariand Nightwing, left when the work no longer felt like protection.</p>
+    <p>The Legion and its Scourge allies brought war to Kalimdor. Guided by Medivh, the forces led by Thrall, Jaina, Tyrande, and Malfurion united at Mount Hyjal. Malfurion unleashed Nordrassil’s power against Archimonde, defeating him.<sup><a href="#note-3" aria-label="Source 3">[3]</a></sup> The victory left Nordrassil burned and the night elves without their immortality.<sup><a href="#note-4" aria-label="Source 4">[4]</a></sup></p>
 
-    <h2>Year 25</h2>
-    <p>The present setting of these sheets is Year 25 after the Dark Portal. The Eastern Kingdoms and Kalimdor are still recovering from the Third War. The high elves have suffered the fall of Silvermoon. The night elves are mortal again. The Skyborne are only now re-entering the wider world. The characters on these pages walk that ground — some as survivors of older eras, some as people shaped by the more recent wars, and one as a young hunter who has known nothing but the sky until now.</p>
+    <h2>Teldrassil and Darnassus</h2>
+    <p>After the war, Fandral Staghelm and fellow druids planted Teldrassil off northern Kalimdor in an attempt to recover immortality. Darnassus grew within its branches, but the tree did not receive the blessing they sought, and corruption spread through its wildlife and limbs. This describes the original WoW setting; later retail developments are outside this page’s scope.<sup><a href="#note-3" aria-label="Source 3">[3]</a></sup></p>
+    <p class="source-note"><strong>Character canon:</strong> Dariand Nightwing’s move to Darnassus, work on the forest’s boundaries, and departure when that work ceased to feel protective belong to Bryan’s original character biography. They are not events established by Blizzard’s historical account.<sup><a href="#note-7" aria-label="Source 7">[7]</a></sup></p>
+
+    <h2>Year 25 — the roleplay present</h2>
+    <p>These sheets place their characters in a world shaped by the Third War: Quel’Thalas has suffered the Scourge invasion, and the night elves have lost their immortality.<sup><a href="#note-3" aria-label="Source 3">[3]</a></sup> Forever adds the Skyborne’s crisis and return to Azeroth within its original-era setting.<sup><a href="#note-5" aria-label="Source 5">[5]</a></sup> “Year 25” remains the repository’s roleplay date; the cited Forever overview establishes the era, not that exact numeric date.</p>
+
+    <h2 id="sources">Sources and footnotes</h2>
+    <p><em>Sources checked 28 October 2026. Game-text transcriptions and preserved Blizzard articles are identified below; their hosting sites are not the authors of the quoted game lore. No exact Skyborne migration date or additional beta-only history is asserted here.</em></p>
+    <ol class="sources">
+      <li id="note-1"><strong>Blizzard Entertainment, Warcraft III: Reign of Chaos manual</strong>, Night Elf History: “The World Tree and the Emerald Dream,” “Exile of the High Elves,” and “The Sentinels and the Long Vigil.” <a href="https://static.wikia.nocookie.net/wowpedia/images/a/ab/Warcraft_III_RoC_manual.pdf/revision/latest?format=original#page=27">Preserved PDF, PDF pages 27–28</a>. Primary published game text, hosted in the wiki’s media archive. Supports the distinct blessings, pact, exile, and Sentinel vigil.</li>
+      <li id="note-2"><strong>Blizzard Entertainment, The Burning Crusade Townhall: History of the Blood Elves</strong>, Chapter 1, “The Founding of Quel’Thalas.” <a href="https://warcraft.wiki.gg/wiki/The_Burning_Crusade_Townhall/History_of_the_Blood_Elves">Preserved Blizzard article</a>. Supports Dath’Remar’s leadership and creation of the Sunwell using preserved Well water. The indexed article text was available during review; direct access to the wiki page returned an access restriction.</li>
+      <li id="note-3"><strong>Blizzard Entertainment, World of Warcraft manual (2004)</strong>: “Sunwell – The Fall of Quel’Thalas” (PDF page 83), “Archimonde’s Return and the Flight to Kalimdor” (PDF page 84), “The Battle of Mount Hyjal” (PDF page 85), and “Night Elves” (PDF page 94). <a href="https://assets.blz-contentstack.com/v3/assets/blt3452e3b114fab0cd/blt2e9295db02a222fc/6025bcbb6968b53d529edb2a/media_manual_classic_enUS.pdf#page=83">Official PDF</a>. Supports the Third War summary and original-era Teldrassil account. This overview does not repeat the manual’s sweeping claim that no living elves remained in Quel’Thalas or its older kingdom-age estimate.</li>
+      <li id="note-4"><strong>Blizzard Entertainment, World of Warcraft Classic</strong>, “Crown of the Earth,” quest 929, Corithras Moonrage’s completion dialogue. <a href="https://www.wowhead.com/classic/quest=929/crown-of-the-earth">Game-text transcription on Wowhead</a>. Explicitly connects Nordrassil’s burning at Hyjal with the loss of immortality; the cited evidence is NPC dialogue, not player comments.</li>
+      <li id="note-5"><strong>Blizzard Entertainment, “World of Warcraft: Forever Found Photos Panel Recap.”</strong> <a href="https://news.blizzard.com/en-us/article/24304071/world-of-warcraft-forever-found-photos-panel-recap">Official article</a>, sections “The World as a Found Photograph” and “Zephras Isle and the Unexpected.” Supports Forever’s original-era time bubble, the Eldre’Thalas refugees, Skywall sanctuary, failing island, and three named groups. Does not explicitly date Forever to Year 25 after the Dark Portal.</li>
+      <li id="note-6"><strong>Blizzard Entertainment, “WoW: Forever Meet the New Skyborne.”</strong> <a href="https://news.blizzard.com/en-us/article/24302071/wow-forever-meet-the-new-skyborne">Official article</a>, “Begin Your Journey on Zephras Isle,” “Choose Horde or Alliance at Character Creation,” and the Windshaper and High Order descriptions. Supports the present crisis, both orders’ goals, and faction alignments.</li>
+      <li id="note-7"><strong>Bryan’s original character canon, “Dariand Nightwing.”</strong> <a href="https://github.com/ReneSarjeant/Roleplay/blob/a7441f0bce0ba1bb83359c336843ac759bdc5ce9/Dariand%20Nightwing.md">Repository biography at the reviewed revision</a>, sections “The Long Vigil” and “Darnassus.” This is a source for Dariand’s personal history only, not independent evidence for Warcraft history.</li>
+    </ol>
 
     <div class="footer">
       Year -10,000 to Year 25 · After the Sundering<br>
       <a href="./index.html">Return to Character Sheets</a> · <a href="./lore-to-sundering.html">Lore to Year -10,000</a> · <a href="./RP/Aelindra/shendorei-lore.html">Shen’dorei Lore</a>
-    <div class="ai-attribution" style="margin-top:1.5rem;padding-top:1rem;border-top:1px solid currentColor;opacity:.85;font-size:.85rem;line-height:1.5"><strong>AI Research and Editorial Assistance</strong><p style="margin:.55rem 0 0">This document was developed with research, editorial, and writing assistance from ChatGPT (OpenAI) and Grok (xAI). AI-generated material was reviewed, revised, and incorporated by the author. Historical and lore claims are supported by separately identified sources wherever available.</p></div>
+    <div class="ai-attribution" style="margin-top:1.5rem;padding-top:1rem;border-top:1px solid currentColor;opacity:.85;font-size:.85rem;line-height:1.5"><strong>AI Research and Editorial Assistance</strong><p style="margin:.55rem 0 0">This document was developed with research, editorial, and writing assistance from ChatGPT (OpenAI) and Grok (xAI). The historical summary was checked against the numbered sources on 28 October 2026. Character fiction and the repository’s roleplay dating convention are labeled separately; AI assistance is not a lore source.</p></div>
   </div>
   </div>
 </div>

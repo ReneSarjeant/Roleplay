@@ -2,6 +2,16 @@
 
 Character sheets and TRP3 references for Year 25 / WoW Forever era.
 
+## Character identity reference
+
+| Character | Race / class | Character sheet | Background |
+| --- | --- | --- | --- |
+| Sister Brinn Sarjeant | Human priest, age 20 | [Markdown](Sister%20Brinn%20Sarjeant.md) · [Web page](RP/Brinn/) | Lordaeron; Edith, Ham, and Maud |
+| René Sarjeant | Gnome mage, age 40 | [Markdown](Ren%C3%A9%20Sarjeant.md) · [Web page](RP/Rene/) | Born Nimbel Cogspool; Gnomeregan exile |
+
+Brinn is the human priest. René is the gnome mage. Older references using these names in reverse are superseded by this mapping.
+
+
 - [Sister Brinn Sarjeant](RP/Brinn/) — Human priest of the Holy Light. Age 20 in year 25. (Styled page with background art)
 - [René Sarjeant](RP/Rene/) — Gnome mage. Born Nimbel Cogspool. Age 40 in year 25. Answers to René. (Styled page with background art)
 - [Aelindra Sarjeant](RP/Aelindra/) — Skyborne High Order Hunter. True name Aelindra Ser'jaen'thal. Human-given surname Sarjeant. (Styled page with background art)

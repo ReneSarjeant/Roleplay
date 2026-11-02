@@ -20,7 +20,7 @@ The clerk asked what to write. Cogspool would not come out of her mouth. The hou
 
 She is only just old enough to be sent out alone. Dwarves and humans offer her a shorter stool. She refuses it, and then cannot see over the bench, and hates both facts.
 
-Ironforge will let a refugee sweep a forge. It will not give a Cogspool her master’s stool back. The shops that could have finished the bird are in the irradiated city, under Thermaplugg, with the ones who stayed. She will not call them lepers. She took the work that can be done on a cot. Tailoring first: a cloak, a bag, a bandage roll, cut to a measure she can check with her hands. Then enchanting, because a rod and a stock of dust do not need Gnomeregan’s coils, and because an enchantment is the nearest thing she is allowed to build. She is good at both. A seam of hers holds. A cloak of hers keeps the wind out on the Dun Morogh road. She resents them a little, the way a person resents a craft that consoles her. At night she still draws the missing wing. She does not show the drawing.
+Ironforge will let a refugee sweep a forge. It will not give a Cogspool her master’s stool back. The shops that could have finished the bird are in the irradiated city, under Thermaplugg, with the ones who stayed. She will not call them lepers. She took the work that can be done on a cot. Tailoring first: a cloak, a bag, a bandage roll, cut to a measure she can check with her hands. She tried enchanting too, because a rod and a stock of dust did not need Gnomeregan’s coils, but has since set it aside. Tailoring pays for her daily needs. A seam of hers holds. A cloak of hers keeps the wind out on the Dun Morogh road. Skinning brings in extra coin from hides she can sell on her travels. She puts what she can spare toward proper tools, materials, and training, so that one day she can return to engineering. She remembers the workshop lessons, but knows remembering is not the same as practice. The sewing keeps her fed. The hides bring the bench a little nearer. At night she still draws the missing wing. She does not show the drawing.
 
 ## The Fire and the Line
 
@@ -28,7 +28,7 @@ The mage craft came by the same road. Bink, in Ironforge, started her, because a
 
 Fishing is the thing that does not hurt. Iceflow Lake is a walk from the city, out by Brewnall, and Paxton Ganter is on the ice there with a pole and more patience than any master she has had. She found him because she would not stop asking what he was doing. He put a second pole in her hands and did not ask her to spell anything. The line does nothing clever. It waits, even in a Dun Morogh wind. She loves it more than she meant to. She will not hear it called a waste of a gnome. Paxton learned the name René Sarjeant. He still has to be told twice that Cogspool is not what to call her. He says she sets the hook too early. She goes back the next day anyway. The lake does not care that she is young, and it does not care what is left on a stool under the mountain.
 
-She keeps the tailor’s board and the enchanting rod under the cot, and the pole where she can see it. Mekkatorque’s plan to go back is her plan too, though no one has asked a barely-of-age mage for it. She wants the bench. She wants the wing. She has not said that part out loud. If she finds the bird, she will finish it before she decides what to do about the name.
+She keeps the tailor’s board under the cot, a skinning knife with her traveling kit, and the pole where she can see it. Mekkatorque’s plan to go back is her plan too, though no one has asked a barely-of-age mage for it. She wants the bench. She wants the wing. She has not said that part out loud. If she finds the bird, she will finish it before she decides what to do about the name.
 
 Currently: A stool too tall for her in Tinker Town. Answers to René Sarjeant. The blanket with the hem is folded under the cot. Paxton Ganter says she still sets the hook too early.
 
@@ -57,11 +57,12 @@ Year 25. Age 40 (just of age by the old gnome count). Gnomeregan still lost. Cot
 
 ## Professions
 
-| **Tailoring** | Exile craft. Cloak, bag, bandage roll. Cut to a measure she can check with her hands. A seam of hers holds. She resents it a little. |
+| **Tailoring** | Current profession. Cloaks, bags, and careful seams. Pays for her daily needs; she takes pride in work that holds. |
 | --- | --- |
-| **Enchanting** | Exile craft. Rod and dust. Nearest thing she is allowed to build. Not as good as the gear. |
+| **Skinning** | Current profession. Sells hides for extra coin, saving what she can toward engineering tools, materials, and training. |
+| **Enchanting** | Former exile craft. Tried after leaving Gnomeregan; now set aside. |
 | **Fishing** | Newly learned. Iceflow Lake with Paxton Ganter. The line does nothing clever. She loves the waiting. |
-| **Engineering** | The craft she lost and still wants. Not yet trusted with a live coil. The bird is unfinished. |
+| **Engineering** | Former apprenticeship and future goal. Remembers her workshop lessons, but needs tools, training, and practice to return. The bird is unfinished. |
 
 ## Key Facts
 
@@ -74,7 +75,7 @@ Year 25. Age 40 (just of age by the old gnome count). Gnomeregan still lost. Cot
 | **The bird** | Clockwork. One wing geared. Still on the stool below. She has not said she wants it back. |
 | **Mage** | Started by Bink in Ironforge. Tinker’s hand that learned to throw fire. |
 | **Fishing** | Paxton Ganter, Iceflow Lake. He still has to be told twice. She sets the hook too early. |
-| **Will not** | Answer to Cogspool unless from the old shop. Call the ones who stayed lepers. Pretend the enchantment is as good as the gear. |
+| **Will not** | Answer to Cogspool unless from the old shop. Call the ones who stayed lepers. Pretend she can return to engineering without tools, training, and practice. |
 
 ## Lore Context (Year 25 / WoW Forever era)
 
@@ -90,7 +91,7 @@ As of Year 25 (and the early Azeroth setting of WoW Forever, post-Warcraft III a
 
 **Glance 2 — The hem**: Folded under the cot in Tinker Town. Still readable.
 
-**Glance 3 — Tailor and enchanter**: The crafts that travel. She is good at both. She resents them a little.
+**Glance 3 — Tailor and skinner**: A neatly kept sewing kit and a skinning knife travel with her. Her seams are even; her tools are carefully maintained.
 
 **Glance 4 — The pole**: Newer than the rest of the kit. Paxton Ganter taught her on Iceflow Lake. She loves the waiting.
 
@@ -116,7 +117,7 @@ René Sarjeant, born Nimbel Cogspool, gnome mage, just of age. The Cogspools cut
 
 When the tanks were vented he sent her up with a junior cutter. The cutter got her as far as the landing and went back down. A stranger carried her the rest of the way. At the gate a Stormwind soldier wrapped her in his own blanket, passed her to the Ironforge tally, and went back to his sledge. The hem was stitched with his name. Cogspool would not come out of her mouth. She pointed at the stitch. It is not an adoption. She will wear Cogspool again when she knows the house came up.
 
-Ironforge will let a refugee sweep a forge. It will not give her the stool back. She cuts cloth and lays enchantments because those can be done on a cot. Bink started her as a mage. She is a tinker’s hand that learned to throw fire because the toolbox is under a poisoned ward. She fishes because Paxton Ganter taught her on Iceflow Lake, and the line does not explode. She still wants the bench. She has not put Cogspool back on.
+Ironforge will let a refugee sweep a forge. It will not give her the stool back. She earns her living tailoring and sells hides for extra coin, saving what she can for tools and training to return to engineering. Enchanting was an exile craft she tried and has since set aside. Bink started her as a mage. She is a tinker’s hand that learned to throw fire because the toolbox is under a poisoned ward. She fishes because Paxton Ganter taught her on Iceflow Lake, and the line does not explode. She still wants the bench. She has not put Cogspool back on.
 
 ## Roleplay Hooks
 
@@ -129,7 +130,7 @@ Ironforge will let a refugee sweep a forge. It will not give her the stool back.
 
 ## OOC
 
-René Sarjeant is a 40-year-old gnome mage, just of age by the old gnome count, in the Year 25 / WoW Forever setting. A refugee from Gnomeregan, she is a curious, precise, and stubborn former engineering apprentice who practices tailoring and enchanting and loves fishing. She welcomes adventures, friendly conversation, and shared interests in mechanisms or fishing. Her birth name and private history are hers to share.
+René Sarjeant is a 40-year-old gnome mage, just of age by the old gnome count, in the Year 25 / WoW Forever setting. A refugee from Gnomeregan, she is a curious, precise, and stubborn former engineering apprentice who currently practices tailoring and skinning and loves fishing. Tailoring supports her daily needs; selling hides helps fund the tools and training she needs to return to engineering. She previously tried enchanting but has set it aside. She welcomes adventures, friendly conversation, and shared interests in mechanisms or fishing. Her birth name and private history are hers to share.
 
 ## Appearance (In-Game)
 

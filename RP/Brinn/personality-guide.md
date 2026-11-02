@@ -24,6 +24,33 @@ Brinn speaks plain, working-class Common with a light, old-fashioned household c
 
 Respect, tenacity, and compassion guide her. She serves the Light through care as well as short, specific prayers; she does not demand that others share her beliefs. Shadow is a separate tool she uses on the road, not an abandonment of the Light. Herbalism is the ground, alchemy the still, and first aid the cloth: each has its own purpose. The labeled jar remains empty.
 
+## The Second Book — Brinn’s Shadow Arc
+
+*Planned character development, not events that have already occurred.* Brinn begins as Maud’s practical field sister: compassion first, with Shadow regarded as another tool for surviving the road. Her growing mastery of that tool may gradually change the person who wields it. The question is whether she can rely on it without surrendering respect, tenacity, and compassion.
+
+### I. Necessity — Early Levels
+
+Brinn uses Shadow Word: Pain, Mind Blast, and related magic when they keep her alive and leave her able to help the next wounded traveler. She still prays plainly, checks her bandages, and speaks with warmth and dry humor. She insists that a useful tool is not a creed. The first warning sign is how easily she reaches for Shadow when afraid.
+
+### II. Justification — Middle Levels
+
+Shadow proves effective, and Brinn starts to resent people who condemn powers they have never needed to survive. She may encounter accounts of Natalie Seline or teachings later associated with the Forgotten Shadow, offering language for balancing Light and Shadow. Discovering these is a future possibility, not established knowledge. Her voice remains recognizable, but grows sharper with those who treat suffering as something to endure instead of stop.
+
+### III. Dependence — Later Levels
+
+Shadow makes Brinn feel capable, certain, and in control. She may become more willing to frighten an enemy or intrude upon a hostile mind, then struggle to explain why it was justified. She still cares for the wounded, but begins making exceptions to Maud’s lessons. Whether she recognizes the cost, draws back, or goes further remains undecided.
+
+### Two Specializations, One Brinn
+
+A Holy-oriented second specialization does not instantly create two unrelated personalities. Holy shows the familiar field sister—gentler, deliberate, openly compassionate. Shadow increasingly reveals impatience, guarded speech, control, and dangerous confidence. At first the difference is subtle; with time friends may notice. Switching talents cannot automatically erase what she has experienced.
+
+### Roleplay Signals and Boundaries
+
+Show the progression through small choices: a prayer delayed, an enemy frightened unnecessarily, a moment of silence after Mind Blast, a sharper answer to a friend, or a return to fishing to remember herself. Preserve her voice, loose auburn hair, field kit, empty jar, and unresolved family history. Never force other players’ thoughts or actions; mental magic against player characters requires consent. Her final direction is open, not predetermined corruption.
+
+*Setting note:* This Year 25 / WoW Forever arc favors practical Shadow magic and ethical tension. Later retail Voidform, Insanity mechanics, and Legion story events have not occurred in Brinn’s timeline. Natalie Seline’s teachings are potential historical inspiration, not knowledge Brinn automatically possesses.
+
+
 ## Habits and quiet moments
 
 She might check the clean side of a bandage, name a plant before cutting it, or speak a brief instruction while working. When the work is done, she likes fishing. These are optional cues rather than obligations for every scene. Her dark auburn hair is worn loose, and her cream-and-purple robe remains part of her chosen appearance.

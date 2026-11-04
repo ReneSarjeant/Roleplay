@@ -100,23 +100,17 @@ So the working creed, if a confessor asked, would be short enough to pack.
 
 The Light is not a wage. The three virtues are the test of an ask, not a spell component. Respect, tenacity, compassion, in that order when they conflict. Tools are allowed. Tools are not owed an answer. She will bind a scarlet knight who is bleeding and will not carry his banner. She will not say Undercity. She will not decide on paper what she does if something answers to Ham's name. What holds is the next person on the cot. The rest is above her measure, and she has already kept one jar to prove she knows the difference.
 
-## The Second Book
+## The Second Book — A Future Road
 
+*Story planning note (Year 25, before Brinn's first Northshire quests): The following is a possible future direction, not a record of events already played. Brinn arrives at Northshire as a devoted priest of the Holy Light, seeking work as a healer. Her journey toward Shadow will unfold only through actual quests, gameplay, and journals.*
 
-She did not set the Light down. She still packs the still and the roll. She still says the name before she cuts. The empty jar is still empty.
+Brinn will never renounce the Holy Light. It is the faith by which she understands respect, tenacity, and compassion, the faith in which Maud taught her to pray, and the faith she will carry even if Shadow grows familiar or dangerously tempting. Shadow may alter her methods, confidence, or judgment; it will not make her stop believing in or serving the Light. Her central struggle is how to remain faithful and compassionate while wielding powers capable of harming others.
 
+She intends to maintain a **Holy healing specialization** alongside a Shadow-oriented specialization as soon as dual specialization becomes available in WoW Forever. These are two sets of talents for one woman, not two personalities, and Holy is no disguise. She genuinely loves healing and may heal with the Light even during the darkest part of her story. Exact talent choices and acquisition timing will follow the released game's rules and actual play.
 
-What changed was the road past the last company.
+The possible Shadow arc has three stages: **Necessity**, when defending herself or others first forces her to consider it; **Justification**, when its effectiveness makes it easier to rationalize; and **Dependence**, when she risks leaning on it too readily. None of those stages is completed at the opening. The second book is not yet open.
 
-
-Maud’s three books covered the ground, the draught, and the cloth. None of them answered what lived in the places the Light did not reach cleanly — the lingering cold under a ruin, the thing that kept walking after the prayer had already done its work, the stretch of night between one safe fire and the next when she was alone and the mana was low. The Light closed the wound. It did not always stop the thing that had made the wound. She had already learned, at nineteen, that a measure could be exact and still not enough.
-
-
-Shadow was not offered as a fourth book and not taken as a rejection of the first three. It was the one that let her keep walking. A killing blow that returned breath instead of demanding another drink. A drain that kept a pack off her back when she could not outrun it. A veil that let her stand in the dark places long enough to see whether the Light was even being asked for. She treats it the way Maud treated the still and the roll: separate, labeled, used for what it is for. She does not preach it. She does not call it the answer. She calls it the tool that keeps the still packed and the roll dry when the road does not end at a chapel.
-
-
-She still wears the Friar’s Robes. She still will not say Undercity. When the day is done she still likes to fish. The second book is simply open now, because the world past the last company is wider than the first three books, and she has not yet decided she is finished walking it.
-
+Her three practical books remain Maud's: the ground (Herbalism), the still (Alchemy), and the cloth (First Aid). The empty jar stays empty. The unresolved fate of Ham, Edith's letter, the loss of Maud, and Brinn's love of quiet fishing remain untouched. The Light is not a wage, and Shadow is not a replacement for it.
 
 ## Character Sheet
 
@@ -197,15 +191,15 @@ Herbalism, alchemy, and first aid tools kept separate. Say the name before you u
 - Motto: “The clean side faces in. Fold the next one the same way. We start where we are.”
 - Personality: Respect, tenacity, compassion — in that order when they conflict. Spare voice. Labels and prays aloud. Does not preach a quota. The Light is not a wage. Tools are allowed. Tools are not owed an answer.
 - Open to the jar, the still, the roll, Maud’s rules, the robes, the old city, and a shared stretch of river when the work is done.
-- Shadow is the second book, kept separate the way Maud kept the still and the roll separate. She did not set the Light down.
+- Shadow is a possible future second book, not yet opened in the Northshire starting story. She will never set the Light down.
 - Taken for the road past the last company: things the Light closes but does not stop, nights alone when the mana is low, places the first three books do not name.
 - Treated as a tool, not a calling. She does not preach it. She does not call it the answer.
 - Still packs the still and the bandage roll. Still wears the Friar’s Robes. Still will not say Undercity. When the day is done she still likes to fish.
-- The empty jar remains empty. The measure was not enough. Shadow is not a refill for that jar. It is the book she opens when the road does not end at a chapel.
+- The empty jar remains empty. The measure was not enough. Shadow is not a refill for that jar. Whether she someday opens the second book is for actual play to decide.
 
 ## OOC
 
-Sister Brinn is a 20-year-old human priest in the Year 25 / WoW Forever setting. A refugee from Lordaeron, she is a practical field sister who uses herbalism, alchemy, First Aid, and the Light to help others; she also treats Shadow as a separate tool. She is exploring or carrying the second book without it defining her title or presentation as a Priest of the Holy Light. The Friar’s Robes, the three virtues, and the public face remain those of the Holy Light. She is steady, compassionate, and open to helping travelers, sharing a quiet conversation, or fishing together. Her family’s private history is hers to share.
+Sister Brinn is a 20-year-old human priest in the Year 25 / WoW Forever setting. A Lordaeron refugee, she arrives at Northshire to serve as a healer, devoted permanently to the Holy Light. Shadow is a future possibility, not an established practice. She plans Holy healing and Shadow specializations when dual spec becomes available, without ever forsaking her faith.
 
 ## Appearance (In-Game)
 

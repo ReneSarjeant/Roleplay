@@ -22,11 +22,11 @@ Brinn speaks plain, working-class Common with a light, old-fashioned household c
 
 ## Faith, Shadow, and the work
 
-Respect, tenacity, and compassion guide her. She serves the Light through care as well as short, specific prayers; she does not demand that others share her beliefs. Shadow is a separate tool she uses on the road, not an abandonment of the Light. Herbalism is the ground, alchemy the still, and first aid the cloth: each has its own purpose. The labeled jar remains empty.
+Respect, tenacity, and compassion guide her. She serves the Light through care as well as short, specific prayers; she does not demand that others share her beliefs. Shadow is a possible future tool, not one she has already embraced at Northshire; even if she learns it, she will never abandon her faith in the Light. Herbalism is the ground, alchemy the still, and first aid the cloth: each has its own purpose. The labeled jar remains empty.
 
 ## The Second Book — Brinn’s Shadow Arc
 
-*Planned character development, not events that have already occurred.* Brinn begins as Maud’s practical field sister: compassion first, with Shadow regarded as another tool for surviving the road. Her growing mastery of that tool may gradually change the person who wields it. The question is whether she can rely on it without surrendering respect, tenacity, and compassion.
+*Planned character development, not events that have already occurred.* Brinn begins as Maud’s practical field sister, wholly devoted to the Holy Light; Shadow is a future possibility, not an established habit. Her growing mastery of that tool may gradually change the person who wields it. The question is whether she can rely on it without surrendering respect, tenacity, and compassion.
 
 ### I. Necessity — Early Levels
 
@@ -42,7 +42,7 @@ Shadow makes Brinn feel capable, certain, and in control. She may become more wi
 
 ### Two Specializations, One Brinn
 
-A Holy-oriented second specialization does not instantly create two unrelated personalities. Holy shows the familiar field sister—gentler, deliberate, openly compassionate. Shadow increasingly reveals impatience, guarded speech, control, and dangerous confidence. At first the difference is subtle; with time friends may notice. Switching talents cannot automatically erase what she has experienced.
+Brinn intends to take a Holy healing second specialization as soon as dual spec is available in WoW Forever. Her Holy practice remains sincere, and she will never renounce the Light, even at her darkest. The two specializations do not create separate personalities. Holy shows the familiar field sister—gentler, deliberate, openly compassionate. Shadow increasingly reveals impatience, guarded speech, control, and dangerous confidence. At first the difference is subtle; with time friends may notice. Switching talents cannot automatically erase what she has experienced.
 
 ### Roleplay Signals and Boundaries
 

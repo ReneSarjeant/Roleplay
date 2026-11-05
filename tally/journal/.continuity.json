@@ -2,17 +2,68 @@
   "schema_version": 1,
   "character": "Bram Copperkeep",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
-  "last_published_story": null,
-  "last_reconciled_session": null,
-  "last_known_position": null,
-  "last_interaction": null,
-  "confirmed_completed_quests": [],
-  "confirmed_accepted_not_completed": [],
-  "quest_status_needs_recheck": [],
-  "confirmed_progress": [],
-  "character_continuity": [],
-  "next_story_handoff": null,
-  "unprocessed_play_note": "No gameplay has been reconciled to a completed, published story in this continuity file. A prewritten placeholder is not evidence of gameplay; inspect synced logs before establishing where to begin.",
-  "updated_through": "2026-11-04",
+  "last_published_story": {
+    "date": "2026-11-05",
+    "title": "From Coldridge to Commerce",
+    "path": "tally/journal/2026-11-05/index.html",
+    "coverage": "Late 4 November setup folded into early 5 November chapter; first recorded quest 05 Nov 04:11 local"
+  },
+  "last_reconciled_session": "2026-11-05",
+  "last_known_position": {
+    "zone": "Ironforge / Stormwind itinerary, Eastern Kingdoms",
+    "place": "Ironforge near bank and auction house in the approved narrative; precise logged-out coordinates not independently verified from chat",
+    "certainty": "User confirmed logged out. Published story closes with Bram establishing an office in Ironforge; verify login location against first new logs."
+  },
+  "last_interaction": {
+    "who": "City merchant activity, including Myra Tyrngaarde",
+    "spoken_text": "Myra Tyrngaarde says: Fresh bread for sale!",
+    "time_local": "2026-11-05T05:55:14",
+    "certainty": "Latest observed NPC speech in captured chat; not a confirmed direct interaction with Bram"
+  },
+  "confirmed_completed_quests": [
+    "Dwarven Outfitters",
+    "Simple Rune",
+    "A New Threat",
+    "Coldridge Valley Mail Delivery (first and second legs)",
+    "The Boar Hunter",
+    "Scalding Mornbrew Delivery",
+    "Bring Back the Mug",
+    "Grund and Gozwin",
+    "The Troll Cave",
+    "The Stolen Journal",
+    "A Refugee's Quandary",
+    "Senir's Observations (at least two stages)",
+    "The Adventurer",
+    "The Great Outdoors",
+    "Supplies to Tannok",
+    "Your Package Has Arrived"
+  ],
+  "confirmed_accepted_not_completed": [
+    "Camping 101: Mining",
+    "Camping 101: Cooking"
+  ],
+  "quest_status_needs_recheck": [
+    "The Great Outdoors follow-up rewards or steps",
+    "Senir's Observations later objectives, if any",
+    "Other side quests accepted or completed after latest filtered chat; reconcile with ForeverJournal on next play"
+  ],
+  "confirmed_progress": [
+    "Level 6 recorded 2026-11-05 05:24:33 local",
+    "Warrior abilities learned: Battle Shout (Rank 1), Charge (Rank 1), Rend (Rank 1)",
+    "Mining, Smelting, Find Minerals and Smelt Copper learned",
+    "Visited Coldridge Valley, Kharanos and Ironforge in chat records; story also incorporates Deeprun Tram and Stormwind from approved session synopsis",
+    "Brief collaboration with gnome mage Chopped Tinkerdawn in the approved narrative"
+  ],
+  "character_continuity": [
+    "Bram Copperkeep (formerly Tally), dwarf warrior and bank/auction broker; character sheet in tally/index.html",
+    "Approved narrative begins predawn November 5; no separate November 4 story",
+    "Business concept: handle friends' banking, mail, auction consignments and ledgers in Ironforge near bank and auction house",
+    "Office, desk, sign and extended dialogue in published story include dramatization; don't treat those details as confirmed game assets or verbatim chat",
+    "Actual logged dialogue includes Bram noticing other travelers and appreciating the quiet morning near Grelin Whitebeard",
+    "User confirmed session ended and character logged out"
+  ],
+  "next_story_handoff": "Resume Bram's story after establishing his Ironforge banking/auction-office plan at the end of From Coldridge to Commerce. Check first new log for actual login location and time before placing him physically at the office. Reconcile remaining Camping 101 quests and other quest states; preserve his practical, economical voice and emerging network of adventurer clients. Do not invent mail transactions, clients, meetings or income.",
+  "unprocessed_play_note": null,
+  "updated_through": "2026-11-05",
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory."
 }

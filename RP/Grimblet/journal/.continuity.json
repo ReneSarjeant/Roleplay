@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "character": "Grimblet Soulwrench",
+  "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
+  "last_published_story": null,
+  "last_reconciled_session": null,
+  "last_known_position": null,
+  "last_interaction": null,
+  "confirmed_completed_quests": [],
+  "confirmed_accepted_not_completed": [],
+  "quest_status_needs_recheck": [],
+  "confirmed_progress": [],
+  "character_continuity": [],
+  "next_story_handoff": null,
+  "unprocessed_play_note": "No gameplay has been reconciled to a completed, published story in this continuity file. A prewritten placeholder is not evidence of gameplay; inspect synced logs before establishing where to begin.",
+  "updated_through": "2026-11-04",
+  "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory."
+}

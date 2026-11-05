@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/png" href="../../favicon.png"><title>Daily Journal — Bram Copperkeep</title>
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; min-height: 100%; }
+  body {
+    background: #0f1419 url('../index-bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    color: #e8eef5;
+    line-height: 1.65;
+  }
+  .overlay {
+    background: rgba(10, 15, 22, 0.68);
+    min-height: 100vh;
+    padding: 2rem 1rem;
+  }
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    background: rgba(18, 24, 32, 0.82);
+    border: 1px solid rgba(160, 175, 190, 0.28);
+    border-radius: 12px;
+    padding: 2.5rem 2rem;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.55);
+  }
+  h1 {
+    font-family: 'Palatino', 'Georgia', serif;
+    font-size: 2.6rem;
+    text-align: center;
+    color: #d4e0ea;
+    margin: 0 0 0.3rem 0;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    letter-spacing: 0.5px;
+  }
+  .subtitle {
+    text-align: center;
+    font-style: italic;
+    color: #b0c0d0;
+    margin-bottom: 2rem;
+    font-size: 1.1rem;
+  }
+  h2 {
+    color: #c5d5e5;
+    border-bottom: 1px solid rgba(180, 200, 220, 0.35);
+    padding-bottom: 0.4rem;
+    margin-top: 2.2rem;
+    font-size: 1.6rem;
+  }
+  p { margin: 0.9rem 0; }
+  .intro { font-size: 1.15rem; text-align: center; margin-bottom: 1.5rem; color: #d0dce8; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    background: rgba(0,0,0,0.28);
+  }
+  th, td {
+    padding: 0.55rem 0.8rem;
+    text-align: left;
+    border-bottom: 1px solid rgba(160, 180, 200, 0.18);
+  }
+  th { color: #c8d8e8; font-weight: normal; width: 28%; }
+  .trp {
+    background: rgba(0,0,0,0.22);
+    padding: 1rem;
+    border-left: 3px solid #a8c0d8;
+    margin: 1rem 0;
+  }
+  .footer {
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 0.9rem;
+    color: #90a0b0;
+    font-style: italic;
+  }
+  @media (max-width: 600px) {
+    .container { padding: 1.5rem 1rem; }
+    h1 { font-size: 2rem; }
+  }
+
+  a { color: #b8e8f8; }
+  .ai-attribution { margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid currentColor; opacity: .85; font-size: .85rem; line-height: 1.5; }
+  .ai-attribution p { text-align: left; }
+
+  .journal-header{text-align:center;padding:1.8rem 1rem;margin-bottom:2rem;border-top:1px solid #a8c0d8;border-bottom:1px solid #a8c0d8;background:linear-gradient(110deg,rgba(168,192,216,.10),rgba(145,155,165,.08))}
+  .eyebrow{color:#b8d4ec;text-transform:uppercase;letter-spacing:.16em;font-size:.78rem}
+  .journal-header .subtitle{margin-bottom:0}
+  .journal-nav{display:flex;gap:1rem;flex-wrap:wrap;font-size:.9rem;font-style:italic;margin-bottom:1.4rem}
+  .journal-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.2rem}
+  .day-card{display:block;text-decoration:none;background:rgba(0,0,0,.24);border:1px solid rgba(168,192,216,.5);padding:1.4rem;border-radius:8px}
+  .day-card:hover,.day-card:focus-visible{background:rgba(168,192,216,.14);outline:2px solid #a8c0d8;outline-offset:2px}
+  .day-card time{display:block;font-size:1.4rem;color:#d4e0ea}.day-card em{display:block;color:#b8cce0;margin:.35rem 0}.status{font-size:.85rem;color:#acbbcb}
+  .story-break{border:0;border-top:1px solid rgba(168,192,216,.4);margin:2.4rem auto;width:40%}
+  .ledger{text-align:center;border:1px solid rgba(168,192,216,.4);padding:1.15rem;margin:1.5rem auto;max-width:28rem;background:rgba(0,0,0,.25)}
+  @media(max-width:600px){.journal-grid{grid-template-columns:1fr}}
+</style></head><body><div class="overlay"><main class="container">
+<nav class="journal-nav" aria-label="Journal navigation"><a href="../index.html">← Bram's Character Sheet</a><a href="/Roleplay/">Roleplay Index</a></nav>
+<header class="journal-header"><p class="eyebrow">Bram Copperkeep · Daily Journal</p><h1>The Ledger and the Road</h1><p class="subtitle">From the snowy passes of Dun Morogh to the counting houses of Ironforge</p></header>
+<h2>November 2026</h2>
+<div class="journal-grid"><a class="day-card" href="./2026-11-05/"><time datetime="2026-11-05">5 November 2026</time><em>From Coldridge to Commerce</em><span class="status">Opening chapter · Coldridge Valley, Kharanos, Ironforge and Stormwind</span></a></div><footer class="footer"><div class="ai-attribution"><strong>AI Research and Editorial Assistance</strong><p>This document was developed with research, editorial, and writing assistance from ChatGPT (OpenAI) and Grok (xAI). AI-generated material was reviewed, revised, and incorporated by the author. Historical and lore claims are supported by separately identified sources wherever available.</p></div></footer></main></div>
+<script src="../../reader-mode.js" defer></script></body></html>

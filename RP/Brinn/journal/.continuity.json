@@ -7,7 +7,7 @@
     "title": "Adventures in Elwynn Forest — Part One",
     "path": "RP/Brinn/journal/2026-11-05/index.html"
   },
-  "last_reconciled_session": "2026-11-05 morning session, through maintenance shutdown; as covered by approved Part One",
+  "last_reconciled_session": "2026-11-05 morning session, using the WTF folder update at 11:00 Eastern Time; as covered by approved Part One",
   "last_known_position": {
     "zone": "Stormwind City",
     "place": "Trade District",
@@ -66,19 +66,19 @@
     "Joined Mid Life Aggro: Saeloren Dra invitation logged 2026-11-05 07:09:02; Brinn’s Morning greeting logged 07:10:18. Goldshire encounter and additional dialogue are authorized fiction; exact invitation location unconfirmed.",
     "Du Track is a fellow guild member; the bag exchange brings youthful, unrestrained delight."
   ],
-  "next_story_handoff": "Continue after Part One’s morning-session endpoint: 28 linen cloth exchanged with Du Track for four bags, then requested inn rest. Last recorded zone is Stormwind Trade District; Gilded Rose is imagined, not a verified logout. Cross-check first later entries for actual location and timing, then append later November 5 gameplay without repeating the morning story or guild scene. Recheck all outstanding quests before claiming completion.",
-  "unprocessed_play_note": "Later November 5 gameplay is not covered by this publication; inspect new synced records before extending the story.",
-  "updated_through": "2026-11-05 morning session (approved Part One)",
+  "next_story_handoff": "Continue after Part One’s morning-session endpoint: 28 linen cloth exchanged with Du Track for four bags, then requested inn rest. Last recorded zone is Stormwind Trade District; Gilded Rose is imagined, not a verified logout. Cross-check first later entries for actual location and timing, then append later November 5 gameplay without repeating the morning story or guild scene. Recheck all outstanding quests before claiming completion. Source review cutoff is the 2026-11-05 11:00 Eastern WTF folder update. Examine all later chat, journal notes, and other records from that boundary onward, deduplicating any overlap; no post-11:00 records have been examined.",
+  "unprocessed_play_note": "All chat, journal notes, and other records after 11:00 Eastern Time on 2026-11-05 are unexamined. Retrieve and reconcile those later records before extending the story; do not infer later events were reviewed.",
+  "updated_through": "2026-11-05T11:00:00-05:00 (WTF folder source snapshot cutoff; not an exact final gameplay timestamp)",
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
   "editorial_update": {
     "date_local": "2026-11-05",
     "time_local": "around noon",
     "timezone": "America/New_York",
-    "meaning": "User-requested editorial/publication checkpoint; not evidence of gameplay through noon."
+    "meaning": "Editorial/publication timing only. Source review stops at the 11:00 Eastern WTF folder update; all later records are unexamined."
   },
   "log_coverage": {
     "date": "2026-11-05",
-    "scope": "Morning session through maintenance shutdown, as reviewed for approved draft",
+    "scope": "Approved Part One uses the WTF folder update at 11:00 Eastern Time on 2026-11-05. Any chat, journal notes, or other records after that cutoff have not been examined.",
     "sources": [
       "Account and Brinn-specific ForeverJournal",
       "RoadToSixty",
@@ -86,6 +86,9 @@
       "BetterForeverChat",
       "WoWChatLog"
     ],
-    "exact_final_log_timestamp": null
+    "exact_final_log_timestamp": null,
+    "source_snapshot_cutoff": "2026-11-05T11:00:00-05:00",
+    "timezone": "America/New_York",
+    "cutoff_basis": "Bryan’s explicit correction: last WTF folder update used was 1100 hours Eastern Time."
   }
 }

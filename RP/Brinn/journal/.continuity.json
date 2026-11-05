@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "character": "Sister Brinn Sarjeant",
+  "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
+  "last_published_story": {
+    "date": "2026-11-04",
+    "title": "The Work Before Her",
+    "path": "RP/Brinn/journal/2026-11-04/index.html"
+  },
+  "last_reconciled_session": "2026-11-04",
+  "last_known_position": {
+    "zone": "Northshire Valley, Elwynn Forest",
+    "place": "Northshire Abbey library",
+    "certainty": "Last confirmed by Brinn's spoken line to Brother Paxton at 19:38:52 local on 2026-11-04; logout position unverified."
+  },
+  "last_interaction": {
+    "who": "Brother Paxton",
+    "spoken_text": "can I help you Brother Paxton?",
+    "time_local": "2026-11-04T19:38:52"
+  },
+  "confirmed_completed_quests": [
+    "A Threat Within",
+    "Wolves Across the Border",
+    "Kobold Camp Cleanup",
+    "Nibbled-On Book",
+    "Book Inventory",
+    "Rascally Rodents",
+    "Hallowed Letter",
+    "Mining Consultant",
+    "Investigate Echo Ridge"
+  ],
+  "confirmed_accepted_not_completed": [
+    "Skirmish at Echo Ridge"
+  ],
+  "quest_status_needs_recheck": [
+    "Brotherhood of Thieves",
+    "The Big Picture"
+  ],
+  "confirmed_progress": [
+    "Reached level 4",
+    "Learned Herbalism and Herb Gathering",
+    "Learned Power Word: Fortitude (Rank 1), Lesser Heal (Rank 2), and Shadow Word: Pain (Rank 1)"
+  ],
+  "character_continuity": [
+    "Remains steadfast in the Holy Light; no recorded Shadow Word: Pain cast is established",
+    "Maud's ground, still, cloth teaching remains intact; her empty jar stays empty",
+    "Ham's fate remains unresolved; Edith's letter unchanged",
+    "Plans Holy dual spec when permitted; no dual spec recorded"
+  ],
+  "next_story_handoff": "Start from the most recent confirmed Northshire Abbey library interaction with Brother Paxton. Cross-check first new journal/log entry for actual location, quest state, interactions and elapsed time. Do not assume she logged out there or finished Echo Ridge skirmish.",
+  "unprocessed_play_note": null,
+  "updated_through": "2026-11-04",
+  "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory."
+}

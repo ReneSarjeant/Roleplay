@@ -3,20 +3,21 @@
   "character": "Sister Brinn Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
   "last_published_story": {
-    "date": "2026-11-04",
-    "title": "The Work Before Her",
-    "path": "RP/Brinn/journal/2026-11-04/index.html"
+    "date": "2026-11-05",
+    "title": "Adventures in Elwynn Forest — Part One",
+    "path": "RP/Brinn/journal/2026-11-05/index.html"
   },
-  "last_reconciled_session": "2026-11-04",
+  "last_reconciled_session": "2026-11-05 morning session, through maintenance shutdown; as covered by approved Part One",
   "last_known_position": {
-    "zone": "Northshire Valley, Elwynn Forest",
-    "place": "Northshire Abbey library",
-    "certainty": "Last confirmed by Brinn's spoken line to Brother Paxton at 19:38:52 local on 2026-11-04; logout position unverified."
+    "zone": "Stormwind City",
+    "place": "Trade District",
+    "certainty": "Recorded Trade District position in reviewed morning-session sources. Gilded Rose rest is an approved imagined setting, not a verified inn interaction or logout location."
   },
   "last_interaction": {
-    "who": "Brother Paxton",
-    "spoken_text": "can I help you Brother Paxton?",
-    "time_local": "2026-11-04T19:38:52"
+    "who": "Du Track",
+    "event": "Exchange of 28 linen cloth for four linen bags; Brinn delighted, with cheers and farewell.",
+    "time_local": null,
+    "certainty": "Confirmed in approved source-reviewed draft and explicitly by Bryan; exact trade time not retained. Followed by the inn-rest handoff."
   },
   "confirmed_completed_quests": [
     "A Threat Within",
@@ -27,28 +28,64 @@
     "Rascally Rodents",
     "Hallowed Letter",
     "Mining Consultant",
-    "Investigate Echo Ridge"
-  ],
-  "confirmed_accepted_not_completed": [
+    "Investigate Echo Ridge",
+    "Brotherhood of Thieves",
     "Skirmish at Echo Ridge"
   ],
+  "confirmed_accepted_not_completed": [
+    "Milly’s Harvest",
+    "Garrick Padfoot’s bounty",
+    "The Big Picture",
+    "Fargodeep investigation",
+    "Gold dust",
+    "Candles",
+    "Goldtooth",
+    "Princess",
+    "Crystal kelp",
+    "Fishing traps",
+    "Shiny junk"
+  ],
   "quest_status_needs_recheck": [
-    "Brotherhood of Thieves",
-    "The Big Picture"
+    "No confirmed turn-in for outstanding tasks in approved morning-session coverage; recheck synced logs before describing any as completed."
   ],
   "confirmed_progress": [
     "Reached level 4",
     "Learned Herbalism and Herb Gathering",
-    "Learned Power Word: Fortitude (Rank 1), Lesser Heal (Rank 2), and Shadow Word: Pain (Rank 1)"
+    "Learned Power Word: Fortitude (Rank 1), Lesser Heal (Rank 2), and Shadow Word: Pain (Rank 1)",
+    "Reached level 7 by the morning Stormwind return",
+    "Learned Enchanting",
+    "Continued priest training with a protective shield and stronger Smite",
+    "Completed Josetta’s task involving healing Guard Roberts (quest title not retained in draft)",
+    "Received four linen bags from Du Track for 28 linen cloth"
   ],
   "character_continuity": [
-    "Remains steadfast in the Holy Light; no recorded Shadow Word: Pain cast is established",
     "Maud's ground, still, cloth teaching remains intact; her empty jar stays empty",
     "Ham's fate remains unresolved; Edith's letter unchanged",
-    "Plans Holy dual spec when permitted; no dual spec recorded"
+    "Plans Holy dual spec when permitted; no dual spec recorded",
+    "Remains devoted to the Holy Light. Pinned journal note establishes repeated Shadow Word: Pain use against creatures; she recognizes the growing habit with concern (Necessity stage).",
+    "Joined Mid Life Aggro: Saeloren Dra invitation logged 2026-11-05 07:09:02; Brinn’s Morning greeting logged 07:10:18. Goldshire encounter and additional dialogue are authorized fiction; exact invitation location unconfirmed.",
+    "Du Track is a fellow guild member; the bag exchange brings youthful, unrestrained delight."
   ],
-  "next_story_handoff": "Start from the most recent confirmed Northshire Abbey library interaction with Brother Paxton. Cross-check first new journal/log entry for actual location, quest state, interactions and elapsed time. Do not assume she logged out there or finished Echo Ridge skirmish.",
-  "unprocessed_play_note": null,
-  "updated_through": "2026-11-04",
-  "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory."
+  "next_story_handoff": "Continue after Part One’s morning-session endpoint: 28 linen cloth exchanged with Du Track for four bags, then requested inn rest. Last recorded zone is Stormwind Trade District; Gilded Rose is imagined, not a verified logout. Cross-check first later entries for actual location and timing, then append later November 5 gameplay without repeating the morning story or guild scene. Recheck all outstanding quests before claiming completion.",
+  "unprocessed_play_note": "Later November 5 gameplay is not covered by this publication; inspect new synced records before extending the story.",
+  "updated_through": "2026-11-05 morning session (approved Part One)",
+  "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
+  "editorial_update": {
+    "date_local": "2026-11-05",
+    "time_local": "around noon",
+    "timezone": "America/New_York",
+    "meaning": "User-requested editorial/publication checkpoint; not evidence of gameplay through noon."
+  },
+  "log_coverage": {
+    "date": "2026-11-05",
+    "scope": "Morning session through maintenance shutdown, as reviewed for approved draft",
+    "sources": [
+      "Account and Brinn-specific ForeverJournal",
+      "RoadToSixty",
+      "Brinn Social Diary",
+      "BetterForeverChat",
+      "WoWChatLog"
+    ],
+    "exact_final_log_timestamp": null
+  }
 }

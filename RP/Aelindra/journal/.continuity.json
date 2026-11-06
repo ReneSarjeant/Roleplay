@@ -11,8 +11,9 @@
   "quest_status_needs_recheck": [],
   "confirmed_progress": [],
   "character_continuity": [],
-  "next_story_handoff": null,
-  "unprocessed_play_note": "No gameplay has been reconciled to a completed, published story in this continuity file. A prewritten placeholder is not evidence of gameplay; inspect synced logs before establishing where to begin.",
-  "updated_through": "2026-11-04",
-  "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory."
+  "next_story_handoff": "Start with the first unreconciled live-server session. Read character canon and synced logs from the beginning; do not use beta stories or placeholders as proof of current play.",
+  "unprocessed_play_note": "Nothing has been done toward reconciling Aelindra’s gameplay into a published journal. Gameplay exists in the synced November 5 logs, including the later evening session, but no session is marked processed here.",
+  "updated_through": null,
+  "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
+  "status": "Nothing done: no gameplay journal has been reconciled or published."
 }

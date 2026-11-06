@@ -4,20 +4,22 @@
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
   "last_published_story": {
     "date": "2026-11-05",
-    "title": "Adventures in Elwynn Forest — Part One",
+    "title": "Adventures in Elwynn Forest — Parts One and Two",
     "path": "RP/Brinn/journal/2026-11-05/index.html"
   },
-  "last_reconciled_session": "2026-11-05 morning session, using the WTF folder update at 11:00 Eastern Time; as covered by approved Part One",
+  "last_reconciled_session": "2026-11-05, morning and later session through final pinned note at 18:22:36 Eastern; approved Parts One and Two",
   "last_known_position": {
-    "zone": "Stormwind City",
-    "place": "Trade District",
-    "certainty": "Recorded Trade District position in reviewed morning-session sources. Gilded Rose rest is an approved imagined setting, not a verified inn interaction or logout location."
+    "zone": "Elwynn Forest",
+    "place": "Lion’s Pride Inn, Goldshire",
+    "time_local": "2026-11-05T18:22:36-05:00",
+    "level": 11,
+    "certainty": "Final character-specific pinned note; last observed position, not an independently verified logout."
   },
   "last_interaction": {
-    "who": "Du Track",
-    "event": "Exchange of 28 linen cloth for four linen bags; Brinn delighted, with cheers and farewell.",
-    "time_local": null,
-    "certainty": "Confirmed in approved source-reviewed draft and explicitly by Bryan; exact trade time not retained. Followed by the inn-rest handoff."
+    "who": "Tomas",
+    "event": "Cooking training and Camping 101: Cooking completion in Lion’s Pride Inn.",
+    "time_local": "2026-11-05T18:20:11-05:00",
+    "certainty": "Latest confirmed named NPC interaction retained in reviewed sources; later 18:22:36 pinned note records rain ending on entry to inn."
   },
   "confirmed_completed_quests": [
     "A Threat Within",
@@ -30,23 +32,53 @@
     "Mining Consultant",
     "Investigate Echo Ridge",
     "Brotherhood of Thieves",
-    "Skirmish at Echo Ridge"
+    "Skirmish at Echo Ridge",
+    "A Net Disaster",
+    "Slimy Menace",
+    "Bottles and Baubles",
+    "Collecting Kelp",
+    "A Man About a Murloc",
+    "The Escape",
+    "The Fargodeep Mine",
+    "An Enticing Offer",
+    "Baited for Success",
+    "Goldtooth",
+    "Gold Dust Exchange",
+    "Kobold Candles",
+    "Shipment to Stormwind",
+    "Camping 101: Fishing",
+    "Delicate Instruments (first stage: kobold geomancers)",
+    "The Jasperlode Mine",
+    "Camping 101: Herbalism",
+    "Downstream",
+    "Find the Lost Guards",
+    "Discover Rolf's Fate",
+    "Red Linen Goods",
+    "A Bundle of Trouble",
+    "Report to Thomas",
+    "Deliver Thomas' Report",
+    "Princess Must Die!",
+    "Protect the Frontier",
+    "Cloth and Leather Armor",
+    "Camping 101: First Aid",
+    "Divine Grace",
+    "Camping 101: Cooking"
   ],
   "confirmed_accepted_not_completed": [
     "Milly’s Harvest",
     "Garrick Padfoot’s bounty",
     "The Big Picture",
-    "Fargodeep investigation",
-    "Gold dust",
-    "Candles",
-    "Goldtooth",
-    "Princess",
-    "Crystal kelp",
-    "Fishing traps",
-    "Shiny junk"
+    "Report to Gryan Stoutmantle",
+    "Stolen Enchanting Supplies",
+    "Delicate Instruments (follow-up accepted 15:08:51; do not confuse with completed first stage)",
+    "Westbrook Garrison Needs Help!",
+    "Good Steel",
+    "Camping 101: Alchemy",
+    "Elmore's Task"
   ],
   "quest_status_needs_recheck": [
-    "No confirmed turn-in for outstanding tasks in approved morning-session coverage; recheck synced logs before describing any as completed."
+    "Outstanding list reflects accepted tasks without confirmed later turn-ins in reviewed sources; recheck live quest records before continuing.",
+    "Earlier shorthand entries for Fargodeep, dust, candles, Goldtooth, Princess, kelp, fishing traps and shiny junk are resolved by confirmed named completions above."
   ],
   "confirmed_progress": [
     "Reached level 4",
@@ -56,7 +88,12 @@
     "Learned Enchanting",
     "Continued priest training with a protective shield and stronger Smite",
     "Completed Josetta’s task involving healing Guard Roberts (quest title not retained in draft)",
-    "Received four linen bags from Du Track for 28 linen cloth"
+    "Received four linen bags from Du Track for 28 linen cloth",
+    "Reached level 11 at Lion’s Pride Inn at 18:20:11 Eastern",
+    "Learned Fishing; purchased Fishing Pole; caught Raw Brilliant Smallfish and Raw Longjaw Mud Snapper",
+    "Learned First Aid, Alchemy and Cooking; learned Fish Bowl, Incense Candle and First Aid Kit recipes",
+    "Learned Minor Healing Potion through First Aid (not Alchemy)",
+    "Learned Fade Rank 1, Renew Rank 1, Lesser Heal Rank 3, Mind Blast Rank 1, Resurrection Rank 1, Shadow Word: Pain Rank 2 and Divine Grace Rank 1"
   ],
   "character_continuity": [
     "Maud's ground, still, cloth teaching remains intact; her empty jar stays empty",
@@ -64,21 +101,23 @@
     "Plans Holy dual spec when permitted; no dual spec recorded",
     "Remains devoted to the Holy Light. Pinned journal note establishes repeated Shadow Word: Pain use against creatures; she recognizes the growing habit with concern (Necessity stage).",
     "Joined Mid Life Aggro: Saeloren Dra invitation logged 2026-11-05 07:09:02; Brinn’s Morning greeting logged 07:10:18. Goldshire encounter and additional dialogue are authorized fiction; exact invitation location unconfirmed.",
-    "Du Track is a fellow guild member; the bag exchange brings youthful, unrestrained delight."
+    "Du Track is a fellow guild member; the bag exchange brings youthful, unrestrained delight.",
+    "Brief confirmed group with mage Morrigan Emberblast for Princess at about 15:36–15:37; no permanent relationship established.",
+    "Campfire weather conversation in Goldshire is confirmed by pinned note. Guard-chase anecdote is a told tale, not established personal history.",
+    "Fishing provides respite; later pinned Gilded Rose rest emphasizes distress over killing and identity as a healer. Remains in gradual Necessity phase; no renunciation of Light, spec unlock or use of newly learned Resurrection/Divine Grace inferred."
   ],
-  "next_story_handoff": "Continue after Part One’s morning-session endpoint: 28 linen cloth exchanged with Du Track for four bags, then requested inn rest. Last recorded zone is Stormwind Trade District; Gilded Rose is imagined, not a verified logout. Cross-check first later entries for actual location and timing, then append later November 5 gameplay without repeating the morning story or guild scene. Recheck all outstanding quests before claiming completion. Source review cutoff is the 2026-11-05 11:00 Eastern WTF folder update. Examine all later chat, journal notes, and other records from that boundary onward, deduplicating any overlap; no post-11:00 records have been examined.",
-  "unprocessed_play_note": "All chat, journal notes, and other records after 11:00 Eastern Time on 2026-11-05 are unexamined. Retrieve and reconcile those later records before extending the story; do not infer later events were reviewed.",
-  "updated_through": "2026-11-05T11:00:00-05:00 (WTF folder source snapshot cutoff; not an exact final gameplay timestamp)",
+  "next_story_handoff": "Begin after November 5 Parts One and Two. Last observed at Lion’s Pride Inn in Goldshire, level 11, at 18:22:36 Eastern; rain ended on entry per pinned note. Reconcile next login against logs; do not assume exact logout. Preserve four linen bags, fishing pole, campfire acquaintances, Morrigan’s brief assistance, lost-guard aftermath and healer/Shadow tension. Recheck pending quests, especially Delicate Instruments follow-up. Do not repeat November 5 events.",
+  "unprocessed_play_note": "Brinn’s later November 5 records through her final 18:22:36 pinned note have been reconciled and published. Any subsequent Brinn gameplay remains unprocessed. Aelindra’s later session is separate and has not been reconciled into her own story.",
+  "updated_through": "2026-11-05T18:22:36-05:00",
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
   "editorial_update": {
     "date_local": "2026-11-05",
-    "time_local": "around noon",
     "timezone": "America/New_York",
-    "meaning": "Editorial/publication timing only. Source review stops at the 11:00 Eastern WTF folder update; all later records are unexamined."
+    "meaning": "Approved continuation appended to existing November 5 page."
   },
   "log_coverage": {
     "date": "2026-11-05",
-    "scope": "Approved Part One uses the WTF folder update at 11:00 Eastern Time on 2026-11-05. Any chat, journal notes, or other records after that cutoff have not been examined.",
+    "scope": "Part One retains the original 11:00 Eastern source snapshot boundary; Part Two reconciles later Brinn records through final pinned note at 18:22:36 Eastern. Subsequent Aelindra gameplay excluded.",
     "sources": [
       "Account and Brinn-specific ForeverJournal",
       "RoadToSixty",
@@ -86,9 +125,9 @@
       "BetterForeverChat",
       "WoWChatLog"
     ],
-    "exact_final_log_timestamp": null,
-    "source_snapshot_cutoff": "2026-11-05T11:00:00-05:00",
+    "exact_final_log_timestamp": "2026-11-05T18:22:36-05:00 (final pinned narrative note)",
     "timezone": "America/New_York",
-    "cutoff_basis": "Bryan’s explicit correction: last WTF folder update used was 1100 hours Eastern Time."
+    "source_saved_at": "2026-11-05T18:22:48-05:00 (character ForeverJournal saved timestamp)",
+    "uncertainty": "Source save and later account-wide modification times are not additional Brinn gameplay coverage or proof of exact logout."
   }
 }

@@ -1,1 +1,111 @@
-HTML_PLACEHOLDER
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/png" href="../../../favicon.png">
+<title>Daily Journal — Bram</title>
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; min-height: 100%; }
+  body {
+    background: #1a1a1a url('../bram-bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    color: #f5f0e6;
+    line-height: 1.65;
+  }
+  .overlay {
+    background: rgba(20, 15, 10, 0.72);
+    min-height: 100vh;
+    padding: 2rem 1rem;
+  }
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    background: rgba(30, 22, 15, 0.85);
+    border: 1px solid rgba(180, 140, 80, 0.3);
+    border-radius: 12px;
+    padding: 2.5rem 2rem;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+  }
+  h1 {
+    font-family: 'Palatino', 'Georgia', serif;
+    font-size: 2.6rem;
+    text-align: center;
+    color: #f0d9a0;
+    margin: 0 0 0.3rem 0;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.6);
+    letter-spacing: 0.5px;
+  }
+  .subtitle {
+    text-align: center;
+    font-style: italic;
+    color: #d4c4a0;
+    margin-bottom: 2rem;
+    font-size: 1.1rem;
+  }
+  .portrait {
+    text-align: center;
+    margin: 1.5rem 0 2rem 0;
+  }
+  .portrait img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 6px 24px rgba(0,0,0,0.6);
+  }
+  h2 {
+    color: #e8c97a;
+    border-bottom: 1px solid rgba(232, 201, 122, 0.4);
+    padding-bottom: 0.4rem;
+    margin-top: 2.2rem;
+    font-size: 1.6rem;
+  }
+  p { margin: 0.9rem 0; }
+  .intro { font-size: 1.15rem; text-align: center; margin-bottom: 1.5rem; }
+  .footer {
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 0.9rem;
+    color: #b0a080;
+    font-style: italic;
+  }
+  .journal-nav { font-size:.85rem; font-style:italic; margin-bottom:1.5rem; display:flex; flex-wrap:wrap; gap:1rem; }
+  a { color:#f0d9a0; }
+  @media (max-width: 600px) {
+    .container { padding: 1.5rem 1rem; }
+    h1 { font-size: 2rem; }
+  }
+</style>
+</head>
+<body>
+<div class="overlay">
+  <main class="container">
+    <nav class="journal-nav" aria-label="Journal navigation"><a href="../index.html">← Bram’s Character Sheet</a><a href="/Roleplay/">Roleplay Index</a></nav>
+    <header>
+      <p class="eyebrow" style="text-align:center; color:#d7c48e; text-transform:uppercase; letter-spacing:.18em; font-size:.75rem;">Bram · Daily Journal</p>
+      <h1>Ledger and Quill</h1>
+      <p class="subtitle">Accounts of the road, the mountain, and the work that pays</p>
+    </header>
+
+    <div class="portrait">
+      <img src="./bram-framed-portrait.jpg" alt="Bram — Gold-framed portrait with ledger and quill in the snowy mountains">
+    </div>
+
+    <p class="intro">The framed portrait of Bram, dwarf adventurer and factor, standing in the high snow with his ledger open and quill in hand.</p>
+
+    <h2>November 2026</h2>
+    <p>Journal entries forthcoming. The mountain is quiet today. The ink is fresh.</p>
+
+    <footer class="footer">
+      <div class="ai-attribution" style="margin-top:1.5rem;padding-top:1rem;border-top:1px solid currentColor;opacity:.85;font-size:.85rem;line-height:1.5">
+        <strong>AI Research and Editorial Assistance</strong>
+        <p style="margin:.55rem 0 0;text-align:left">This document was developed with research, editorial, and writing assistance from Grok (xAI). AI-generated material was reviewed, revised, and incorporated by the author.</p>
+      </div>
+    </footer>
+  </main>
+</div>
+<script src="../../../reader-mode.js" defer></script>
+</body>
+</html>

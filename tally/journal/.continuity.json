@@ -6,7 +6,7 @@
     "date": "2026-11-05",
     "title": "From Coldridge to Commerce",
     "path": "tally/journal/2026-11-05/index.html",
-    "coverage": "Late 4 November setup folded into early 5 November chapter; first recorded quest 05 Nov 04:11 local"
+    "coverage": "Coldridge gameplay from November 5, 2026, followed by a roleplay account of Bram’s subsequent business routine in Ironforge."
   },
   "last_reconciled_session": "2026-11-05",
   "last_known_position": {
@@ -55,14 +55,15 @@
     "Brief collaboration with gnome mage Chopped Tinkerdawn in the approved narrative"
   ],
   "character_continuity": [
-    "Bram Copperkeep (formerly Tally), dwarf warrior and bank/auction broker; character sheet in tally/index.html",
+    "Bram Copperkeep, Ironforge dwarf warrior and Adventurers’ Factor. Character sheet at tally/index.html.",
     "Approved narrative begins predawn November 5; no separate November 4 story",
     "Business concept: handle friends' banking, mail, auction consignments and ledgers in Ironforge near bank and auction house",
     "Office, desk, sign and extended dialogue in published story include dramatization; don't treat those details as confirmed game assets or verbatim chat",
     "Actual logged dialogue includes Bram noticing other travelers and appreciating the quiet morning near Grelin Whitebeard",
-    "User confirmed session ended and character logged out"
+    "User confirmed session ended and character logged out",
+    "Bram checks the Auction House daily and keeps busy with customers at his office. The bear-hide consignment and customer dialogue are approved roleplay details. No interaction with René or Brinn has been established in the journal."
   ],
-  "next_story_handoff": "Resume Bram's story after establishing his Ironforge banking/auction-office plan at the end of From Coldridge to Commerce. Check first new log for actual login location and time before placing him physically at the office. Reconcile remaining Camping 101 quests and other quest states; preserve his practical, economical voice and emerging network of adventurer clients. Do not invent mail transactions, clients, meetings or income.",
+  "next_story_handoff": "Bram is established as an Adventurers’ Factor in Ironforge. Verify new gameplay before extending the journal.",
   "unprocessed_play_note": null,
   "updated_through": "2026-11-05",
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory."

@@ -3,22 +3,22 @@
   "character": "Sister Brinn Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
   "last_published_story": {
-    "date": "2026-11-06",
-    "title": "Westfall",
-    "path": "RP/Brinn/journal/2026-11-06/index.html"
+    "date": "2026-11-07",
+    "title": "Hall of Thanes",
+    "path": "RP/Brinn/journal/2026-11-07/index.html"
   },
-  "last_reconciled_session": "November 6 Eastern, morning through evening expedition and final pinned note at 22:20:37.",
+  "last_reconciled_session": "November 7 Eastern, Hall of Thanes dungeon from 11:57–12:56 and Westfall/Stormwind continuation through chat log 17:21; chat evidence for other characters excluded.",
   "last_known_position": {
-    "zone": "Arathi Highlands",
-    "place": "Thoradin’s Wall",
-    "time_local": "2026-11-06T22:20:37-05:00",
-    "level": 16,
-    "certainty": "Final pinned narrative note. Exact logout location unconfirmed."
+    "zone": "Westfall",
+    "place": "Westfall (latest log activity; precise last position unconfirmed)",
+    "time_local": "2026-11-07T17:19:02-05:00",
+    "level": 18,
+    "certainty": "Quest Destruction in Deadmines accepted; exact logout location not independently confirmed."
   },
   "last_interaction": {
-    "who": "Mid Life Aggro expedition",
-    "event": "Sleeping bag chain finished by sixteen participants per Brinn’s note. Cozy Sleeping Bag awarded at 22:15:52 Eastern.",
-    "time_local": "2026-11-06T22:20:37-05:00"
+    "who": "Westfall quest NPC / Deadmines preparations",
+    "event": "Accepted Destruction in Deadmines after completing Explosive Consultation; no Deadmines completion recorded.",
+    "time_local": "2026-11-07T17:19:02-05:00"
   },
   "confirmed_completed_quests": [
     "A Threat Within",
@@ -104,7 +104,23 @@
     "Scramble",
     "Wet Job",
     "Eagle’s Fist",
-    "This Must Be The Place"
+    "This Must Be The Place",
+    "An Ancient Grudge",
+    "Important Heirlooms",
+    "The Restless Dead",
+    "Old Ironforge Incursion",
+    "The Treaty of Understanding",
+    "The State of the Mines",
+    "Red Leather Bandanas",
+    "The People's Militia (multiple stages)",
+    "Patrolling Westfall",
+    "The Defias Brotherhood (multiple stages through escort)",
+    "Moonbrook Espionage",
+    "Explosive Consultation (reported stages)",
+    "A Dynamite Plan",
+    "Detonation at a Distance (reported stages)",
+    "Bewitchments and Glamours",
+    "Baxtan: On Destructive Magics"
   ],
   "confirmed_accepted_not_completed": [
     "Milly’s Harvest",
@@ -113,17 +129,15 @@
     "Stolen Enchanting Supplies",
     "Good Steel",
     "Camping 101: Alchemy",
-    "The Defias Brotherhood (next stage accepted after Shaw’s report)",
-    "The State of the Mines",
     "Harvesting the Harvesters",
     "The Killing Fields",
-    "Red Leather Bandanas",
     "Captain Sander’s Hidden Treasure",
-    "The Restless Dead",
-    "Important Heirlooms",
     "Nip ’Em in the Bud",
-    "Old Ironforge Incursion",
-    "Raptor Horns"
+    "Raptor Horns",
+    "The People's Militia (further stage accepted at 15:01)",
+    "The Defias Brotherhood (further stage accepted at 15:11)",
+    "Destruction in Deadmines",
+    "Retrieval for Mauren"
   ],
   "quest_status_needs_recheck": [
     "Recheck accepted quests against next synced quest records. Completed Defias stages do not establish Deadmines completion."
@@ -146,7 +160,11 @@
     "First Aid advanced to Journeyman. Learned Heavy Linen Bandage and Lesser Healing Potion recipes.",
     "Learned Inner Fire, stronger Fortitude and Shield, Cure Disease, Psychic Scream, stronger Renew and Smite.",
     "First Mind Blast pinned at Forest’s Edge. First gryphon flight from Sentinel Hill toward Stormwind.",
-    "Received Cozy Sleeping Bag and Student Fodder at Thoradin’s Wall."
+    "Received Cozy Sleeping Bag and Student Fodder at Thoradin’s Wall.",
+    "On November 7 completed Hall of Thanes with Sarah Connur, Mith Lightscar, Clarence Liongard, and Ariadryn Brackston; defeated Faldrim Anvilmar, Magmatus, Plunder, and Durgen Dirgehammer.",
+    "Won Ephemeral Choker; received Catacomb Cloak, Cryptwalker Bracers, and wand Deepblaze from dungeon quests. Clarence won Robes of the Disgraced Thane.",
+    "Reached level 17 after Ironforge dungeon quest turn-ins at 13:01 Eastern and level 18 in Stormwind by 15:39.",
+    "Trained Heal Rank 1, Dispel Magic Rank 1, Divine Grace Rank 2, Shield Rank 3, Shadow Word: Pain Rank 3 and Mind Blast Rank 2 during November 7."
   ],
   "character_continuity": [
     "Maud's ground, still, cloth teaching remains intact; her empty jar stays empty",
@@ -160,30 +178,30 @@
     "Holy is her primary training. Shadow dual specialization is planned around level 40. No dual specialization recorded.",
     "Joe Dynamite rescued Brinn at Hogger according to her pinned note and high-fived her in chat. Lysander Little checked on her after mistaking her wand movements for distress.",
     "Brinn helped Allustriel Rainshadow with a containment job in Stormwind. Chriandre Wolfheart led the evening expedition.",
-    "Brinn is curious about the Defias bandits. The possible connection in Stormwind remains uncertain to her. Save the discovery of their stonemason origins for her level-18 Deadmines completion."
+    "Brinn is curious about the Defias bandits. The possible connection in Stormwind remains uncertain to her. Save the discovery of their stonemason origins for her level-18 Deadmines completion.",
+    "Sarah Connur sincerely thanked Brinn and stated 'you saved my life' at 12:56 in Hall of Thanes. This establishes a meaningful positive first party-healer experience, not an enduring relationship beyond the observed encounter.",
+    "Brinn remains devoted to the Light; her growing use of Shadow is necessity, not conversion. Preserve Defias stonemason-origin revelation until documented Deadmines completion, not merely reaching level 18."
   ],
-  "next_story_handoff": "Continue after the November 6 Westfall entry. Last pinned at Thoradin’s Wall, Arathi Highlands, level 16 at 22:20:37 Eastern. Verify next login and current quests. Preserve the sleeping bag, early Shadow unease, Holy training, and pending Defias discovery.",
-  "unprocessed_play_note": "November 6 reconciled through the final pinned note. Any subsequent play needs fresh review.",
-  "updated_through": "2026-11-06T22:20:37-05:00",
+  "next_story_handoff": "November 7 published through 17:19 Eastern: Brinn level 18, preparing for Deadmines; Destruction in Deadmines accepted but not completed. Recheck later synced logs after 17:21 before next dated story; preserve unconfirmed logout location and Defias discovery boundary.",
+  "unprocessed_play_note": "November 7 evidence reviewed through the available 17:21 WoWChatLog snapshot. Check newer sync for subsequent gameplay before the next story.",
+  "updated_through": "2026-11-07T17:21:06-05:00",
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
   "editorial_update": {
     "date_local": "2026-11-07",
     "timezone": "America/New_York",
-    "meaning": "Approved November 6 draft added to existing Westfall page."
+    "meaning": "Approved Hall of Thanes story published on existing Nov 7 page, retaining original image."
   },
   "log_coverage": {
-    "date": "2026-11-06",
-    "scope": "November 6 Eastern through final pinned note",
+    "date": "2026-11-07",
+    "scope": "WoWChatLog 06:17–17:21 Eastern, Hall of Thanes combat 11:57–12:55, prior continuity and dungeon source context",
     "sources": [
-      "Account and character ForeverJournal",
-      "RoadToSixty",
-      "Social Diary",
-      "BetterForeverChat",
       "WoWChatLog",
-      "Spoken Places zone and subzone lore for setting"
+      "WoWCombatLog-110726_115707.txt",
+      "November 6 Brinn continuity",
+      "Hall of Thanes quest and dungeon event records"
     ],
-    "exact_final_log_timestamp": "2026-11-06T22:20:37-05:00",
+    "exact_final_log_timestamp": "2026-11-07T17:21:06-05:00",
     "timezone": "America/New_York",
-    "uncertainty": "Pinned position is not independent proof of logout location."
+    "uncertainty": "Combat capture limited to dungeon time. Full SavedVariables and Spoken raw source not completely inspected; no later-session claims. Exact character last position unconfirmed."
   }
 }

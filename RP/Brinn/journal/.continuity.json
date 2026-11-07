@@ -3,23 +3,22 @@
   "character": "Sister Brinn Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
   "last_published_story": {
-    "date": "2026-11-05",
-    "title": "Adventures in Elwynn Forest — Parts One and Two",
-    "path": "RP/Brinn/journal/2026-11-05/index.html"
+    "date": "2026-11-06",
+    "title": "Westfall",
+    "path": "RP/Brinn/journal/2026-11-06/index.html"
   },
-  "last_reconciled_session": "2026-11-05, morning and later session through final pinned note at 18:22:36 Eastern; approved Parts One and Two",
+  "last_reconciled_session": "November 6 Eastern, morning through evening expedition and final pinned note at 22:20:37.",
   "last_known_position": {
-    "zone": "Elwynn Forest",
-    "place": "Lion’s Pride Inn, Goldshire",
-    "time_local": "2026-11-05T18:22:36-05:00",
-    "level": 11,
-    "certainty": "Final character-specific pinned note; last observed position, not an independently verified logout."
+    "zone": "Arathi Highlands",
+    "place": "Thoradin’s Wall",
+    "time_local": "2026-11-06T22:20:37-05:00",
+    "level": 16,
+    "certainty": "Final pinned narrative note. Exact logout location unconfirmed."
   },
   "last_interaction": {
-    "who": "Tomas",
-    "event": "Cooking training and Camping 101: Cooking completion in Lion’s Pride Inn.",
-    "time_local": "2026-11-05T18:20:11-05:00",
-    "certainty": "Latest confirmed named NPC interaction retained in reviewed sources; later 18:22:36 pinned note records rain ending on entry to inn."
+    "who": "Mid Life Aggro expedition",
+    "event": "Sleeping bag chain finished by sixteen participants per Brinn’s note. Cozy Sleeping Bag awarded at 22:15:52 Eastern.",
+    "time_local": "2026-11-06T22:20:37-05:00"
   },
   "confirmed_completed_quests": [
     "A Threat Within",
@@ -62,23 +61,72 @@
     "Cloth and Leather Armor",
     "Camping 101: First Aid",
     "Divine Grace",
-    "Camping 101: Cooking"
+    "Camping 101: Cooking",
+    "Delicate Instruments (follow-up: Defias Rogue Wizards)",
+    "Westbrook Garrison Needs Help!",
+    "Furlbrow’s Deed",
+    "WANTED: Hogger",
+    "Riverpaw Gnoll Bounty",
+    "The Collector",
+    "Manhunt",
+    "Elmore’s Task",
+    "The Lost Pilot",
+    "A Pilot’s Revenge",
+    "Stormpike’s Delivery",
+    "Stormpike’s Order",
+    "Report to Gryan Stoutmantle",
+    "A Swift Message",
+    "Continue to Stormwind",
+    "Dungar Longdrink",
+    "Return to Lewis",
+    "Poor Old Blanchy",
+    "The Forgotten Heirloom",
+    "Testing the Wells",
+    "Murloc Gills",
+    "Westfall Stew (recipe delivery and ingredient turn-in)",
+    "Goretusk Liver Pie",
+    "Rumi of Gnomeregan: The Collected Works",
+    "Encroaching Gnolls",
+    "Hilary’s Necklace",
+    "A Free Lunch",
+    "The Price of Shoes",
+    "Return to Verner",
+    "Messenger to Stormwind (both legs)",
+    "Visit the Herbalist",
+    "Delivering Daffodils",
+    "The Defias Brotherhood (through Shaw’s report to Gryan)",
+    "Messenger to Westfall (both legs)",
+    "Farsen’s Watch",
+    "Underground Map",
+    "Business in Auberdine",
+    "… and that note you found",
+    "Stepping Stones",
+    "Scramble",
+    "Wet Job",
+    "Eagle’s Fist",
+    "This Must Be The Place"
   ],
   "confirmed_accepted_not_completed": [
     "Milly’s Harvest",
     "Garrick Padfoot’s bounty",
     "The Big Picture",
-    "Report to Gryan Stoutmantle",
     "Stolen Enchanting Supplies",
-    "Delicate Instruments (follow-up accepted 15:08:51; do not confuse with completed first stage)",
-    "Westbrook Garrison Needs Help!",
     "Good Steel",
     "Camping 101: Alchemy",
-    "Elmore's Task"
+    "The Defias Brotherhood (next stage accepted after Shaw’s report)",
+    "The State of the Mines",
+    "Harvesting the Harvesters",
+    "The Killing Fields",
+    "Red Leather Bandanas",
+    "Captain Sander’s Hidden Treasure",
+    "The Restless Dead",
+    "Important Heirlooms",
+    "Nip ’Em in the Bud",
+    "Old Ironforge Incursion",
+    "Raptor Horns"
   ],
   "quest_status_needs_recheck": [
-    "Outstanding list reflects accepted tasks without confirmed later turn-ins in reviewed sources; recheck live quest records before continuing.",
-    "Earlier shorthand entries for Fargodeep, dust, candles, Goldtooth, Princess, kelp, fishing traps and shiny junk are resolved by confirmed named completions above."
+    "Recheck accepted quests against next synced quest records. Completed Defias stages do not establish Deadmines completion."
   ],
   "confirmed_progress": [
     "Reached level 4",
@@ -93,41 +141,49 @@
     "Learned Fishing; purchased Fishing Pole; caught Raw Brilliant Smallfish and Raw Longjaw Mud Snapper",
     "Learned First Aid, Alchemy and Cooking; learned Fish Bowl, Incense Candle and First Aid Kit recipes",
     "Learned Minor Healing Potion through First Aid (not Alchemy)",
-    "Learned Fade Rank 1, Renew Rank 1, Lesser Heal Rank 3, Mind Blast Rank 1, Resurrection Rank 1, Shadow Word: Pain Rank 2 and Divine Grace Rank 1"
+    "Learned Fade Rank 1, Renew Rank 1, Lesser Heal Rank 3, Mind Blast Rank 1, Resurrection Rank 1, Shadow Word: Pain Rank 2 and Divine Grace Rank 1",
+    "Reached levels 12–16. Level 16 at Thoradin’s Wall.",
+    "First Aid advanced to Journeyman. Learned Heavy Linen Bandage and Lesser Healing Potion recipes.",
+    "Learned Inner Fire, stronger Fortitude and Shield, Cure Disease, Psychic Scream, stronger Renew and Smite.",
+    "First Mind Blast pinned at Forest’s Edge. First gryphon flight from Sentinel Hill toward Stormwind.",
+    "Received Cozy Sleeping Bag and Student Fodder at Thoradin’s Wall."
   ],
   "character_continuity": [
     "Maud's ground, still, cloth teaching remains intact; her empty jar stays empty",
     "Ham's fate remains unresolved; Edith's letter unchanged",
-    "Plans Holy dual spec when permitted; no dual spec recorded",
     "Remains devoted to the Holy Light. Pinned journal note establishes repeated Shadow Word: Pain use against creatures; she recognizes the growing habit with concern (Necessity stage).",
     "Joined Mid Life Aggro: Saeloren Dra invitation logged 2026-11-05 07:09:02; Brinn’s Morning greeting logged 07:10:18. Goldshire encounter and additional dialogue are authorized fiction; exact invitation location unconfirmed.",
     "Du Track is a fellow guild member; the bag exchange brings youthful, unrestrained delight.",
     "Brief confirmed group with mage Morrigan Emberblast for Princess at about 15:36–15:37; no permanent relationship established.",
     "Campfire weather conversation in Goldshire is confirmed by pinned note. Guard-chase anecdote is a told tale, not established personal history.",
-    "Fishing provides respite; later pinned Gilded Rose rest emphasizes distress over killing and identity as a healer. Remains in gradual Necessity phase; no renunciation of Light, spec unlock or use of newly learned Resurrection/Divine Grace inferred."
+    "Fishing provides respite; later pinned Gilded Rose rest emphasizes distress over killing and identity as a healer. Remains in gradual Necessity phase; no renunciation of Light, spec unlock or use of newly learned Resurrection/Divine Grace inferred.",
+    "Holy is her primary training. Shadow dual specialization is planned around level 40. No dual specialization recorded.",
+    "Joe Dynamite rescued Brinn at Hogger according to her pinned note and high-fived her in chat. Lysander Little checked on her after mistaking her wand movements for distress.",
+    "Brinn helped Allustriel Rainshadow with a containment job in Stormwind. Chriandre Wolfheart led the evening expedition.",
+    "Brinn is curious about the Defias bandits. The possible connection in Stormwind remains uncertain to her. Save the discovery of their stonemason origins for her level-18 Deadmines completion."
   ],
-  "next_story_handoff": "Begin after November 5 Parts One and Two. Last observed at Lion’s Pride Inn in Goldshire, level 11, at 18:22:36 Eastern; rain ended on entry per pinned note. Reconcile next login against logs; do not assume exact logout. Preserve four linen bags, fishing pole, campfire acquaintances, Morrigan’s brief assistance, lost-guard aftermath and healer/Shadow tension. Recheck pending quests, especially Delicate Instruments follow-up. Do not repeat November 5 events.",
-  "unprocessed_play_note": "Brinn’s later November 5 records through her final 18:22:36 pinned note have been reconciled and published. Any subsequent Brinn gameplay remains unprocessed. Aelindra’s later session is separate and has not been reconciled into her own story.",
-  "updated_through": "2026-11-05T18:22:36-05:00",
+  "next_story_handoff": "Continue after the November 6 Westfall entry. Last pinned at Thoradin’s Wall, Arathi Highlands, level 16 at 22:20:37 Eastern. Verify next login and current quests. Preserve the sleeping bag, early Shadow unease, Holy training, and pending Defias discovery.",
+  "unprocessed_play_note": "November 6 reconciled through the final pinned note. Any subsequent play needs fresh review.",
+  "updated_through": "2026-11-06T22:20:37-05:00",
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
   "editorial_update": {
-    "date_local": "2026-11-05",
+    "date_local": "2026-11-07",
     "timezone": "America/New_York",
-    "meaning": "Approved continuation appended to existing November 5 page."
+    "meaning": "Approved November 6 draft added to existing Westfall page."
   },
   "log_coverage": {
-    "date": "2026-11-05",
-    "scope": "Part One retains the original 11:00 Eastern source snapshot boundary; Part Two reconciles later Brinn records through final pinned note at 18:22:36 Eastern. Subsequent Aelindra gameplay excluded.",
+    "date": "2026-11-06",
+    "scope": "November 6 Eastern through final pinned note",
     "sources": [
-      "Account and Brinn-specific ForeverJournal",
+      "Account and character ForeverJournal",
       "RoadToSixty",
-      "Brinn Social Diary",
+      "Social Diary",
       "BetterForeverChat",
-      "WoWChatLog"
+      "WoWChatLog",
+      "Spoken Places zone and subzone lore for setting"
     ],
-    "exact_final_log_timestamp": "2026-11-05T18:22:36-05:00 (final pinned narrative note)",
+    "exact_final_log_timestamp": "2026-11-06T22:20:37-05:00",
     "timezone": "America/New_York",
-    "source_saved_at": "2026-11-05T18:22:48-05:00 (character ForeverJournal saved timestamp)",
-    "uncertainty": "Source save and later account-wide modification times are not additional Brinn gameplay coverage or proof of exact logout."
+    "uncertainty": "Pinned position is not independent proof of logout location."
   }
 }

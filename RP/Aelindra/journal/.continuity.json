@@ -2,18 +2,99 @@
   "schema_version": 1,
   "character": "Aelindra Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
-  "last_published_story": null,
-  "last_reconciled_session": null,
-  "last_known_position": null,
-  "last_interaction": null,
-  "confirmed_completed_quests": [],
-  "confirmed_accepted_not_completed": [],
-  "quest_status_needs_recheck": [],
-  "confirmed_progress": [],
-  "character_continuity": [],
-  "next_story_handoff": "Start with the first unreconciled live-server session. Read character canon and synced logs from the beginning; do not use beta stories or placeholders as proof of current play.",
-  "unprocessed_play_note": "Nothing has been done toward reconciling Aelindra’s gameplay into a published journal. Gameplay exists in the synced November 5 logs, including the later evening session, but no session is marked processed here.",
-  "updated_through": null,
+  "last_published_story": {
+    "date": "2026-11-07",
+    "title": "What the Wind Still Held",
+    "path": "RP/Aelindra/journal/2026-11-07/index.html"
+  },
+  "last_reconciled_session": {
+    "live_dates": [
+      "2026-11-05",
+      "2026-11-06",
+      "2026-11-07"
+    ],
+    "story_date": "2026-11-07",
+    "sources": [
+      "ForeverJournal account and character data",
+      "Road to Sixty",
+      "WoWChatLog",
+      "BetterForeverChat"
+    ],
+    "scope": "Aelindra's first live sessions, including the guild join and final inn note. The published story compresses play into a single day."
+  },
+  "last_known_position": {
+    "zone": "Zephras Isle",
+    "subzone": "Shen'dar Village",
+    "landmark": "Calmbreeze Inn",
+    "confidence": "High for the last journaled stop"
+  },
+  "last_interaction": {
+    "name": "Coriella Calmbreeze",
+    "observed_at": "2026-11-07T09:55:00-05:00",
+    "precision": "minute",
+    "note": "Player journal records a conversation at the inn. Conversation details are unknown."
+  },
+  "confirmed_completed_quests": [
+    "Coming of Age",
+    "Harmony in Balance",
+    "Infestation Investigation",
+    "The Cirrusfly Queen",
+    "Elemental Unrest",
+    "The Way of the Hunter",
+    "Harvesting Windstones",
+    "Reading the Leylines",
+    "The Anchors of Zephras",
+    "Falling With Style",
+    "Agitators",
+    "Return to Rorian",
+    "Aetheen of the Gales",
+    "Aggressive Encroachment",
+    "Foul Matriarch",
+    "Al'Aketh Thugs",
+    "The Adventurer",
+    "The Great Outdoors",
+    "The Next Step",
+    "Welcome to Shen'dar Village",
+    "The High Order",
+    "Camping 101: Cooking",
+    "Camping 101: Skinning",
+    "A Magical Affront",
+    "Hippogryph Harassment",
+    "A Little Beauty",
+    "WANTED: Vulgara the Insatiable",
+    "The Problem With Prideclaws",
+    "Pilfered Windstones",
+    "The Criminal Element",
+    "Infiltrating the Cult",
+    "Falaath Village",
+    "Among the Faithful",
+    "Restocking the Larders"
+  ],
+  "confirmed_accepted_not_completed": [
+    "Havoc in the Highlands",
+    "The Western Watch",
+    "Stolen Supplies"
+  ],
+  "quest_status_needs_recheck": [
+    "Recheck pending quests against the next synced session."
+  ],
+  "confirmed_progress": [
+    "Level 8 Skyborne hunter",
+    "Joined Mid Life Aggro",
+    "Trained Track Beasts, Aspect of the Monkey, Serpent Sting, Arcane Shot, Hunter's Mark, Concussive Shot, Parry, and Raptor Strike Rank 2",
+    "Apprentice Cooking, Journeyman Skinning, and Camp Chair recipe",
+    "Recovered after a recorded death at Windsong Standing Stones"
+  ],
+  "character_continuity": [
+    "High Order hunter, true name Aelindra Ser'jaen'thal. Blue Gale and Zephyr tattoos and her mother's pearls.",
+    "Still on Zephras Isle in the verified gameplay. No live taming encounter established.",
+    "Grouped with Neranduil Zephyrgale for the Cirrusfly Queen and with Merith Gustwing and Evayne Greystorm for Vulgara."
+  ],
+  "next_story_handoff": "Begin after the last verified stop at Calmbreeze Inn. Check the next logs for the highlands, Western Watch and stolen supplies before advancing her island story.",
+  "updated_through": {
+    "chat": "2026-11-07T09:56:26-05:00",
+    "journal_save": "2026-11-07T09:56:28-05:00"
+  },
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
-  "status": "Nothing done: no gameplay journal has been reconciled or published."
+  "status": "First live sessions reconciled into the November 7 entry."
 }

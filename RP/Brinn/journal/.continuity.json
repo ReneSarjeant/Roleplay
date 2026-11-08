@@ -3,22 +3,22 @@
   "character": "Sister Brinn Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
   "last_published_story": {
-    "date": "2026-11-07",
-    "title": "Hall of Thanes",
-    "path": "RP/Brinn/journal/2026-11-07/index.html"
+    "date": "2026-11-08",
+    "title": "A Fine Day for Fishing",
+    "path": "RP/Brinn/journal/2026-11-08/index.html"
   },
-  "last_reconciled_session": "November 7 Eastern, Hall of Thanes dungeon from 11:57–12:56 and Westfall/Stormwind continuation through chat log 17:21; chat evidence for other characters excluded.",
+  "last_reconciled_session": "November 8 Eastern. Redridge crate delivery and Elwynn herb gathering, Mid Life Aggro gathering in Stormwind, and return to Sentinel Hill. Brinn’s chat farewell was at 12:03:05 Eastern.",
   "last_known_position": {
     "zone": "Westfall",
-    "place": "Westfall (latest log activity; precise last position unconfirmed)",
-    "time_local": "2026-11-07T17:19:02-05:00",
+    "place": "Sentinel Hill",
+    "time_local": "2026-11-08T12:00:45-05:00",
     "level": 18,
-    "certainty": "Quest Destruction in Deadmines accepted; exact logout location not independently confirmed."
+    "certainty": "Pinned ForeverJournal note records Sentinel Hill and a bed at the inn. Exact logout position unverified."
   },
   "last_interaction": {
-    "who": "Westfall quest NPC / Deadmines preparations",
-    "event": "Accepted Destruction in Deadmines after completing Explosive Consultation; no Deadmines completion recorded.",
-    "time_local": "2026-11-07T17:19:02-05:00"
+    "who": "Fellow travelers (unnamed)",
+    "event": "Brinn said farewell at 12:03:05 and waved at 12:03:11. The exact position of the exchange is unverified.",
+    "time_local": "2026-11-08T12:03:11-05:00"
   },
   "confirmed_completed_quests": [
     "A Threat Within",
@@ -120,7 +120,9 @@
     "A Dynamite Plan",
     "Detonation at a Distance (reported stages)",
     "Bewitchments and Glamours",
-    "Baxtan: On Destructive Magics"
+    "Baxtan: On Destructive Magics",
+    "A Sealed Crate",
+    "Camping 101: Alchemy"
   ],
   "confirmed_accepted_not_completed": [
     "Milly’s Harvest",
@@ -128,7 +130,6 @@
     "The Big Picture",
     "Stolen Enchanting Supplies",
     "Good Steel",
-    "Camping 101: Alchemy",
     "Harvesting the Harvesters",
     "The Killing Fields",
     "Captain Sander’s Hidden Treasure",
@@ -164,7 +165,9 @@
     "On November 7 completed Hall of Thanes with Sarah Connur, Mith Lightscar, Clarence Liongard, and Ariadryn Brackston; defeated Faldrim Anvilmar, Magmatus, Plunder, and Durgen Dirgehammer.",
     "Won Ephemeral Choker; received Catacomb Cloak, Cryptwalker Bracers, and wand Deepblaze from dungeon quests. Clarence won Robes of the Disgraced Thane.",
     "Reached level 17 after Ironforge dungeon quest turn-ins at 13:01 Eastern and level 18 in Stormwind by 15:39.",
-    "Trained Heal Rank 1, Dispel Magic Rank 1, Divine Grace Rank 2, Shield Rank 3, Shadow Word: Pain Rank 3 and Mind Blast Rank 2 during November 7."
+    "Trained Heal Rank 1, Dispel Magic Rank 1, Divine Grace Rank 2, Shield Rank 3, Shadow Word: Pain Rank 3 and Mind Blast Rank 2 during November 7.",
+    "November 8: learned the Mana Well recipe; Herbalism reached 101 in chat; level 18 at the last pinned journal location.",
+    "Joined Mid Life Aggro at Cathedral Square, helped defeat the Stormwind Sewer Beast with the group, and fished in the canals. Exact casts and combat contribution are unverified."
   ],
   "character_continuity": [
     "Maud's ground, still, cloth teaching remains intact; her empty jar stays empty",
@@ -180,28 +183,31 @@
     "Brinn helped Allustriel Rainshadow with a containment job in Stormwind. Chriandre Wolfheart led the evening expedition.",
     "Brinn is curious about the Defias bandits. The possible connection in Stormwind remains uncertain to her. Save the discovery of their stonemason origins for her level-18 Deadmines completion.",
     "Sarah Connur sincerely thanked Brinn and stated 'you saved my life' at 12:56 in Hall of Thanes. This establishes a meaningful positive first party-healer experience, not an enduring relationship beyond the observed encounter.",
-    "Brinn remains devoted to the Light; her growing use of Shadow is necessity, not conversion. Preserve Defias stonemason-origin revelation until documented Deadmines completion, not merely reaching level 18."
+    "Brinn remains devoted to the Light; her growing use of Shadow is necessity, not conversion. Preserve Defias stonemason-origin revelation until documented Deadmines completion, not merely reaching level 18.",
+    "November 8 guild gathering: Brinn called for a group hug, cheered the Sewer Beast victory, and celebrated Naya Sparkmender catching a baby crocolisk. No lasting relationship change inferred."
   ],
-  "next_story_handoff": "November 7 published through 17:19 Eastern: Brinn level 18, preparing for Deadmines; Destruction in Deadmines accepted but not completed. Recheck later synced logs after 17:21 before next dated story; preserve unconfirmed logout location and Defias discovery boundary.",
-  "unprocessed_play_note": "November 7 evidence reviewed through the available 17:21 WoWChatLog snapshot. Check newer sync for subsequent gameplay before the next story.",
-  "updated_through": "2026-11-07T17:21:06-05:00",
+  "next_story_handoff": "Resume from the last verified location, Sentinel Hill, with a bed at the inn and People’s Militia work pending. Brinn wants to return to her room in Goldshire. Recheck Destruction in Deadmines and preserve the Defias discovery boundary until completion is documented.",
+  "unprocessed_play_note": "No newer Brinn gameplay was reconciled past the November 8 chat cutoff at 12:03:19 Eastern.",
+  "updated_through": "2026-11-08T12:03:19-05:00",
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
   "editorial_update": {
-    "date_local": "2026-11-07",
+    "date_local": "2026-11-08",
     "timezone": "America/New_York",
-    "meaning": "Approved Hall of Thanes story published on existing Nov 7 page, retaining original image."
+    "meaning": "Approved A Fine Day for Fishing published and linked from Brinn’s journal index."
   },
   "log_coverage": {
-    "date": "2026-11-07",
-    "scope": "WoWChatLog 06:17–17:21 Eastern, Hall of Thanes combat 11:57–12:55, prior continuity and dungeon source context",
+    "date": "2026-11-08",
+    "scope": "November 8 Brinn-specific evidence includes morning herb gathering and crate turn-in through the 12:03 Eastern farewell. Shared chat also contains other characters’ activity.",
     "sources": [
       "WoWChatLog",
-      "WoWCombatLog-110726_115707.txt",
-      "November 6 Brinn continuity",
-      "Hall of Thanes quest and dungeon event records"
+      "Chatify",
+      "ForeverJournal (account and Brinn)",
+      "Road to Sixty (Brinn)",
+      "November 8 Cathedral and canal screenshots",
+      "Spoken zone and subzone text"
     ],
-    "exact_final_log_timestamp": "2026-11-07T17:21:06-05:00",
+    "exact_final_log_timestamp": "2026-11-08T12:03:19-05:00",
     "timezone": "America/New_York",
-    "uncertainty": "Combat capture limited to dungeon time. Full SavedVariables and Spoken raw source not completely inspected; no later-session claims. Exact character last position unconfirmed."
+    "uncertainty": "Available combat log ends November 7. The November 8 Sewer Beast encounter is supported by chat and Brinn’s pinned note. Exact logout position and Deadmines completion are unverified."
   }
 }

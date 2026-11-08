@@ -3,36 +3,36 @@
   "character": "Aelindra Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
   "last_published_story": {
-    "date": "2026-11-07",
-    "title": "What the Wind Still Held",
-    "path": "RP/Aelindra/journal/2026-11-07/index.html"
+    "date": "2026-11-08",
+    "title": "The Cat Who Stayed",
+    "path": "RP/Aelindra/journal/2026-11-08/index.html"
   },
   "last_reconciled_session": {
     "live_dates": [
-      "2026-11-05",
-      "2026-11-06",
-      "2026-11-07"
+      "2026-11-08"
     ],
-    "story_date": "2026-11-07",
+    "story_date": "2026-11-08",
     "sources": [
       "ForeverJournal account and character data",
       "Road to Sixty",
       "WoWChatLog",
-      "BetterForeverChat"
+      "BetterForeverChat",
+      "Spoken Places"
     ],
-    "scope": "Aelindra's first live sessions, including the guild join and final inn note. The published story compresses play into a single day."
+    "scope": "November 8 Zephras Isle play through the Valanaar inn stop. The synced combat log covered November 7 only."
   },
   "last_known_position": {
     "zone": "Zephras Isle",
-    "subzone": "Shen'dar Village",
-    "landmark": "Calmbreeze Inn",
+    "subzone": "Valanaar",
+    "landmark": "Inn",
+    "observed_at": "2026-11-08T17:41:50-05:00",
     "confidence": "High for the last journaled stop"
   },
   "last_interaction": {
-    "name": "Coriella Calmbreeze",
-    "observed_at": "2026-11-07T09:55:00-05:00",
-    "precision": "minute",
-    "note": "Player journal records a conversation at the inn. Conversation details are unknown."
+    "name": "Valennia Stormfist",
+    "observed_at": "2026-11-08T17:32:45-05:00",
+    "precision": "second",
+    "note": "Last verified quest turn-in. Aelindra later recorded stopping at the Valanaar inn."
   },
   "confirmed_completed_quests": [
     "Coming of Age",
@@ -68,33 +68,47 @@
     "Infiltrating the Cult",
     "Falaath Village",
     "Among the Faithful",
-    "Restocking the Larders"
-  ],
-  "confirmed_accepted_not_completed": [
+    "Restocking the Larders",
+    "Stolen Supplies",
     "Havoc in the Highlands",
     "The Western Watch",
-    "Stolen Supplies"
+    "A Last Request",
+    "Deliver the Signet",
+    "To Valanaar",
+    "Crab Season",
+    "Taming the Beast (three Zephras Isle lessons)",
+    "Training the Beast",
+    "Camping 101: Fishing",
+    "Standing Our Ground",
+    "Desperate Times",
+    "Prepare for Battle"
+  ],
+  "confirmed_accepted_not_completed": [
+    "Making Our Move"
   ],
   "quest_status_needs_recheck": [
-    "Recheck pending quests against the next synced session."
+    "Reconcile the remaining northern refugee quests and other outstanding island work against the next session."
   ],
   "confirmed_progress": [
-    "Level 8 Skyborne hunter",
     "Joined Mid Life Aggro",
     "Trained Track Beasts, Aspect of the Monkey, Serpent Sting, Arcane Shot, Hunter's Mark, Concussive Shot, Parry, and Raptor Strike Rank 2",
     "Apprentice Cooking, Journeyman Skinning, and Camp Chair recipe",
-    "Recovered after a recorded death at Windsong Standing Stones"
+    "Recovered after a recorded death at Windsong Standing Stones",
+    "Level 13 Skyborne hunter",
+    "Learned Tame Beast and Revive Pet; trained Sylthara in Growl and early defensive skills",
+    "Learned apprentice fishing and the Fish Bowl recipe"
   ],
   "character_continuity": [
     "High Order hunter, true name Aelindra Ser'jaen'thal. Blue Gale and Zephyr tattoos and her mother's pearls.",
-    "Still on Zephras Isle in the verified gameplay. No live taming encounter established.",
-    "Grouped with Neranduil Zephyrgale for the Cirrusfly Queen and with Merith Gustwing and Evayne Greystorm for Vulgara."
+    "Grouped with Neranduil Zephyrgale for the Cirrusfly Queen and with Merith Gustwing and Evayne Greystorm for Vulgara.",
+    "Still on Zephras Isle. Tamed the young Prideclaw Sylthara in the Shen’dar Highlands at 05:50 Eastern. Later journaled in the Gustberry Lowlands that Sylthara was her best friend.",
+    "Escorted Aamelia Windfield during Standing Our Ground and witnessed the orchard’s cyclone construct deal with Ferauu."
   ],
-  "next_story_handoff": "Begin after the last verified stop at Calmbreeze Inn. Check the next logs for the highlands, Western Watch and stolen supplies before advancing her island story.",
+  "next_story_handoff": "Start from the last journaled stop at the Valanaar inn. Making Our Move is accepted. Check outstanding northern refugee work and verify the next route before moving off Zephras Isle.",
   "updated_through": {
-    "chat": "2026-11-07T09:56:26-05:00",
-    "journal_save": "2026-11-07T09:56:28-05:00"
+    "chat": "2026-11-08T17:42:00-05:00",
+    "journal_note": "2026-11-08T17:41:50-05:00"
   },
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
-  "status": "First live sessions reconciled into the November 7 entry."
+  "status": "November 8 live session reconciled into The Cat Who Stayed."
 }

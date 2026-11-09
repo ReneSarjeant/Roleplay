@@ -3,36 +3,36 @@
   "character": "Aelindra Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
   "last_published_story": {
-    "date": "2026-11-08",
-    "title": "The Cat Who Stayed",
-    "path": "RP/Aelindra/journal/2026-11-08/index.html"
+    "date": "2026-11-09",
+    "title": "Where the Wind Carried Us",
+    "path": "RP/Aelindra/journal/2026-11-09/index.html"
   },
   "last_reconciled_session": {
     "live_dates": [
-      "2026-11-08"
+      "2026-11-09"
     ],
-    "story_date": "2026-11-08",
+    "story_date": "2026-11-09",
     "sources": [
-      "ForeverJournal account and character data",
+      "ForeverJournal",
       "Road to Sixty",
       "WoWChatLog",
       "BetterForeverChat",
-      "Spoken Places"
+      "Spoken Places",
+      "Screenshots"
     ],
-    "scope": "November 8 Zephras Isle play through the Valanaar inn stop. The synced combat log covered November 7 only."
+    "scope": "November 9 island finale and Alliance errands through Hall of Thanes preparation. Available combat log covers November 7 only."
   },
   "last_known_position": {
-    "zone": "Zephras Isle",
-    "subzone": "Valanaar",
-    "landmark": "Inn",
-    "observed_at": "2026-11-08T17:41:50-05:00",
-    "confidence": "High for the last journaled stop"
+    "zone": "Ironforge",
+    "landmark": "Hall of Thanes preparation",
+    "observed_at": "2026-11-09T16:38:19-05:00",
+    "confidence": "Confirmed quest pickup in Ironforge. Exact logout location and dungeon entry unverified."
   },
   "last_interaction": {
-    "name": "Valennia Stormfist",
-    "observed_at": "2026-11-08T17:32:45-05:00",
+    "name": "Thom Filch",
+    "observed_at": "2026-11-09T16:38:19-05:00",
     "precision": "second",
-    "note": "Last verified quest turn-in. Aelindra later recorded stopping at the Valanaar inn."
+    "note": "Accepted Important Heirlooms."
   },
   "confirmed_completed_quests": [
     "Coming of Age",
@@ -81,34 +81,60 @@
     "Camping 101: Fishing",
     "Standing Our Ground",
     "Desperate Times",
-    "Prepare for Battle"
+    "Prepare for Battle",
+    "Aid For The Refugees",
+    "The Fate of a Loved One",
+    "Making Our Move",
+    "The Inner Sanctum",
+    "Confront Lorthuna",
+    "The Fate of Zephras",
+    "What Comes Next",
+    "The Magical City of Dalaran",
+    "Welcome to Azeroth",
+    "Exploring the Alliance",
+    "Deeprun Rat Roundup",
+    "Me Brother, Nipsy",
+    "Elmore's Task",
+    "Business in Auberdine",
+    "The Lost Pilot",
+    "A Pilot's Revenge",
+    "Stormpike's Delivery",
+    "Stormpike's Order",
+    "Journey to Sentinel Hill",
+    "Hilary's Necklace"
   ],
   "confirmed_accepted_not_completed": [
-    "Making Our Move"
+    "Old Ironforge Incursion",
+    "The Restless Dead",
+    "Important Heirlooms",
+    "Return to Verner",
+    "The Defias Brotherhood (Shaw’s report to Gryan Stoutmantle)"
   ],
   "quest_status_needs_recheck": [
-    "Reconcile the remaining northern refugee quests and other outstanding island work against the next session."
+    "Check the three Hall of Thanes quests against the next session before recording completion."
   ],
   "confirmed_progress": [
     "Joined Mid Life Aggro",
     "Trained Track Beasts, Aspect of the Monkey, Serpent Sting, Arcane Shot, Hunter's Mark, Concussive Shot, Parry, and Raptor Strike Rank 2",
     "Apprentice Cooking, Journeyman Skinning, and Camp Chair recipe",
     "Recovered after a recorded death at Windsong Standing Stones",
-    "Level 13 Skyborne hunter",
+    "Level 16 Skyborne hunter",
     "Learned Tame Beast and Revive Pet; trained Sylthara in Growl and early defensive skills",
     "Learned apprentice fishing and the Fish Bowl recipe"
   ],
   "character_continuity": [
     "High Order hunter, true name Aelindra Ser'jaen'thal. Blue Gale and Zephyr tattoos and her mother's pearls.",
     "Grouped with Neranduil Zephyrgale for the Cirrusfly Queen and with Merith Gustwing and Evayne Greystorm for Vulgara.",
-    "Still on Zephras Isle. Tamed the young Prideclaw Sylthara in the Shen’dar Highlands at 05:50 Eastern. Later journaled in the Gustberry Lowlands that Sylthara was her best friend.",
-    "Escorted Aamelia Windfield during Standing Our Ground and witnessed the orchard’s cyclone construct deal with Ferauu."
+    "Tamed the young Prideclaw Sylthara in the Shen’dar Highlands at 05:50 Eastern. Later journaled in the Gustberry Lowlands that Sylthara was her best friend.",
+    "Escorted Aamelia Windfield during Standing Our Ground and witnessed the orchard’s cyclone construct deal with Ferauu.",
+    "Witnessed Elaadrin and Ayessa stand together against Lorthuna at the Rohashi Spires. Ansirem Runeweaver and Muln Earthfury arrived before Rohash withdrew.",
+    "Left Zephras Isle by skycutter to Dalaran, then took the one-way portal to Stormwind."
   ],
-  "next_story_handoff": "Start from the last journaled stop at the Valanaar inn. Making Our Move is accepted. Check outstanding northern refugee work and verify the next route before moving off Zephras Isle.",
+  "next_story_handoff": "Aelindra and Sylthara are preparing for the Hall of Thanes beneath Old Ironforge. Verify the group and entrance in the next session before describing the run.",
   "updated_through": {
-    "chat": "2026-11-08T17:42:00-05:00",
-    "journal_note": "2026-11-08T17:41:50-05:00"
+    "chat": "2026-11-09T16:38:19-05:00",
+    "quest_records": "2026-11-09T16:38:19-05:00"
   },
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
-  "status": "November 8 live session reconciled into The Cat Who Stayed."
+  "status": "November 9 live session reconciled into Where the Wind Carried Us."
 }

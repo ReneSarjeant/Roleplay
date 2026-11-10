@@ -3,36 +3,40 @@
   "character": "Aelindra Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
   "last_published_story": {
-    "date": "2026-11-09",
-    "title": "Where the Wind Carried Us",
-    "path": "RP/Aelindra/journal/2026-11-09/index.html"
+    "date": "2026-11-10",
+    "title": "What the Stone Remembers",
+    "path": "RP/Aelindra/journal/2026-11-10/index.html"
   },
   "last_reconciled_session": {
     "live_dates": [
-      "2026-11-09"
+      "2026-11-10"
     ],
-    "story_date": "2026-11-09",
+    "story_date": "2026-11-10",
     "sources": [
-      "ForeverJournal",
+      "ForeverJournal (account and character)",
       "Road to Sixty",
       "WoWChatLog",
       "BetterForeverChat",
+      "Social Diary",
+      "WoWCombatLog-111026_070109.txt",
+      "ForeverDungeonJournal quest text",
       "Spoken Places",
-      "Screenshots"
+      "Screenshots",
+      "Bryan’s account of the unsuccessful Ruins of Lordaeron group search"
     ],
-    "scope": "November 9 island finale and Alliance errands through Hall of Thanes preparation. Available combat log covers November 7 only."
+    "scope": "Day through approximately 16:58 Eastern. Combat log covers 07:01:09–07:47:53 Eastern."
   },
   "last_known_position": {
-    "zone": "Ironforge",
-    "landmark": "Hall of Thanes preparation",
-    "observed_at": "2026-11-09T16:38:19-05:00",
-    "confidence": "Confirmed quest pickup in Ironforge. Exact logout location and dungeon entry unverified."
+    "zone": "Westfall",
+    "landmark": "Exact landmark unverified",
+    "observed_at": "2026-11-10T16:58:14-05:00",
+    "confidence": "Road to Sixty lastZone 1436 and final Westfall channel departure. Exact campfire and logout coordinates not established."
   },
   "last_interaction": {
-    "name": "Thom Filch",
-    "observed_at": "2026-11-09T16:38:19-05:00",
+    "name": "Shoni the Shilent",
+    "observed_at": "2026-11-10T16:32:59-05:00",
     "precision": "second",
-    "note": "Accepted Important Heirlooms."
+    "note": "Last verified named quest interaction. Accepted Underground Assault. Later campfire conversation has no verified named host."
   },
   "confirmed_completed_quests": [
     "Coming of Age",
@@ -101,26 +105,54 @@
     "Stormpike's Delivery",
     "Stormpike's Order",
     "Journey to Sentinel Hill",
-    "Hilary's Necklace"
+    "Hilary's Necklace",
+    "An Ancient Grudge",
+    "Important Heirlooms",
+    "The Restless Dead",
+    "Old Ironforge Incursion",
+    "The Treaty of Understanding",
+    "The Defias Brotherhood",
+    "Testing the Wells",
+    "Murloc Gills",
+    "Rumi of Gnomeregan: The Collected Works",
+    "Return to Verner",
+    "The State of the Mines",
+    "Moonbrook Espionage",
+    "Explosive Consultation",
+    "Detonation at a Distance",
+    "Bewitchments and Glamours",
+    "A Dynamite Plan",
+    "Shipping Label",
+    "A Sealed Crate",
+    "Speak with Shoni"
   ],
   "confirmed_accepted_not_completed": [
-    "Old Ironforge Incursion",
-    "The Restless Dead",
-    "Important Heirlooms",
-    "Return to Verner",
-    "The Defias Brotherhood (Shaw’s report to Gryan Stoutmantle)"
+    "The Defias Brotherhood (quest 166, kill Edwin VanCleef)",
+    "Destruction in Deadmines",
+    "Oh Brother...",
+    "Collecting Memories",
+    "Underground Assault",
+    "Captain Sander's Hidden Treasure (first clue accepted, completion unverified)"
   ],
   "quest_status_needs_recheck": [
-    "Check the three Hall of Thanes quests against the next session before recording completion."
+    "Deadmines quests remain open at story end. Do not describe a Deadmines run or VanCleef’s death without new evidence."
   ],
   "confirmed_progress": [
     "Joined Mid Life Aggro",
     "Trained Track Beasts, Aspect of the Monkey, Serpent Sting, Arcane Shot, Hunter's Mark, Concussive Shot, Parry, and Raptor Strike Rank 2",
     "Apprentice Cooking, Journeyman Skinning, and Camp Chair recipe",
     "Recovered after a recorded death at Windsong Standing Stones",
-    "Level 16 Skyborne hunter",
     "Learned Tame Beast and Revive Pet; trained Sylthara in Growl and early defensive skills",
-    "Learned apprentice fishing and the Fish Bowl recipe"
+    "Learned apprentice fishing and the Fish Bowl recipe",
+    "Level 18 Skyborne hunter; level 17 after Hall of Thanes turn-ins and 18 in Moonbrook",
+    "Completed first Hall of Thanes run with Alaric Dawnward, Gjoran Ashbrand, Luka Li and Krondum Icewind",
+    "Defeated Faldrim Anvilmar, Magmatus, Plunder and Durgen Dirgehammer; ForeverJournal labels the fire encounter Infurnus",
+    "Recovered Treaty of Understanding and delivered it to King Magni Bronzebeard",
+    "Received Calibrated Blunderbuss and trained Guns; cosmetic bow appearance was intended, completion unverified",
+    "Learned Claw and Bite in Loch Modan; player reported teaching Sylthara rank 3",
+    "Trained Aspect of the Hawk Rank 2, Multi-Shot, Serpent Sting Rank 3 and Track Undead",
+    "Trained pet Great Stamina Rank 3 and Natural Armor Rank 3",
+    "Recorded death in Jangolode Mine; subsequently continued questing"
   ],
   "character_continuity": [
     "High Order hunter, true name Aelindra Ser'jaen'thal. Blue Gale and Zephyr tattoos and her mother's pearls.",
@@ -128,13 +160,18 @@
     "Tamed the young Prideclaw Sylthara in the Shen’dar Highlands at 05:50 Eastern. Later journaled in the Gustberry Lowlands that Sylthara was her best friend.",
     "Escorted Aamelia Windfield during Standing Our Ground and witnessed the orchard’s cyclone construct deal with Ferauu.",
     "Witnessed Elaadrin and Ayessa stand together against Lorthuna at the Rohashi Spires. Ansirem Runeweaver and Muln Earthfury arrived before Rohash withdrew.",
-    "Left Zephras Isle by skycutter to Dalaran, then took the one-way portal to Stormwind."
+    "Left Zephras Isle by skycutter to Dalaran, then took the one-way portal to Stormwind.",
+    "Now knows Edwin VanCleef led the Stonemasons’ Guild and that the masons who rebuilt Stormwind became the Defias Brotherhood. Their reasons and full grievance remain unresolved in her knowledge; preserve this boundary.",
+    "Helped with Alba Fairmoon’s investigation into poisoned Westfall water and prepared explosives for the forge beneath Moonbrook.",
+    "Read about the War of the Three Hammers at an inn in Stormwind’s Dwarven District.",
+    "Searched all day for a Ruins of Lordaeron group without entering it, per Bryan’s account."
   ],
-  "next_story_handoff": "Aelindra and Sylthara are preparing for the Hall of Thanes beneath Old Ironforge. Verify the group and entrance in the next session before describing the run.",
+  "next_story_handoff": "Aelindra is level 18 with Sylthara, preparing for Deadmines. Review new logs for any successful Ruins of Lordaeron group or Deadmines entry. Preserve her unanswered question about why the stonemasons became the Defias.",
   "updated_through": {
-    "chat": "2026-11-09T16:38:19-05:00",
-    "quest_records": "2026-11-09T16:38:19-05:00"
+    "chat": "2026-11-10T16:58:13-05:00",
+    "quest_records": "2026-11-10T16:58:13-05:00",
+    "combat_log": "2026-11-10T07:47:53-05:00"
   },
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
-  "status": "November 9 live session reconciled into Where the Wind Carried Us."
+  "status": "November 10 session reconciled into approved and published What the Stone Remembers."
 }

@@ -3,40 +3,38 @@
   "character": "Aelindra Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
   "last_published_story": {
-    "date": "2026-11-10",
-    "title": "What the Stone Remembers",
-    "path": "RP/Aelindra/journal/2026-11-10/index.html"
+    "date": "2026-11-11",
+    "title": "The Lights of Lordaeron",
+    "path": "RP/Aelindra/journal/2026-11-11/index.html"
   },
   "last_reconciled_session": {
     "live_dates": [
-      "2026-11-10"
+      "2026-11-11"
     ],
-    "story_date": "2026-11-10",
+    "story_date": "2026-11-11",
     "sources": [
-      "ForeverJournal (account and character)",
+      "ForeverJournal",
       "Road to Sixty",
       "WoWChatLog",
       "BetterForeverChat",
-      "Social Diary",
-      "WoWCombatLog-111026_070109.txt",
-      "ForeverDungeonJournal quest text",
+      "WoWCombatLog-111126_083305.txt",
       "Spoken Places",
-      "Screenshots",
-      "Bryan’s account of the unsuccessful Ruins of Lordaeron group search"
+      "ForeverDungeonJournal",
+      "Level 19 screenshot",
+      "Player account"
     ],
-    "scope": "Day through approximately 16:58 Eastern. Combat log covers 07:01:09–07:47:53 Eastern."
+    "scope": "Combat log 08:33:05–10:23:12 Eastern; late-day quest transition and Desolace camp reconciled from chat and player account."
   },
   "last_known_position": {
-    "zone": "Westfall",
-    "landmark": "Exact landmark unverified",
-    "observed_at": "2026-11-10T16:58:14-05:00",
-    "confidence": "Road to Sixty lastZone 1436 and final Westfall channel departure. Exact campfire and logout coordinates not established."
+    "zone": "Desolace",
+    "landmark": "Camp with Sylthara",
+    "observed_at": null,
+    "confidence": "Player-confirmed end of day; precise location and time unknown."
   },
   "last_interaction": {
-    "name": "Shoni the Shilent",
-    "observed_at": "2026-11-10T16:32:59-05:00",
-    "precision": "second",
-    "note": "Last verified named quest interaction. Accepted Underground Assault. Later campfire conversation has no verified named host."
+    "name": "Burned-Out Remains",
+    "observed_at": "2026-11-11T16:38:28-05:00",
+    "note": "Accepted Stepping Stones near the Field of Giants; later camp reported by player."
   },
   "confirmed_completed_quests": [
     "Coming of Age",
@@ -124,7 +122,19 @@
     "A Dynamite Plan",
     "Shipping Label",
     "A Sealed Crate",
-    "Speak with Shoni"
+    "Speak with Shoni",
+    "An Unfortunate End",
+    "Captain Sander's Hidden Treasure",
+    "A Lack of Virtue",
+    "Abominable Creatures",
+    "Bloodied Insignia",
+    "Crest of Lordaeron",
+    "Remember That I Love You",
+    "A Sealed Crate",
+    "The Lost Tools",
+    "Selling Fish",
+    "Murloc Poachers",
+    "... and that note you found"
   ],
   "confirmed_accepted_not_completed": [
     "The Defias Brotherhood (quest 166, kill Edwin VanCleef)",
@@ -132,7 +142,13 @@
     "Oh Brother...",
     "Collecting Memories",
     "Underground Assault",
-    "Captain Sander's Hidden Treasure (first clue accepted, completion unverified)"
+    "Stepping Stones",
+    "The Everstill Bridge",
+    "A Baying of Gnolls",
+    "Underbelly Scales",
+    "Blackrock Menace",
+    "Blackrock Blockade",
+    "Blackrock Bounty"
   ],
   "quest_status_needs_recheck": [
     "Deadmines quests remain open at story end. Do not describe a Deadmines run or VanCleef’s death without new evidence."
@@ -152,7 +168,10 @@
     "Learned Claw and Bite in Loch Modan; player reported teaching Sylthara rank 3",
     "Trained Aspect of the Hawk Rank 2, Multi-Shot, Serpent Sting Rank 3 and Track Undead",
     "Trained pet Great Stamina Rank 3 and Natural Armor Rank 3",
-    "Recorded death in Jangolode Mine; subsequently continued questing"
+    "Recorded death in Jangolode Mine; subsequently continued questing",
+    "Reached level 19 at Lordamere Overlook and was level 20 by Lakeshire.",
+    "Defeated Witherfang, the Baron (encounter header The Butcher), the Abandoned, Bjork, Rath’mael, and Viktor the Vile in that order.",
+    "Earned journeyman leatherworking and reached skill 65."
   ],
   "character_continuity": [
     "High Order hunter, true name Aelindra Ser'jaen'thal. Blue Gale and Zephyr tattoos and her mother's pearls.",
@@ -164,14 +183,17 @@
     "Now knows Edwin VanCleef led the Stonemasons’ Guild and that the masons who rebuilt Stormwind became the Defias Brotherhood. Their reasons and full grievance remain unresolved in her knowledge; preserve this boundary.",
     "Helped with Alba Fairmoon’s investigation into poisoned Westfall water and prepared explosives for the forge beneath Moonbrook.",
     "Read about the War of the Three Hammers at an inn in Stormwind’s Dwarven District.",
-    "Searched all day for a Ruins of Lordaeron group without entering it, per Bryan’s account."
+    "Searched all day for a Ruins of Lordaeron group without entering it, per Bryan’s account.",
+    "Cleared the Ruins of Lordaeron with Egg Eggon, Mia Lichlore, Elkon Norres, Aldrin Stockholm, and Sylthara.",
+    "Hired Bram Copperkeep as her Adventurer’s Factor by letter and sent him an enchanted belt.",
+    "Swam from Westfall to Booty Bay to avoid the dangers of inland Stranglethorn, then traveled via Ratchet to the Barrens and camped in Desolace with Sylthara."
   ],
-  "next_story_handoff": "Aelindra is level 18 with Sylthara, preparing for Deadmines. Review new logs for any successful Ruins of Lordaeron group or Deadmines entry. Preserve her unanswered question about why the stonemasons became the Defias.",
+  "next_story_handoff": "Begin at the Desolace camp with Sylthara. Follow the next sleeping bag clue, Stepping Stones. Its completion and the precise campsite are unverified.",
   "updated_through": {
-    "chat": "2026-11-10T16:58:13-05:00",
-    "quest_records": "2026-11-10T16:58:13-05:00",
-    "combat_log": "2026-11-10T07:47:53-05:00"
+    "chat_quest_milestone": "2026-11-11T16:38:28-05:00",
+    "combat_log": "2026-11-11T10:23:12-05:00",
+    "player_account": "End-of-day camp in Desolace"
   },
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
-  "status": "November 10 session reconciled into approved and published What the Stone Remembers."
+  "status": "November 11 session reconciled into The Lights of Lordaeron."
 }

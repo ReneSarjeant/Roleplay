@@ -3,35 +3,34 @@
   "character": "Aelindra Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
   "last_published_story": {
-    "date": "2026-11-12",
-    "title": "The Mason’s Letter",
-    "path": "RP/Aelindra/journal/2026-11-12/index.html"
+    "date": "2026-11-13",
+    "title": "The Wolves of Shadowfang",
+    "path": "RP/Aelindra/journal/2026-11-13/index.html"
   },
   "last_reconciled_session": {
     "live_dates": [
-      "2026-11-12"
+      "2026-11-13"
     ],
-    "story_date": "2026-11-12",
+    "story_date": "2026-11-13",
     "sources": [
-      "ForeverJournal",
-      "Road to Sixty",
-      "WoWChatLog",
-      "WoWCombatLog-111226_124120.txt",
-      "Spoken Places",
-      "Player account"
+      "WoWChatLog (as documented in approved draft)",
+      "Shadowfang combat log",
+      "Character progression records",
+      "Spoken Places lore",
+      "Screenshot at 13:45:19 near Southshore cemetery"
     ],
-    "scope": "Deadmines combat 12:41:20–13:27:38 Eastern. Quest records through Southshore; Auberdine ending supplied by player."
+    "scope": "Wetlands quests and investigations, Shadowfang Keep 12:38–13:45 Eastern, Redridge Blackrock quests, and evening training. Based on approved draft and its research notes; source files not re-synced during publication."
   },
   "last_known_position": {
-    "zone": "Darkshore",
-    "landmark": "Auberdine",
+    "zone": null,
+    "landmark": null,
     "observed_at": null,
-    "confidence": "Player-confirmed end of day. Precise time and logout point unknown."
+    "confidence": "Last location/logout not verified. Draft closes with hearthstone and a promise to return."
   },
   "last_interaction": {
-    "name": "Lieutenant Farren Orinelle",
-    "observed_at": "2026-11-12T15:55:25-05:00",
-    "note": "Turned in The Shamed Lieutenant in Southshore before the player-reported Auberdine ending."
+    "name": "Ranya Sunwisp and Thorsten Steelbeard",
+    "observed_at": null,
+    "note": "Grouped in Redridge to fight Blackrock orcs and escort Corporal Keeshan; exact timestamp not provided in draft."
   },
   "confirmed_completed_quests": [
     "Coming of Age",
@@ -158,10 +157,17 @@
     "Blackrock Blockade",
     "Blackrock Bounty",
     "In Search of the Excavation Team",
-    "Bloom of the Heavens"
+    "Bloom of the Heavens",
+    "What Comes Around...",
+    "Crime and Punishment",
+    "The Stockade Riots",
+    "Quell the Uprising",
+    "The Color of Blood"
   ],
   "quest_status_needs_recheck": [
-    "Confirm whether In Search of the Excavation Team leads into the Wetlands Excavation Site dungeon. No dungeon entry or completion established."
+    "Confirm whether In Search of the Excavation Team leads into the Wetlands Excavation Site dungeon. No dungeon entry or completion established.",
+    "Reconcile November 13 Wetlands excavation/Ormer/Fire Taboo work against precise quest completion records before marking any new Wetlands quest completed.",
+    "Verify which Redridge quests completed and current Stockades quest statuses before advancing storyline."
   ],
   "confirmed_progress": [
     "Joined Mid Life Aggro",
@@ -183,7 +189,11 @@
     "Defeated Witherfang, the Baron (encounter header The Butcher), the Abandoned, Bjork, Rath’mael, and Viktor the Vile in that order.",
     "Earned journeyman leatherworking and reached skill 65.",
     "Obtained the sleeping bag, reached level 22 in the Wetlands and level 23 in Stormwind, and trained Hunter’s Mark Rank 2 and Scorpid Sting.",
-    "Cleared Deadmines with Valerio Thalric, Elder Burnberry, Kelthan Swiftstrike, Scout Ilthen, and Sylthara. Recovered after the wipe following Sneed."
+    "Cleared Deadmines with Valerio Thalric, Elder Burnberry, Kelthan Swiftstrike, Scout Ilthen, and Sylthara. Recovered after the wipe following Sneed.",
+    "Reached level 24 while working in Wetlands and level 25 after the Redridge rescue of Corporal Keeshan on November 13.",
+    "Completed Shadowfang Keep with Tess Reitveld, Grannie Goodness, Vern Wallston, Rel Puresilver, and Sylthara; defeated Rethilgore, Razorclaw, Baron Silverlaine, Springvale, Odo, Fenrus, Nandos and Arugal.",
+    "Died after being left behind in Shadowfang and attacked by Shadowfang Wolfguard and Wolfguard Worg near 13:38:36, then encountered separate fatal danger near Southshore cemetery before 13:45:19.",
+    "Trained Sylthara further and worked on First Aid after reaching level 25."
   ],
   "character_continuity": [
     "High Order hunter, true name Aelindra Ser'jaen'thal. Blue Gale and Zephyr tattoos and her mother's pearls.",
@@ -199,14 +209,18 @@
     "Cleared the Ruins of Lordaeron with Egg Eggon, Mia Lichlore, Elkon Norres, Aldrin Stockholm, and Sylthara.",
     "Hired Bram Copperkeep as her Adventurer’s Factor by letter and sent him an enchanted belt.",
     "Swam from Westfall to Booty Bay to avoid the dangers of inland Stranglethorn, then traveled via Ratchet to the Barrens and camped in Desolace with Sylthara.",
-    "On November 12, learned that Stormwind’s stonemasons went unpaid and their guild was dissolved. She sympathizes with their demand for wages and questions what the Brotherhood did to Westfall. Delivered VanCleef’s unsent letter to Baros Alexston."
+    "On November 12, learned that Stormwind’s stonemasons went unpaid and their guild was dissolved. She sympathizes with their demand for wages and questions what the Brotherhood did to Westfall. Delivered VanCleef’s unsent letter to Baros Alexston.",
+    "Met Harrend Hardholler while helping in Wetlands; the encounter went badly, but was friendly.",
+    "Joined Tess Reitveld, Grannie Goodness, Vern Wallston and Rel Puresilver for Shadowfang Keep; shared humor and survived Arugal but struggled with straggling behind on the way out.",
+    "Helped Ranya Sunwisp and Thorsten Steelbeard in Redridge; invited the dwarf along and escorted Corporal Keeshan.",
+    "Continues researching the Wetlands excavation lead and gathering Stockades assignments; do not claim either dungeon has been cleared."
   ],
-  "next_story_handoff": "Aelindra and Sylthara are in Auberdine looking for the lead into the Wetlands Excavation Site. In Search of the Excavation Team was accepted at Menethil; check current status before advancing.",
+  "next_story_handoff": "Level 25, Sylthara at her side after Shadowfang Keep, the Southshore cemetery mishap and Redridge rescue. Last actual logout position unverified; next session should reconcile updated quests for Wetlands excavation, Stockades and Redridge. Final draft line: 'Back tomorrow. Tell them to wait.'",
   "updated_through": {
-    "chat_quest_milestone": "2026-11-12T15:55:25-05:00",
-    "combat_log": "2026-11-12T13:27:38-05:00",
-    "player_account": "End of day in Auberdine"
+    "story_date": "2026-11-13",
+    "combat_log": "2026-11-13T13:45:19-05:00 (latest cited screenshot, not last gameplay)",
+    "player_account": "Evening training and hearthstone closing scene; logout location unverified"
   },
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
-  "status": "November 12 session reconciled into The Mason’s Letter."
+  "status": "November 13 approved draft published as The Wolves of Shadowfang. Generated image still awaiting repo asset upload."
 }

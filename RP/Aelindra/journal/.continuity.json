@@ -3,38 +3,35 @@
   "character": "Aelindra Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
   "last_published_story": {
-    "date": "2026-11-11",
-    "title": "The Lights of Lordaeron",
-    "path": "RP/Aelindra/journal/2026-11-11/index.html"
+    "date": "2026-11-12",
+    "title": "The Mason’s Letter",
+    "path": "RP/Aelindra/journal/2026-11-12/index.html"
   },
   "last_reconciled_session": {
     "live_dates": [
-      "2026-11-11"
+      "2026-11-12"
     ],
-    "story_date": "2026-11-11",
+    "story_date": "2026-11-12",
     "sources": [
       "ForeverJournal",
       "Road to Sixty",
       "WoWChatLog",
-      "BetterForeverChat",
-      "WoWCombatLog-111126_083305.txt",
+      "WoWCombatLog-111226_124120.txt",
       "Spoken Places",
-      "ForeverDungeonJournal",
-      "Level 19 screenshot",
       "Player account"
     ],
-    "scope": "Combat log 08:33:05–10:23:12 Eastern; late-day quest transition and Desolace camp reconciled from chat and player account."
+    "scope": "Deadmines combat 12:41:20–13:27:38 Eastern. Quest records through Southshore; Auberdine ending supplied by player."
   },
   "last_known_position": {
-    "zone": "Desolace",
-    "landmark": "Camp with Sylthara",
+    "zone": "Darkshore",
+    "landmark": "Auberdine",
     "observed_at": null,
-    "confidence": "Player-confirmed end of day; precise location and time unknown."
+    "confidence": "Player-confirmed end of day. Precise time and logout point unknown."
   },
   "last_interaction": {
-    "name": "Burned-Out Remains",
-    "observed_at": "2026-11-11T16:38:28-05:00",
-    "note": "Accepted Stepping Stones near the Field of Giants; later camp reported by player."
+    "name": "Lieutenant Farren Orinelle",
+    "observed_at": "2026-11-12T15:55:25-05:00",
+    "note": "Turned in The Shamed Lieutenant in Southshore before the player-reported Auberdine ending."
   },
   "confirmed_completed_quests": [
     "Coming of Age",
@@ -130,28 +127,41 @@
     "Bloodied Insignia",
     "Crest of Lordaeron",
     "Remember That I Love You",
-    "A Sealed Crate",
     "The Lost Tools",
     "Selling Fish",
     "Murloc Poachers",
-    "... and that note you found"
+    "... and that note you found",
+    "Stepping Stones",
+    "Scramble",
+    "Wet Job",
+    "Eagle’s Fist",
+    "This Must Be The Place",
+    "Young Crocolisk Skins",
+    "Claws from the Deep",
+    "Reclaiming Goods",
+    "The Search Continues",
+    "Search More Hovels",
+    "Return the Statuette",
+    "Destruction in Deadmines",
+    "Underground Assault",
+    "The Unsent Letter",
+    "Bazil Thredd",
+    "The Shamed Lieutenant"
   ],
   "confirmed_accepted_not_completed": [
-    "The Defias Brotherhood (quest 166, kill Edwin VanCleef)",
-    "Destruction in Deadmines",
     "Oh Brother...",
     "Collecting Memories",
-    "Underground Assault",
-    "Stepping Stones",
     "The Everstill Bridge",
     "A Baying of Gnolls",
     "Underbelly Scales",
     "Blackrock Menace",
     "Blackrock Blockade",
-    "Blackrock Bounty"
+    "Blackrock Bounty",
+    "In Search of the Excavation Team",
+    "Bloom of the Heavens"
   ],
   "quest_status_needs_recheck": [
-    "Deadmines quests remain open at story end. Do not describe a Deadmines run or VanCleef’s death without new evidence."
+    "Confirm whether In Search of the Excavation Team leads into the Wetlands Excavation Site dungeon. No dungeon entry or completion established."
   ],
   "confirmed_progress": [
     "Joined Mid Life Aggro",
@@ -171,7 +181,9 @@
     "Recorded death in Jangolode Mine; subsequently continued questing",
     "Reached level 19 at Lordamere Overlook and was level 20 by Lakeshire.",
     "Defeated Witherfang, the Baron (encounter header The Butcher), the Abandoned, Bjork, Rath’mael, and Viktor the Vile in that order.",
-    "Earned journeyman leatherworking and reached skill 65."
+    "Earned journeyman leatherworking and reached skill 65.",
+    "Obtained the sleeping bag, reached level 22 in the Wetlands and level 23 in Stormwind, and trained Hunter’s Mark Rank 2 and Scorpid Sting.",
+    "Cleared Deadmines with Valerio Thalric, Elder Burnberry, Kelthan Swiftstrike, Scout Ilthen, and Sylthara. Recovered after the wipe following Sneed."
   ],
   "character_continuity": [
     "High Order hunter, true name Aelindra Ser'jaen'thal. Blue Gale and Zephyr tattoos and her mother's pearls.",
@@ -186,14 +198,15 @@
     "Searched all day for a Ruins of Lordaeron group without entering it, per Bryan’s account.",
     "Cleared the Ruins of Lordaeron with Egg Eggon, Mia Lichlore, Elkon Norres, Aldrin Stockholm, and Sylthara.",
     "Hired Bram Copperkeep as her Adventurer’s Factor by letter and sent him an enchanted belt.",
-    "Swam from Westfall to Booty Bay to avoid the dangers of inland Stranglethorn, then traveled via Ratchet to the Barrens and camped in Desolace with Sylthara."
+    "Swam from Westfall to Booty Bay to avoid the dangers of inland Stranglethorn, then traveled via Ratchet to the Barrens and camped in Desolace with Sylthara.",
+    "On November 12, learned that Stormwind’s stonemasons went unpaid and their guild was dissolved. She sympathizes with their demand for wages and questions what the Brotherhood did to Westfall. Delivered VanCleef’s unsent letter to Baros Alexston."
   ],
-  "next_story_handoff": "Begin at the Desolace camp with Sylthara. Follow the next sleeping bag clue, Stepping Stones. Its completion and the precise campsite are unverified.",
+  "next_story_handoff": "Aelindra and Sylthara are in Auberdine looking for the lead into the Wetlands Excavation Site. In Search of the Excavation Team was accepted at Menethil; check current status before advancing.",
   "updated_through": {
-    "chat_quest_milestone": "2026-11-11T16:38:28-05:00",
-    "combat_log": "2026-11-11T10:23:12-05:00",
-    "player_account": "End-of-day camp in Desolace"
+    "chat_quest_milestone": "2026-11-12T15:55:25-05:00",
+    "combat_log": "2026-11-12T13:27:38-05:00",
+    "player_account": "End of day in Auberdine"
   },
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
-  "status": "November 11 session reconciled into The Lights of Lordaeron."
+  "status": "November 12 session reconciled into The Mason’s Letter."
 }

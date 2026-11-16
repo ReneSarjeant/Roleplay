@@ -3,35 +3,35 @@
   "character": "Aelindra Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
   "last_published_story": {
-    "date": "2026-11-14",
-    "title": "The Hall Behind Us",
-    "path": "RP/Aelindra/journal/2026-11-14/index.html"
+    "date": "2026-11-15",
+    "title": "What the Fen Gave Back",
+    "path": "RP/Aelindra/journal/2026-11-15/index.html"
   },
   "last_reconciled_session": {
     "live_dates": [
-      "2026-11-14"
+      "2026-11-15"
     ],
-    "story_date": "2026-11-14",
+    "story_date": "2026-11-15",
     "sources": [
-      "ForeverJournal",
       "WoWChatLog",
-      "Stockades combat log",
-      "Road to Sixty",
+      "Wetlands combat log",
+      "Aelindra SavedVariables",
       "Spoken lore",
-      "Stockades screenshot"
+      "Relic Guardian victory screenshot",
+      "Player report"
     ],
-    "scope": "Ashenvale Claw training, Wetlands and Duskwood questing, Stockades 12:23–13:05 Eastern, Stormwind investigation, Stalvan and late hunter training."
+    "scope": "Duskwood and Stormwind errands, Wetlands excavation and later quest turn-ins. Combat capture includes the excavation from 15:19 to approximately 16:01 Eastern."
   },
   "last_known_position": {
-    "zone": "Stormwind City",
-    "landmark": "Dwarven District",
-    "observed_at": "2026-11-14T16:28:24-05:00",
-    "confidence": "Last confirmed character milestone is Mend Pet Rank 3 training. Logout position unverified."
+    "zone": "Elwynn Forest",
+    "landmark": "Lion’s Pride Inn, Goldshire",
+    "observed_at": null,
+    "confidence": "Player-reported stopping point at the end of November 15."
   },
   "last_interaction": {
-    "name": "Hunter trainer",
-    "observed_at": "2026-11-14T16:28:24-05:00",
-    "note": "Trained Mend Pet Rank 3 in the Dwarven District."
+    "name": "Rethiel the Greenwarden",
+    "observed_at": "2026-11-15T17:17:05-05:00",
+    "note": "Last confirmed quest turn-in, Horrors in the Highland."
   },
   "confirmed_completed_quests": [
     "Coming of Age",
@@ -172,7 +172,20 @@
     "Look to an Old Friend",
     "The Totem of Infliction",
     "The Legend of Stalvan",
-    "Elmpaw's Head"
+    "Elmpaw's Head",
+    "Infiltrating the Castle",
+    "Items of Some Consequence",
+    "The Attack!",
+    "The Head of the Beast",
+    "Brotherhood's End",
+    "An Audience with the King",
+    "Songblade Search",
+    "Lost in the Thicket Things",
+    "Fallen in the Fen",
+    "Highland Hides",
+    "Heartwoven",
+    "Lost Relic Carry",
+    "Horrors in the Highland"
   ],
   "confirmed_accepted_not_completed": [
     "Oh Brother...",
@@ -185,10 +198,10 @@
     "Blackrock Bounty",
     "In Search of the Excavation Team",
     "Bloom of the Heavens",
-    "Infiltrating the Castle"
+    "Prehistoric Prism"
   ],
   "quest_status_needs_recheck": [
-    "Confirm whether In Search of the Excavation Team leads into the Wetlands Excavation Site dungeon. No dungeon entry or completion established.",
+    "Wetlands Excavation Site cleared November 15. Recheck the separate In Search of the Excavation Team quest state.",
     "Reconcile November 13 Wetlands excavation/Ormer/Fire Taboo work against precise quest completion records before marking any new Wetlands quest completed.",
     "First recorded Night Watch stage turned in November 14; next stage accepted and completion unverified."
   ],
@@ -219,7 +232,8 @@
     "Trained Sylthara further and worked on First Aid after reaching level 25.",
     "Learned Claw Rank 4 at Falfarren River; Sylthara used Claw and Bite Rank 4 in the Stockades.",
     "Defeated Targorr, Dextren Ward, Kam Deepfury, Hamhock and Bazil Thredd. Bow at range and lance in close quarters.",
-    "Reached level 28 in Darkshire; trained Aimed Shot Rank 2, Arcane Shot Rank 4, Aspect of the Hawk Rank 3, Frost Trap and Mend Pet Rank 3."
+    "Reached level 28 in Darkshire; trained Aimed Shot Rank 2, Arcane Shot Rank 4, Aspect of the Hawk Rank 3, Frost Trap and Mend Pet Rank 3.",
+    "Reached level 30 during Songblade Search. Defeated Saltspine, Shadetooth on the second pull, and the Relic Guardian. Looted the Golemsight Long Gun."
   ],
   "character_continuity": [
     "High Order hunter, true name Aelindra Ser'jaen'thal. Blue Gale and Zephyr tattoos and her mother's pearls.",
@@ -239,14 +253,14 @@
     "Met Harrend Hardholler while helping in Wetlands; the encounter went badly, but was friendly.",
     "Joined Tess Reitveld, Grannie Goodness, Vern Wallston and Rel Puresilver for Shadowfang Keep; shared humor and survived Arugal but struggled with straggling behind on the way out.",
     "Helped Ranya Sunwisp and Thorsten Steelbeard in Redridge; invited the dwarf along and escorted Corporal Keeshan.",
-    "Continues researching the Wetlands excavation lead and gathering Stockades assignments; do not claim either dungeon has been cleared."
+    "Explored the Wetlands excavation with Archlight Halo, Tikito Malixi, Chuds Maxley, Steverus Jagarius and Hawthorn. Aelindra and Sylthara recovered after the failed Shadetooth pull and a subsequent wipe to Thicket Lurkers on the way out."
   ],
-  "next_story_handoff": "Resume the Stormwind investigation with Infiltrating the Castle. Recheck remaining Wetlands and Night Watch stages. Last confirmed milestone was hunter training in the Dwarven District.",
+  "next_story_handoff": "Begin at the Lion’s Pride Inn in Goldshire. Deliver the Titan Relic to High Explorer Magellas in the Hall of Explorers, Ironforge, for Prehistoric Prism.",
   "updated_through": {
-    "story_date": "2026-11-13",
-    "combat_log": "2026-11-13T13:45:19-05:00 (latest cited screenshot, not last gameplay)",
-    "player_account": "Evening training and hearthstone closing scene; logout location unverified"
+    "story_date": "2026-11-15",
+    "combat_log": "November 15 Wetlands capture",
+    "player_account": "Stopped at the Lion’s Pride Inn with the Ironforge turn-in pending."
   },
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
-  "status": "November 13 approved draft published as The Wolves of Shadowfang. Generated image still awaiting repo asset upload."
+  "status": "November 15 approved journal published as What the Fen Gave Back."
 }

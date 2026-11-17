@@ -3,35 +3,35 @@
   "character": "Aelindra Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
   "last_published_story": {
-    "date": "2026-11-15",
-    "title": "What the Fen Gave Back",
-    "path": "RP/Aelindra/journal/2026-11-15/index.html"
+    "date": "2026-11-16",
+    "title": "The Road Again",
+    "path": "RP/Aelindra/journal/2026-11-16/index.html"
   },
   "last_reconciled_session": {
     "live_dates": [
-      "2026-11-15"
+      "2026-11-16"
     ],
-    "story_date": "2026-11-15",
+    "story_date": "2026-11-16",
     "sources": [
       "WoWChatLog",
-      "Wetlands combat log",
+      "Blackfathom Deeps combat log",
       "Aelindra SavedVariables",
       "Spoken lore",
-      "Relic Guardian victory screenshot",
-      "Player report"
+      "Ironforge screenshot",
+      "Player account"
     ],
-    "scope": "Duskwood and Stormwind errands, Wetlands excavation and later quest turn-ins. Combat capture includes the excavation from 15:19 to approximately 16:01 Eastern."
+    "scope": "Cross-continent quest travel, Blackfathom Deeps (07:59–09:08 Eastern combat capture), Hillsbrad coast, Alterac and Dalaran errands, and Ironforge evening turn-in."
   },
   "last_known_position": {
-    "zone": "Elwynn Forest",
-    "landmark": "Lion’s Pride Inn, Goldshire",
-    "observed_at": null,
-    "confidence": "Player-reported stopping point at the end of November 15."
+    "zone": "Ironforge",
+    "landmark": "The Library",
+    "observed_at": "2026-11-16T18:31:03-05:00",
+    "confidence": "Screenshot and quest records confirm the library visit. Exact logout point unverified."
   },
   "last_interaction": {
-    "name": "Rethiel the Greenwarden",
-    "observed_at": "2026-11-15T17:17:05-05:00",
-    "note": "Last confirmed quest turn-in, Horrors in the Highland."
+    "name": "Prospector Stormpike",
+    "observed_at": "2026-11-16T18:31:11-05:00",
+    "note": "Accepted Further Mysteries. Hunter training was recorded later at 18:33."
   },
   "confirmed_completed_quests": [
     "Coming of Age",
@@ -185,7 +185,30 @@
     "Highland Hides",
     "Heartwoven",
     "Lost Relic Carry",
-    "Horrors in the Highland"
+    "Horrors in the Highland",
+    "Prehistoric Prism",
+    "Bloom of the Heavens",
+    "Lifting the Curse",
+    "The Eye of Paleth",
+    "Fiora Longears",
+    "Journey to Astranaar",
+    "In Search of Thaelrid",
+    "Kayneth Stillwind",
+    "Researching the Corruption",
+    "Twilight Falls",
+    "Blackfathom Villainy",
+    "Knowledge in the Deeps",
+    "Cleansing the Eye",
+    "Down the Coast",
+    "The Missing Diplomat",
+    "Tinkmaster Overspark",
+    "The Day After",
+    "Foreboding Plans",
+    "Encrypted Letter",
+    "An Alarming Request",
+    "Malin's Request",
+    "Talk of the Town",
+    "Letter to Stormpike"
   ],
   "confirmed_accepted_not_completed": [
     "Oh Brother...",
@@ -197,8 +220,9 @@
     "Blackrock Blockade",
     "Blackrock Bounty",
     "In Search of the Excavation Team",
-    "Bloom of the Heavens",
-    "Prehistoric Prism"
+    "Further Mysteries",
+    "Heart of Disruption",
+    "Starving Arcane"
   ],
   "quest_status_needs_recheck": [
     "Wetlands Excavation Site cleared November 15. Recheck the separate In Search of the Excavation Team quest state.",
@@ -233,7 +257,9 @@
     "Learned Claw Rank 4 at Falfarren River; Sylthara used Claw and Bite Rank 4 in the Stockades.",
     "Defeated Targorr, Dextren Ward, Kam Deepfury, Hamhock and Bazil Thredd. Bow at range and lance in close quarters.",
     "Reached level 28 in Darkshire; trained Aimed Shot Rank 2, Arcane Shot Rank 4, Aspect of the Hawk Rank 3, Frost Trap and Mend Pet Rank 3.",
-    "Reached level 30 during Songblade Search. Defeated Saltspine, Shadetooth on the second pull, and the Relic Guardian. Looted the Golemsight Long Gun."
+    "Reached level 30 during Songblade Search. Defeated Saltspine, Shadetooth on the second pull, and the Relic Guardian. Looted the Golemsight Long Gun.",
+    "Defeated Ghamoo-ra, Geilhast, Lady Sarevess, Twilight Lord Kelris and Aku’mai in Blackfathom Deeps. Obtained the final Corrupted Brain Stem after Aku’mai.",
+    "Obtained the Dalaran Sewer Key and reached level 32 in Ironforge. Trained Flare, Raptor Strike Rank 5, Track Demons and Intimidation."
   ],
   "character_continuity": [
     "High Order hunter, true name Aelindra Ser'jaen'thal. Blue Gale and Zephyr tattoos and her mother's pearls.",
@@ -253,14 +279,16 @@
     "Met Harrend Hardholler while helping in Wetlands; the encounter went badly, but was friendly.",
     "Joined Tess Reitveld, Grannie Goodness, Vern Wallston and Rel Puresilver for Shadowfang Keep; shared humor and survived Arugal but struggled with straggling behind on the way out.",
     "Helped Ranya Sunwisp and Thorsten Steelbeard in Redridge; invited the dwarf along and escorted Corporal Keeshan.",
-    "Explored the Wetlands excavation with Archlight Halo, Tikito Malixi, Chuds Maxley, Steverus Jagarius and Hawthorn. Aelindra and Sylthara recovered after the failed Shadetooth pull and a subsequent wipe to Thicket Lurkers on the way out."
+    "Explored the Wetlands excavation with Archlight Halo, Tikito Malixi, Chuds Maxley, Steverus Jagarius and Hawthorn. Aelindra and Sylthara recovered after the failed Shadetooth pull and a subsequent wipe to Thicket Lurkers on the way out.",
+    "Cleared Blackfathom Deeps with Fawney Catspirit, Static Hazards, Rioren Windstep, Timmay Birch and Sylthara. Timmay offered to help find the last brain stem and shared a camp bedroll after the run.",
+    "Grouped with Issia Windsinger against the Torn Fin on the Hillsbrad coast and learned her convention for rolling on a shared chest."
   ],
-  "next_story_handoff": "Begin at the Lion’s Pride Inn in Goldshire. Deliver the Titan Relic to High Explorer Magellas in the Hall of Explorers, Ironforge, for Prehistoric Prism.",
+  "next_story_handoff": "Last confirmed at Ironforge in the evening. Further Mysteries sends the decrypted letter to Magistrate Maleb in Southshore. Dalaran sewer threads remain open.",
   "updated_through": {
-    "story_date": "2026-11-15",
-    "combat_log": "November 15 Wetlands capture",
-    "player_account": "Stopped at the Lion’s Pride Inn with the Ironforge turn-in pending."
+    "story_date": "2026-11-16",
+    "combat_log": "November 16 Blackfathom Deeps capture through 09:08 Eastern",
+    "player_account": "Used Aspect of the Cheetah for extensive quest travel."
   },
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
-  "status": "November 15 approved journal published as What the Fen Gave Back."
+  "status": "November 16 approved journal published as The Road Again."
 }

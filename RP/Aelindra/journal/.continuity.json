@@ -3,35 +3,33 @@
   "character": "Aelindra Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
   "last_published_story": {
-    "date": "2026-11-16",
-    "title": "The Road Again",
-    "path": "RP/Aelindra/journal/2026-11-16/index.html"
+    "date": "2026-11-17",
+    "title": "A Friend of the Kirin Tor",
+    "path": "RP/Aelindra/journal/2026-11-17/index.html"
   },
   "last_reconciled_session": {
     "live_dates": [
-      "2026-11-16"
+      "2026-11-17"
     ],
-    "story_date": "2026-11-16",
+    "story_date": "2026-11-17",
     "sources": [
-      "WoWChatLog",
-      "Blackfathom Deeps combat log",
-      "Aelindra SavedVariables",
-      "Spoken lore",
-      "Ironforge screenshot",
+      "Synced chat and addon journal records cited in the approved draft",
+      "Dalaran combat log summary",
+      "Magus Commerce Exchange screenshot",
       "Player account"
     ],
-    "scope": "Cross-continent quest travel, Blackfathom Deeps (07:59–09:08 Eastern combat capture), Hillsbrad coast, Alterac and Dalaran errands, and Ironforge evening turn-in."
+    "scope": "Alterac, Southshore and Refuge Pointe questing, two Dalaran runs with combat coverage from 13:08 to 15:02 Eastern, Desolace and Dustwallow errands, and a return home to Goldshire."
   },
   "last_known_position": {
-    "zone": "Ironforge",
-    "landmark": "The Library",
-    "observed_at": "2026-11-16T18:31:03-05:00",
-    "confidence": "Screenshot and quest records confirm the library visit. Exact logout point unverified."
+    "zone": "Elwynn Forest",
+    "landmark": "Goldshire",
+    "observed_at": null,
+    "confidence": "Player confirmed this as the end-of-day location. Exact time and spot in town are unverified."
   },
   "last_interaction": {
-    "name": "Prospector Stormpike",
-    "observed_at": "2026-11-16T18:31:11-05:00",
-    "note": "Accepted Further Mysteries. Hunter training was recorded later at 18:33."
+    "name": "Reassignment turn-in",
+    "observed_at": "2026-11-17T16:52:00-05:00",
+    "note": "Last logged quest turn-in, with time recorded to the minute. The journal ends later in Goldshire by player account."
   },
   "confirmed_completed_quests": [
     "Coming of Age",
@@ -208,7 +206,9 @@
     "An Alarming Request",
     "Malin's Request",
     "Talk of the Town",
-    "Letter to Stormpike"
+    "Letter to Stormpike",
+    "Heart of Disruption",
+    "Reassignment"
   ],
   "confirmed_accepted_not_completed": [
     "Oh Brother...",
@@ -221,13 +221,13 @@
     "Blackrock Bounty",
     "In Search of the Excavation Team",
     "Further Mysteries",
-    "Heart of Disruption",
     "Starving Arcane"
   ],
   "quest_status_needs_recheck": [
     "Wetlands Excavation Site cleared November 15. Recheck the separate In Search of the Excavation Team quest state.",
     "Reconcile November 13 Wetlands excavation/Ormer/Fire Taboo work against precise quest completion records before marking any new Wetlands quest completed.",
-    "First recorded Night Watch stage turned in November 14; next stage accepted and completion unverified."
+    "First recorded Night Watch stage turned in November 14; next stage accepted and completion unverified.",
+    "Check the exact quest titles and completion states for the requests picked up at Nijel’s Point and the mudrock soup request in Dustwallow."
   ],
   "confirmed_progress": [
     "Joined Mid Life Aggro",
@@ -259,7 +259,9 @@
     "Reached level 28 in Darkshire; trained Aimed Shot Rank 2, Arcane Shot Rank 4, Aspect of the Hawk Rank 3, Frost Trap and Mend Pet Rank 3.",
     "Reached level 30 during Songblade Search. Defeated Saltspine, Shadetooth on the second pull, and the Relic Guardian. Looted the Golemsight Long Gun.",
     "Defeated Ghamoo-ra, Geilhast, Lady Sarevess, Twilight Lord Kelris and Aku’mai in Blackfathom Deeps. Obtained the final Corrupted Brain Stem after Aku’mai.",
-    "Obtained the Dalaran Sewer Key and reached level 32 in Ironforge. Trained Flare, Raptor Strike Rank 5, Track Demons and Intimidation."
+    "Obtained the Dalaran Sewer Key and reached level 32 in Ironforge. Trained Flare, Raptor Strike Rank 5, Track Demons and Intimidation.",
+    "Reached level 33 near Lordamere Lake. Completed two Dalaran runs and earned Defender of Dalaran. Sylthara fell to the Fallen Mages in the second run and was revived.",
+    "Player confirmed that Aelindra’s ranged weapon has a bow appearance through transmogrification."
   ],
   "character_continuity": [
     "High Order hunter, true name Aelindra Ser'jaen'thal. Blue Gale and Zephyr tattoos and her mother's pearls.",
@@ -283,12 +285,12 @@
     "Cleared Blackfathom Deeps with Fawney Catspirit, Static Hazards, Rioren Windstep, Timmay Birch and Sylthara. Timmay offered to help find the last brain stem and shared a camp bedroll after the run.",
     "Grouped with Issia Windsinger against the Torn Fin on the Hillsbrad coast and learned her convention for rolling on a shared chest."
   ],
-  "next_story_handoff": "Last confirmed at Ironforge in the evening. Further Mysteries sends the decrypted letter to Magistrate Maleb in Southshore. Dalaran sewer threads remain open.",
+  "next_story_handoff": "Start with Aelindra and Sylthara home in Goldshire. Check the quest log for the remaining Desolace, Dustwallow, and Kirin Tor errands.",
   "updated_through": {
-    "story_date": "2026-11-16",
-    "combat_log": "November 16 Blackfathom Deeps capture through 09:08 Eastern",
-    "player_account": "Used Aspect of the Cheetah for extensive quest travel."
+    "story_date": "2026-11-17",
+    "combat_log": "November 17 Dalaran runs through 15:02 Eastern",
+    "player_account": "Aelindra ended the day at home in Goldshire and carries a weapon with a bow appearance."
   },
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
-  "status": "November 16 approved journal published as The Road Again."
+  "status": "November 17 approved journal published as A Friend of the Kirin Tor."
 }

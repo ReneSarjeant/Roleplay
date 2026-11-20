@@ -3,35 +3,35 @@
   "character": "Aelindra Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
   "last_published_story": {
-    "date": "2026-11-19",
-    "title": "Bones and Bookcases",
-    "path": "RP/Aelindra/journal/2026-11-19/index.html"
+    "date": "2026-11-20",
+    "title": "A Light at Farholde",
+    "path": "RP/Aelindra/journal/2026-11-20/index.html"
   },
   "last_reconciled_session": {
     "live_dates": [
-      "2026-11-19"
+      "2026-11-20"
     ],
-    "story_date": "2026-11-19",
+    "story_date": "2026-11-20",
     "sources": [
       "ForeverJournal handwritten notes and events",
       "Road to Sixty",
       "Synced chat",
-      "November 19 combat logs",
-      "Loksey courtyard screenshot",
-      "Player account"
+      "Scarlet Monastery combat log",
+      "Badlands and inn screenshots",
+      "Spoken lore"
     ],
-    "scope": "Valley of Bones Ravager hunt, Scarlet Monastery Library, and return to Goldshire. Combat files cover monastery visits from 14:31 to 15:45 Eastern."
+    "scope": "Riverglades, Arathi Highlands, Scarlet Monastery Graveyard and Library, Badlands, and return to Farholde. Combat coverage 13:49–14:53 Eastern."
   },
   "last_known_position": {
-    "zone": "Elwynn Forest",
-    "landmark": "Lion’s Pride Inn, Goldshire",
-    "observed_at": "2026-11-19T17:06:06-05:00",
-    "confidence": "Handwritten end-of-day note."
+    "zone": "Riverglades",
+    "landmark": "Elk’s Horn Inn, Farholde Keep",
+    "observed_at": "2026-11-20T17:13:44-05:00",
+    "confidence": "Handwritten end-of-day note and 17:09 inn screenshot."
   },
   "last_interaction": {
-    "name": "Mythology of the Titans turned in",
-    "observed_at": "2026-11-19T16:28:38-05:00",
-    "note": "Last story-relevant quest turn-in."
+    "name": "Freshwater Fiends turned in to Benjy Wheeler",
+    "observed_at": "2026-11-20T17:04:34-05:00",
+    "note": "Last verified quest turn-in."
   },
   "confirmed_completed_quests": [
     "Coming of Age",
@@ -230,7 +230,29 @@
     "Gyrodrillmatic Excavationators",
     "Brother Anton",
     "Down the Scarlet Path (both stages)",
-    "Mythology of the Titans"
+    "Mythology of the Titans",
+    "Bartolo’s Yeti Fur Cloak",
+    "Assassin’s Contract",
+    "Crystal in the Mountains",
+    "The Princess Trapped",
+    "Stones of Binding",
+    "Archmage Antonidas: The Unabridged Autobiography",
+    "Hints of a New Plague?",
+    "The Riverglades Report",
+    "Bats in the Belfry",
+    "Keeping the Light On",
+    "In Memoriam",
+    "My Kingdom for a Horse",
+    "Foal Play",
+    "Love Thy Neighbor",
+    "Coyote Huntin’",
+    "Stuff ’Em and Stick ’Em",
+    "Breaking the Keystone",
+    "Myzrael’s Allies",
+    "Wheeler’s Fleeing Steeds",
+    "Rescue Roundup",
+    "Theldurin the Lost",
+    "Freshwater Fiends"
   ],
   "confirmed_accepted_not_completed": [
     "Oh Brother...",
@@ -248,7 +270,8 @@
     "Kurzen’s Mystery",
     "The Cook in the Cage",
     "Data Rescue",
-    "In the Name of the Light"
+    "In the Name of the Light",
+    "The Lost Fragments"
   ],
   "quest_status_needs_recheck": [
     "Wetlands Excavation Site cleared November 15. Recheck the separate In Search of the Excavation Team quest state.",
@@ -296,7 +319,9 @@
     "Trained Thrown in Darnassus and one- and two-handed axes in Ironforge.",
     "Aelindra was level 36 in her end-of-day journal note.",
     "Defeated Houndmaster Loksey and Arcanist Doan in the Scarlet Monastery Library and obtained the Scarlet Key.",
-    "Sylthara reached level 36 in the Library and received previously learned training afterward, per the player. Exact ranks unverified."
+    "Sylthara reached level 36 in the Library and received previously learned training afterward, per the player. Exact ranks unverified.",
+    "Took the Rod of Order after Fozruk fell. Defeated Interrogator Vishas and Bloodmage Thalnos, then Thalnos again during a partial Graveyard pass. Defeated Houndmaster Loksey and Arcanist Doan in Library.",
+    "Reached level 38 at Wheeler’s Grange and trained Wing Clip Rank 2. Died to an Enraged Rock Elemental at Agmond’s End with Sylthara also down. Both returned to Farholde Keep."
   ],
   "character_continuity": [
     "High Order hunter, true name Aelindra Ser'jaen'thal. Blue Gale and Zephyr tattoos and her mother's pearls.",
@@ -320,14 +345,16 @@
     "Cleared Blackfathom Deeps with Fawney Catspirit, Static Hazards, Rioren Windstep, Timmay Birch and Sylthara. Timmay offered to help find the last brain stem and shared a camp bedroll after the run.",
     "Grouped with Issia Windsinger against the Torn Fin on the Hillsbrad coast and learned her convention for rolling on a shared chest.",
     "Worked with Lionel Lionguard against Kurzen’s fighters. Erik Mcflagon invited her a moment too late for shared Sin’Dall credit, and Aelindra subsequently completed her own hunt.",
-    "Explored Gnomeregan with Katherine Cheshire, Caspar Croft, Faye Lorne, John Deathsunder and Sylthara. Thanked Katherine for guiding the group."
+    "Explored Gnomeregan with Katherine Cheshire, Caspar Croft, Faye Lorne, John Deathsunder and Sylthara. Thanked Katherine for guiding the group.",
+    "Timmay Birch and Poje Hammerstar helped Aelindra bring down Fozruk. Timmay offered to return when she needed help.",
+    "Graveyard party included Varreah Echoveil, Vikky Luv, Twinkle Lightspark, and Syndra Dusksworn. Sincerus Argentia joined for Library."
   ],
-  "next_story_handoff": "Start from the Lion’s Pride Inn in Goldshire. Aelindra has the Scarlet Key and In the Name of the Light. Check which other Scarlet Monastery wings she visits next and the exact ranks Sylthara learned.",
+  "next_story_handoff": "Start at the Elk’s Horn Inn in Farholde Keep. Aelindra is level 38 and Sylthara is with her. The Lost Fragments remains open in the Badlands after the death at Agmond’s End.",
   "updated_through": {
-    "story_date": "2026-11-19",
-    "combat_log": "November 19 Scarlet Monastery visits through 15:45 Eastern",
-    "player_account": "Handwritten notes confirm the group Ravager hunt and return to the Lion’s Pride Inn."
+    "story_date": "2026-11-20",
+    "combat_log": "November 20 Scarlet Monastery through 14:53 Eastern",
+    "player_account": "Handwritten note confirms end of day at the Elk’s Horn Inn."
   },
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
-  "status": "November 19 approved journal published as Bones and Bookcases."
+  "status": "November 20 approved journal published as A Light at Farholde."
 }

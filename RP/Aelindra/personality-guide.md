@@ -24,9 +24,9 @@ Her Common is clear and measured, with a touch of elven formality that relaxes i
 
 She often checks the sky before the ground, then takes her time studying a trail. She might glance toward a companion before choosing a path, adjust a feather caught in her gear, or notice her mother’s pearls when reminded of home. These are optional cues for play, not actions required in every scene.
 
-## Sylthara and Thalorien
+## Sylthara and Sammie
 
-Sylthara is her Prideclaw cat and regular companion on hunts and in dungeons. Young Thalorien (thah-LOR-ee-en), her Ursera bear, usually joins peaceful gatherings while Sylthara handles the more dangerous outings. Aelindra treats both as animals with needs and limits. Keep their responses open, and ask before another character feeds or touches them. Only the companion present needs to appear in a scene.
+Sylthara is her Prideclaw cat and regular companion on hunts and in dungeons. Sammie, the Siamese cat she found alone and adopted, joins peaceful gatherings while Sylthara handles the more dangerous outings. Aelindra treats both as animals with needs and limits. Keep their responses open, and ask before another character feeds or touches them. Only the companion present needs to appear in a scene.
 
 ## Home and what she knows
 
@@ -44,7 +44,7 @@ At a campfire: /e settles near the fire, leaving a little room beside her for Sy
 
 With Sylthara: /e crouches beside Sylthara and offers a quiet word, watching where the cat’s attention has settled.
 
-With Thalorien: /e keeps a gentle eye on Thalorien as the young bear investigates the gathering.
+With Sammie: /e keeps a gentle eye on Sammie, leaving the little Siamese cat room to settle.
 
 Learning a trail: /e studies a footprint, then glances up. “I think it went this way. Would you take a look?”
 

@@ -68,7 +68,7 @@ She is still learning, and she is still young. The human way of tracking is slow
 Name: Aelindra Sarjeant. True name: Aelindra Ser'jaen'thal. Race: Skyborne (Shen’dorei). Affiliation: High Order; Alliance. Class: Hunter. Age: young by elven reckoning; appears roughly 18–20 to human eyes. Birthplace: Zephras Isle. Residence: traveling. Eyes: light blue. Hair: blonde, Diva style. Skin: pale. Ears: short. Distinguishing marks: blue Gale facial tattoos and Zephyr body tattoos. Gold jewelry, pearl earrings, and feathers. Height: tall. Build: slender. Exact chronological age is not established.
 
 **Currently:**  
-Traveling through Azeroth, learning to read unfamiliar ground beneath a familiar sky. Practicing the tracking methods taught by a human instructor and tending her island companions, Sylthara the Prideclaw cat and Thalorien the Ursera bear. Sylthara is her regular companion for hunts and dungeons; young Thalorien generally rests safely and joins her for peaceful gatherings.
+Traveling through Azeroth, learning to read unfamiliar ground beneath a familiar sky. Practicing the tracking methods taught by a human instructor and tending her companions, Sylthara the Prideclaw cat and Sammie, a lonely Siamese cat she adopted. Sylthara joins hunts and dungeons; Sammie is her companion for quieter moments.
 
 **Description:**  
 A tall, slender young Skyborne with pale skin, short ears, and light blue eyes. Her blonde hair is arranged in the precise Diva style she favors, with blue Gale markings visible on her face and Zephyr tattoos where her clothing leaves them uncovered. Gold jewelry sits close to her body; pearl earrings and tucked feathers lend elegance to otherwise practical hunting gear. Her gaze often travels upward before returning to the path. When examining a track, she takes her time rather than pretending the answer is obvious.
@@ -107,7 +107,7 @@ Aelindra is a young hunter of the Skyborne High Order, accustomed to watching cu
 
 Most people know her as Sarjeant. Those who ask politely may hear the longer name, though she will not insist they pronounce it correctly on the first attempt. A clear lesson, a useful trail, or quiet company earns more of her attention than a grand claim.
 
-Her Prideclaw cat, Sylthara, is her trained companion on hunts and in dungeons. Thalorien, a young Ursera from the same island, is still growing and usually joins her for peaceful roleplay gatherings rather than dangerous expeditions. Both receive patient attention suited to their different experience.
+Her Prideclaw cat, Sylthara, is her trained companion on hunts and in dungeons. Sammie is a Siamese cat she found alone and took into her care. Sammie provides quiet companionship rather than joining dangerous expeditions.
 
 **Notes (private continuity):**  
 Year 25 setting. Exact chronological age is not established.
@@ -117,7 +117,7 @@ Her parents are scholars of modest standing. Do not invent their deaths or resol
 Gold jewelry and her mother’s pearl earrings connect her to home; no bereavement is implied.
 Sarjeant came from a human trainer’s pronunciation of Ser'jaen'thal. Shared surnames do not establish kinship with other characters.
 Ground tracking remains a developing skill. Preserve her existing island training and elemental awareness without making either infallible.
-Sylthara and Thalorien are her island companions. Sylthara is the principal leveling, dungeon and combat pet; Thalorien is young and mainly appears at peaceful RP events. Their names and everyday habits are roleplay additions, not official creature lore.
+Sylthara is her island-born Prideclaw and principal combat pet. Sammie is a rescued Siamese companion, named out of character in honor of the author's beloved Chiweenie. Aelindra never acquired the previously planned bear. Sammie's exact adoption location and date are unspecified.
 No direct Dalaran portal, new island victories, or additional quest deeds are established by these profiles.
 
 ## OOC
@@ -137,7 +137,7 @@ Use the pet profiles for the animal currently accompanying her. They do not requ
 Name: Sylthara. Title: Aelindra’s hunting companion. Species: Prideclaw (cat); native to Zephras Isle. Role: seasoned hunting and dungeon companion. Age, sex, coat color, and markings: unspecified; match the actual in-game pet.
 
 **Currently:**  
-Accompanying Aelindra on hunts, dungeon expeditions, and the trail, or resting nearby when the party stops. Thalorien usually remains safe while Sylthara undertakes the more dangerous work.
+Accompanying Aelindra on hunts, dungeon expeditions, and the trail, or resting nearby when the party stops. Sammie is a noncombat companion.
 
 **Description:**  
 A Prideclaw cat from Zephras Isle with a hunter’s attentive stillness. The head turns toward small sounds while the body remains quiet; movement follows in a few deliberate steps. Around Aelindra, the cat watches for a familiar cue before closing the distance. Coat and markings should follow the actual pet model.
@@ -169,40 +169,28 @@ Sylthara is Aelindra’s Prideclaw cat companion from Zephras Isle, a familiar p
 **OOC:**  
 Ordinary hunter companion, not a speaking familiar or an elemental. The temperament and name are new roleplay additions. Match appearance to the actual Prideclaw cat. Do not assume flight, supernatural tracking, guaranteed obedience, or a particular trained ability. Ask Aelindra before feeding or petting; leave reactions open.
 
-## Pet TRP3 — Thalorien (Ursera Bear)
+## Pet TRP3 — Sammie (Siamese Cat)
 
 **Characteristics:**  
-Name: Thalorien (thah-LOR-ee-en). Title: Aelindra’s young companion. Species: Ursera (bear); native to Zephras Isle. Role: peaceful RP companion, not the regular combat pet. Young; sex, coat color, and markings unspecified—match the in-game pet.
+Name: Sammie. Species: Siamese cat. Role: noncombat companion. Age and sex unspecified.
 
 **Currently:**  
-Joining Aelindra at a campfire or peaceful RP gathering, sniffing curiously at unfamiliar things, or resting safely while Sylthara accompanies her into danger.
+Keeping Aelindra company during quieter moments away from hunts and dungeons.
 
 **Description:**  
-A solidly built Ursera bear from Zephras Isle that gives unfamiliar things a long sniff before deciding whether they deserve another step. At rest, its weight settles heavily; when Aelindra moves, its attention returns to her direction and pace. Fur color and markings should match the actual pet model.
+A small Siamese cat. Match coat and markings to the in-game companion.
 
-**Glance 1 — Deliberate pace:**  
-Broad paws place their weight carefully when the route narrows or the footing changes.
+**Glance 1 — Quiet company:**  
+The little cat may settle nearby when the hunter rests.
 
-**Glance 2 — Working nose:**  
-The muzzle lifts to sample the air, then lowers toward something beside the path.
+**Glance 2 — Watchful ears:**  
+Her surroundings may draw the cat's attention.
 
-**Glance 3 — Space beside her:**  
-The bear occupies a substantial patch of ground near Aelindra. Passing travelers need room to go around.
-
-**Glance 4 — A pause for the unfamiliar:**  
-A new noise may bring the bear to a halt, head turned and body attentive.
-
-**Glance 5 — Resting weight:**  
-When settled, the bear looks thoroughly settled—until a familiar cue or an interesting smell lifts its head.
-
-**Personality:**  
-Young, affectionate with familiar company, curious about interesting smells, occasionally clumsy or mischievous, and capable of stubborn pauses. Comfortable company need not mean harmless company; Aelindra gives the bear room and expects others to do the same.
-
-**Motto / handler’s phrase:**  
-“Come along, Thalorien. That is somebody else’s supper.”
+**Glance 3 — Room to choose:**  
+Allow the cat to decide whether to approach an unfamiliar hand.
 
 **About / History:**  
-Thalorien is Aelindra’s young Ursera bear companion from Zephras Isle. While experienced Sylthara joins hunts and dungeons, Thalorien is still growing and mainly accompanies Aelindra to peaceful gatherings. His curiosity and occasional clumsiness contrast with the cat’s measured watchfulness. The bear’s presence offers familiar company while Aelindra learns the mainland, without turning either companion into a substitute for judgment. The name is a roleplay choice suggesting one of the high forest or elevated wilds; it does not establish a memorial or a death. No specific taming encounter is established.
+Aelindra found a lonely Siamese cat and adopted the little companion, naming the cat Sammie. Sylthara remains her trusted hunting and dungeon partner.
 
 **OOC:**  
-Ordinary hunter companion, not a spirit bear or an elemental. The temperament and name are new roleplay additions. Match appearance to the actual Ursera bear. No flight, magical protection, or particular trained ability is implied. Do not feed, ride, or touch without asking Aelindra; leave reactions and outcomes open.
+Sammie is named in honor of the author's beloved real-life Chiweenie. No exact adoption location or date is established. Noncombat companion; leave reactions open.

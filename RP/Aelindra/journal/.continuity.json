@@ -3,36 +3,32 @@
   "character": "Aelindra Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
   "last_published_story": {
-    "date": "2026-11-25",
-    "title": "Pirates, Sand and Goblin Hospitality",
-    "path": "RP/Aelindra/journal/2026-11-25/index.html"
+    "date": "2026-11-26",
+    "title": "The Gryphons and the Trolls of Jintha'Alor",
+    "path": "RP/Aelindra/journal/2026-11-26/index.html"
   },
   "last_reconciled_session": {
     "live_dates": [
-      "2026-11-24",
-      "2026-11-25"
+      "2026-11-26"
     ],
-    "story_date": "2026-11-25",
+    "story_date": "2026-11-26",
     "sources": [
-      "Published November 24 journal",
-      "November 25 synced ForeverJournal and Road to Sixty",
-      "WoWChatLog and BetterForeverChat",
-      "Spoken location lore",
-      "Gadgetzan reputation screenshot",
-      "Player account"
+      "ForeverJournal handwritten notes and WoWChatLog (prior draft review)",
+      "Road to Sixty (prior review reported)",
+      "Spoken Zones.lua and Subzones.lua"
     ],
-    "scope": "November 24 Riverglades, Gul’gash, fishing and Goldshire; November 25 travel, Tanaris, Wastewander and Southsea pirates. No matching raw November 25 combat log identified; individual combat performance unverified."
+    "scope": "Tanaris, Hinterlands, Aerie Peak, Jintha'Alor, Stormwind, Ironforge and Goldshire. No matching combat log listed; secondary chat attribution and screenshot visual inspection incomplete. Some narrative details were not independently reconfirmed."
   },
   "last_known_position": {
-    "zone": "Tanaris",
-    "landmark": "Gadgetzan inn",
+    "zone": "Elwynn Forest",
+    "landmark": "Lion's Pride Inn, Goldshire",
     "observed_at": null,
-    "confidence": "End-of-day location confirmed by player. Exact logout timestamp not established."
+    "confidence": "Handwritten journal reported return around 12:20 EST; prior review reported logout at 12:21 EST, not independently reconfirmed at publication."
   },
   "last_interaction": {
-    "name": "Pirate Hats Ahoy! turned in at Gadgetzan",
-    "observed_at": "2026-11-25T16:36:00-05:00",
-    "confidence": "Quest completion reported in session chat review; timestamp rounded to minute."
+    "name": "No exact final interaction verified for November 26",
+    "observed_at": null,
+    "confidence": "Unresolved"
   },
   "confirmed_completed_quests": [
     "Coming of Age",
@@ -364,7 +360,8 @@
     "Further Panther Mastery and Raptor Mastery stages were accepted. Verify current progress.",
     "Triage was attempted in Theramore and recorded as failed. Check whether it was picked up again.",
     "Check outstanding Powderfuse Port and Twilight’s Shroud quests before marking them complete.",
-    "Recheck exact names and turn-ins of other November 24–25 quests, and Uldaman preparations; do not infer completion from narrative."
+    "Recheck exact names and turn-ins of other November 24–25 quests, and Uldaman preparations; do not infer completion from narrative.",
+    "November 26: recheck exact five quest turn-ins, Mallet of Zul'Farrak and mechanical distress beacon acquisition, and any outstanding Hinterlands quests; narrative alone is not verification."
   ],
   "confirmed_progress": [
     "Joined Mid Life Aggro",
@@ -449,14 +446,15 @@
     "Ended the day at the Elk’s Horn Inn. Her handwritten note says she hopes to return to her bed in Goldshire soon.",
     "November 24: Slopper Plopper, Caster Sy and Seda Lruk helped against Gul’gash; Aelindra valued Sylthara’s safety. Rested at Lion’s Pride Inn in Goldshire.",
     "November 25: adventured with Izriel Lightborn, Lizzy Regina, Damer Flinne, Ellarosa Moonsong, Mylianne Telbrenique, Partypower Hc and guildmate Torbjorn Grymbeard; the latter two helped collect pirate hats.",
-    "November 25: ended the day with Sylthara at the inn in Gadgetzan, Tanaris."
+    "November 25: ended the day with Sylthara at the inn in Gadgetzan, Tanaris.",
+    "November 26 approved story: Aelindra names her Siamese companion Sammie and reflects on the Wildhammer affinity for gryphons and her Skyborne heritage; returns to Goldshire for Thanksgiving."
   ],
-  "next_story_handoff": "Begin from Gadgetzan inn in Tanaris at level 45, unless newer synced data establishes a different login position. Friendly with Gadgetzan and Powderfuse. Check outstanding Tanaris and Uldaman quests.",
+  "next_story_handoff": "Begin at Lion's Pride Inn in Goldshire, level 46 as reported in November 26 journal, with Sylthara and Sammie, unless new logs establish otherwise. Recheck Hinterlands quests and Mallet of Zul'Farrak before treating them as confirmed gameplay facts.",
   "updated_through": {
-    "story_date": "2026-11-25",
-    "combat_log": "No matching November 25 raw combat log found during review; no individual damage attribution.",
-    "player_account": "Confirmed end of day at Gadgetzan inn in Tanaris."
+    "story_date": "2026-11-26",
+    "combat_log": "No matching November 26 combat log listed; individual damage attribution unavailable.",
+    "player_account": "Prior draft reports handwritten note of Thanksgiving return to Goldshire."
   },
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
-  "status": "November 25 approved journal published as Pirates, Sand and Goblin Hospitality; November 24 published story reconciled."
+  "status": "November 26 approved journal published without illustration; some source reconciliation remains incomplete."
 }

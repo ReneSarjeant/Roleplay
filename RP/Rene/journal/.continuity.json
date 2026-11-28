@@ -2,17 +2,62 @@
   "schema_version": 1,
   "character": "René Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
-  "last_published_story": null,
-  "last_reconciled_session": null,
-  "last_known_position": null,
+  "last_published_story": {
+    "date": "2026-11-27",
+    "title": "A Pocketful of Bolts and a Handful of Fire",
+    "path": "RP/Rene/journal/2026-11-27/index.html"
+  },
+  "last_reconciled_session": {
+    "actual_dates": [
+      "2026-11-12",
+      "2026-11-27"
+    ],
+    "coverage": "Character-specific ForeverJournal and RoadToSixty reviewed; all early adventures compressed into November 27 by author request. Account-wide journal, chat, combat, screenshots and Spoken lore not fully reconciled."
+  },
+  "last_known_position": {
+    "location": "Kharanos, Thunderbrew Distillery",
+    "confidence": "Author-confirmed inn in dwarven starting region; character records support Kharanos."
+  },
   "last_interaction": null,
-  "confirmed_completed_quests": [],
-  "confirmed_accepted_not_completed": [],
-  "quest_status_needs_recheck": [],
-  "confirmed_progress": [],
-  "character_continuity": [],
-  "next_story_handoff": null,
-  "unprocessed_play_note": "No gameplay has been reconciled to a completed, published story in this continuity file. A prewritten placeholder is not evidence of gameplay; inspect synced logs before establishing where to begin.",
-  "updated_through": "2026-11-04",
+  "confirmed_completed_quests": [
+    "Dwarven Outfitters",
+    "Glyphic Memorandum",
+    "Coldridge Valley Mail Delivery",
+    "The Boar Hunter",
+    "A New Threat",
+    "Grund and Gozwin",
+    "The Troll Cave",
+    "A Refugee's Quandary",
+    "Scalding Mornbrew Delivery",
+    "Bring Back the Mug",
+    "The Stolen Journal",
+    "Senir's Observations",
+    "The Adventurer",
+    "The Great Outdoors",
+    "Supplies to Tannok",
+    "Tools for Steelgrill",
+    "Secure the Mountain"
+  ],
+  "confirmed_accepted_not_completed": [
+    "Find Mountaineer Cornelius for Mountaineer Gretchen",
+    "Deliver candles to Father Gavin"
+  ],
+  "quest_status_needs_recheck": [
+    "Other accepted quests and full log reconciliation"
+  ],
+  "confirmed_progress": [
+    "Level 6",
+    "Skinning 63/75",
+    "Joined Mid Life Aggro",
+    "Two recorded deaths, Wendigo Shaman and Wendigo"
+  ],
+  "character_continuity": [
+    "Born Nimbel Cogspool; answers to René",
+    "Unfinished clockwork bird and family fate remain unresolved",
+    "Tailoring supports daily needs; skinning funds future engineering; enchanting set aside per current character sheet"
+  ],
+  "next_story_handoff": "Begin from Kharanos inn; verify next login and pending quests. Avoid retelling early Coldridge adventures.",
+  "unprocessed_play_note": "Published early adventures using character-specific records; broader log review remains incomplete.",
+  "updated_through": "2026-11-27",
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory."
 }

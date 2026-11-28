@@ -451,12 +451,19 @@
     "November 26 approved story: Aelindra names her Siamese companion Sammie and reflects on the Wildhammer affinity for gryphons and her Skyborne heritage; returns to Goldshire for Thanksgiving.",
     "November 27 approved story: artisan fishing, Friendly with Booty Bay, deathless Razorfen Downs expedition with Deliah Greyholme, Maludos Shadewatcher, Yoggii Bear and Lamia Devlin, level 47 in Riverglades, and return to Goldshire. Sharpbeak remains unresolved."
   ],
-  "next_story_handoff": "Begin in Goldshire with Sylthara and Sammie, level 47 per approved story, unless new logs establish otherwise. Continue unresolved Sharpbeak thread and reconcile remaining quest states.",
+  "next_story_handoff": "Start the next session review on 2026-11-28 (America/New_York), using November 27 only as continuity context. Expected starting point: Lion's Pride Inn, Goldshire, level 47, with Sylthara and Sammie, unless today's synced records establish otherwise. Review all new November 28 handwritten ForeverJournal notes, chat, combat logs, RoadToSixty, relevant screenshots and Spoken location lore; do not retell already published November 27 events. Keep Sharpbeak unresolved until verified and reconcile outstanding quest states.",
   "updated_through": {
     "story_date": "2026-11-27",
     "combat_log": "Prior draft reports review; screenshot corroborates dungeon completion; full logs not independently rechecked during publication.",
     "player_account": "User approved supplied narrative and illustration; reported Goldshire endpoint."
   },
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
-  "status": "November 27 story and illustration approved; full underlying source reconciliation remains partial."
+  "status": "November 27 story and illustration published. Ready for November 28 session review; prior underlying source reconciliation remains partial.",
+  "next_session_review": {
+    "date": "2026-11-28",
+    "timezone": "America/New_York",
+    "status": "awaiting new session evidence",
+    "prior_published_through": "2026-11-27",
+    "scope": "New November 28 events only; earlier records may be consulted for continuity or unresolved quests. No November 28 gameplay is asserted or marked reconciled."
+  }
 }

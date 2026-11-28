@@ -3,30 +3,29 @@
   "character": "Aelindra Sarjeant",
   "purpose": "Private editorial bookmark (unlinked from site navigation). Read before writing a subsequent gameplay story; update ONLY after journal/log review and story publication. This dotfile is still visible in a public GitHub repository.",
   "last_published_story": {
-    "date": "2026-11-26",
-    "title": "The Gryphons and the Trolls of Jintha'Alor",
-    "path": "RP/Aelindra/journal/2026-11-26/index.html"
+    "date": "2026-11-27",
+    "title": "The Four Fish and the Fall of the Coldbringer",
+    "path": "RP/Aelindra/journal/2026-11-27/index.html"
   },
   "last_reconciled_session": {
     "live_dates": [
-      "2026-11-26"
+      "2026-11-27"
     ],
-    "story_date": "2026-11-26",
+    "story_date": "2026-11-27",
     "sources": [
-      "ForeverJournal handwritten notes and WoWChatLog (prior draft review)",
-      "Road to Sixty (prior review reported)",
-      "Spoken Zones.lua and Subzones.lua"
+      "User-approved supplied narrative based on prior log and journal review",
+      "Razorfen Downs screenshot WoWScrnShot_112726_152739.jpg"
     ],
-    "scope": "Tanaris, Hinterlands, Aerie Peak, Jintha'Alor, Stormwind, Ironforge and Goldshire. No matching combat log listed; secondary chat attribution and screenshot visual inspection incomplete. Some narrative details were not independently reconfirmed."
+    "scope": "Approved narrative covers Hinterlands, fishing across two continents, Nethergarde, Razorfen Downs, Stormwind, Dalaran, Riverglades and Goldshire. Complete primary logs and RoadToSixty not independently reconciled during publication."
   },
   "last_known_position": {
     "zone": "Elwynn Forest",
     "landmark": "Lion's Pride Inn, Goldshire",
     "observed_at": null,
-    "confidence": "Handwritten journal reported return around 12:20 EST; prior review reported logout at 12:21 EST, not independently reconfirmed at publication."
+    "confidence": "Player explicitly reported end of day in Goldshire; approved narrative places her at the inn."
   },
   "last_interaction": {
-    "name": "No exact final interaction verified for November 26",
+    "name": "No exact final interaction verified",
     "observed_at": null,
     "confidence": "Unresolved"
   },
@@ -361,7 +360,8 @@
     "Triage was attempted in Theramore and recorded as failed. Check whether it was picked up again.",
     "Check outstanding Powderfuse Port and Twilight’s Shroud quests before marking them complete.",
     "Recheck exact names and turn-ins of other November 24–25 quests, and Uldaman preparations; do not infer completion from narrative.",
-    "November 26: recheck exact five quest turn-ins, Mallet of Zul'Farrak and mechanical distress beacon acquisition, and any outstanding Hinterlands quests; narrative alone is not verification."
+    "November 26: recheck exact five quest turn-ins, Mallet of Zul'Farrak and mechanical distress beacon acquisition, and any outstanding Hinterlands quests; narrative alone is not verification.",
+    "November 27: approved story reports four fish delivered to Nat Pagle, Coldbringer turn-ins to Benedictus and Lan'dalock, and Hinterlands tasks; exact quest IDs and completion records require independent reconciliation. Sharpbeak still unresolved."
   ],
   "confirmed_progress": [
     "Joined Mid Life Aggro",
@@ -414,7 +414,8 @@
     "Joined the Drowned City group halfway through the instance.",
     "November 24: reached level 44, defeated Gul’gash after repeated attempts, fished near Farholde Keep and ended in Goldshire, per published journal.",
     "November 25: reached level 45 in Tanaris; defeated Caliph Scorpidsting and Andre Firebeard; reached Friendly with Powderfuse and Gadgetzan, and turned in twenty pirate hats.",
-    "November 25: gained Neutral standing with the Shen’dralar and acquired a Siamese cat, per reviewed journal draft."
+    "November 25: gained Neutral standing with the Shen’dralar and acquired a Siamese cat, per reviewed journal draft.",
+    "November 27: RFD screenshot confirms completion in 30:56 with zero party deaths; approved narrative reports victory over Amnennar."
   ],
   "character_continuity": [
     "High Order hunter, true name Aelindra Ser'jaen'thal. Blue Gale and Zephyr tattoos and her mother's pearls.",
@@ -447,14 +448,15 @@
     "November 24: Slopper Plopper, Caster Sy and Seda Lruk helped against Gul’gash; Aelindra valued Sylthara’s safety. Rested at Lion’s Pride Inn in Goldshire.",
     "November 25: adventured with Izriel Lightborn, Lizzy Regina, Damer Flinne, Ellarosa Moonsong, Mylianne Telbrenique, Partypower Hc and guildmate Torbjorn Grymbeard; the latter two helped collect pirate hats.",
     "November 25: ended the day with Sylthara at the inn in Gadgetzan, Tanaris.",
-    "November 26 approved story: Aelindra names her Siamese companion Sammie and reflects on the Wildhammer affinity for gryphons and her Skyborne heritage; returns to Goldshire for Thanksgiving."
+    "November 26 approved story: Aelindra names her Siamese companion Sammie and reflects on the Wildhammer affinity for gryphons and her Skyborne heritage; returns to Goldshire for Thanksgiving.",
+    "November 27 approved story: artisan fishing, Friendly with Booty Bay, deathless Razorfen Downs expedition with Deliah Greyholme, Maludos Shadewatcher, Yoggii Bear and Lamia Devlin, level 47 in Riverglades, and return to Goldshire. Sharpbeak remains unresolved."
   ],
-  "next_story_handoff": "Begin at Lion's Pride Inn in Goldshire, level 46 as reported in November 26 journal, with Sylthara and Sammie, unless new logs establish otherwise. Recheck Hinterlands quests and Mallet of Zul'Farrak before treating them as confirmed gameplay facts.",
+  "next_story_handoff": "Begin in Goldshire with Sylthara and Sammie, level 47 per approved story, unless new logs establish otherwise. Continue unresolved Sharpbeak thread and reconcile remaining quest states.",
   "updated_through": {
-    "story_date": "2026-11-26",
-    "combat_log": "No matching November 26 combat log listed; individual damage attribution unavailable.",
-    "player_account": "Prior draft reports handwritten note of Thanksgiving return to Goldshire."
+    "story_date": "2026-11-27",
+    "combat_log": "Prior draft reports review; screenshot corroborates dungeon completion; full logs not independently rechecked during publication.",
+    "player_account": "User approved supplied narrative and illustration; reported Goldshire endpoint."
   },
   "update_rule": "After a story is approved and committed, record its date/path, last VERIFIED interaction/location, completed and outstanding quests, relationships, moral or personality changes, and any uncertainty. Do not mark an unverified event completed. Read existing character sheet for static backstory.",
-  "status": "November 26 approved journal published without illustration; some source reconciliation remains incomplete."
+  "status": "November 27 story and illustration approved; full underlying source reconciliation remains partial."
 }
